@@ -1,7 +1,7 @@
 # DOD-RECON
 Department of Defense's HackerOne Program
 
-<a href="https://twitter.com/nobbieboy_1337"><img src="https://img.shields.io/twitter/follow/pdnuclei.svg?logo=twitter"></a>
+<a href="https://twitter.com/nobbieboy_1337"><img src="https://img.shields.io/twitter/follow/nobbieboy_1337.svg?logo=twitter"></a>
 <a href="https://discord.gg/Wk5yAhFv"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
 
 Summary
