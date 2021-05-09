@@ -1,0 +1,184 @@
+<html lang="en"><head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="Expires" content="0">
+        <title>CAC / PKE Selection Page</title>
+    <link href="css/ias-portal.cb7dcf5e8f9f70483519.css" rel="stylesheet"></head>
+
+    <body>
+        <div class="app-view" style="display: block;">
+            <div class="main-view" style="display: block;">
+                <div class="ias-container">
+                    <div class="ias-login-form">
+                        <div class="dod-header"><img src="img/mhs_ias_header.png"></div>
+
+                        <div class="pke-message-bar">This Website has been Public Key Enabled</div>
+
+                        <div class="pke-instructions">
+                            <div class="consent-message">
+                                <p class="consent-title">
+                                    <b>MANDATORY DOD NOTICE AND CONSENT BANNER</b>
+                                </p>
+                                <p class="consent-subtitle">
+                                    You are accessing a U.S. Government (USG) Information System
+                                    (IS) that is provided for USG-authorized use only.
+                                </p>
+                                <p class="consent-subtitle">
+                                    <b>By using this IS (which includes any device attached to
+                                        this IS), you consent to the following conditions:</b>
+                                </p>
+                                <ul class="consent-list">
+                                    <li>
+                                        The USG routinely intercepts and monitors communications on
+                                        this IS for purposes including, but not limited to,
+                                        penetration testing, COMSEC monitoring, network operations
+                                        and defense, personnel misconduct (PM), law enforcement
+                                        (LE), and counterintelligence (CI) investigations.
+                                    </li>
+                                    <li>
+                                        At any time, the USG may inspect and seize data stored on
+                                        this IS.
+                                    </li>
+                                    <li>
+                                        Communications using, or data stored on, this IS are not
+                                        private, are subject to routine monitoring, interception,
+                                        and search, and may be disclosed or used for any
+                                        USG-authorized purpose.
+                                    </li>
+                                    <li>
+                                        This IS includes security measures (e.g., authentication and
+                                        access controls) to protect USG interests not for your
+                                        personal benefit or privacy.
+                                    </li>
+                                    <li>
+                                        Notwithstanding the above, using this IS does not constitute
+                                        consent to PM, LE or CI investigative searching or
+                                        monitoring of the content of privileged communications, or
+                                        work product, related to personal representation or services
+                                        by attorneys, psychotherapists, or clergy, and their
+                                        assistants. Such communications and work product are private
+                                        and confidential. See User Agreement for details.
+                                    </li>
+                                </ul>
+                            </div>
+                            <div>
+                                <div class="pke-icon"><img src="img/pke.png"></div>
+                                <div class="pke-text">
+                                    <p>
+                                        Please click on "Accept DoD Notice &amp; Login" below to access
+                                        the application using your DoD Common Access Card (CAC),
+                                        Department of Veterans Affairs (VA) Personal Identification
+                                        Verification (PIV) card, or DoD Approved ORC or IdenTrust
+                                        External Certificate Authority (ECA) certificate.
+                                    </p>
+                                    <p>
+                                        Make sure that your DoD CAC, ECA or VA PIV is inserted into
+                                        the CAC/PIV reader so that your identity certificate is
+                                        available to the web browser
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="ias-error">
+                            <div class="ias-error-icon"><span class="alert-icon"></span></div>
+                            <div class="ias-error-message"></div>
+                        </div>
+
+                        <div class="cac-login">
+                            <div class="cac-update-profile-section">
+                                <div class="cac-update-profile" style="display: block;">
+                                    <div class="cac-update-profile-text">If you need to update your Enterprise Profile, click the link below:</div>
+
+                                    <div class="cac-update-profile-link">
+                                        <a href="https://iascac.csd.disa.mil:443/amserver/RUI/?action=profile&amp;realm=/pki&amp;goto=https%3A%2F%2Feasdemotrain.csd.disa.mil%3A443%2Fagentapp%2FsunwCDSSORedirectURI%3Fnonce%3DtKfSP5v7AsKIwJXWBz2px0O3pI8%26realm%3D%2Fpki">Update your Enterprise Profile</a>
+                                    </div>
+                                </div>
+
+                                <form method="post" class="cac-login-form">
+                                    <input class="user-name-input" type="text" placeholder="User Name">
+                                    <input class="password-input" type="password" placeholder="Password" autocomplete="off">
+                                    <button class="login-button" type="submit">LOG IN</button>
+                                </form>
+                            </div>
+
+                            <div class="cac-auth-certificate">
+                                <div class="cac-auth-text">
+                                    To authenticate with your DoD CAC, VA PIV or ECA certificate,
+                                    click the button below acknowledging the DoD Notice and Consent
+                                    warning
+                                </div>
+
+                                <div class="cac-icon">
+                                    <a class="cert-login-link" href="https://iascac.csd.disa.mil:443/amserver/RUI/?action=cert&amp;realm=/pki&amp;goto=https%3A%2F%2Feasdemotrain.csd.disa.mil%3A443%2Fagentapp%2FsunwCDSSORedirectURI%3Fnonce%3DtKfSP5v7AsKIwJXWBz2px0O3pI8%26realm%3D%2Fpki">
+                                        <img src="img/cac_yes_sm.png">
+                                    </a>
+                                </div>
+
+                                <div class="cac-no-certificate">
+                                    <a class="cac-anonymous-link" href="javascript:void(0);">
+                                        If you don't have a DoD CAC, VA PIV or ECA certificate,
+                                        click here
+                                    </a>
+                                </div>
+                            </div>
+
+                            <div class="cac-update-email-section">
+                                <div class="cac-update-email-input">
+                                    <div class="cac-update-email-title">
+                                        Please provide your Primary and Alternate (optional) E-mail
+                                        address:
+                                    </div>
+                                    <div class="email-group">
+                                        <label for="primary-email-input"><span>*</span>Primary E-mail</label>
+                                        <input id="primary-email-input" maxlength="50" type="text">
+                                    </div>
+                                    <div class="email-group">
+                                        <label for="primary-email-confirmation-input"><span>*</span>Confirm Primary E-mail</label>
+                                        <input id="primary-email-confirmation-input" maxlength="50" type="text">
+                                    </div>
+                                    <div class="email-group">
+                                        <label for="alternate-email-input">Alternate E-mail</label>
+                                        <input id="alternate-email-input" maxlength="50" type="text">
+                                    </div>
+                                    <div class="email-group">
+                                        <label for="alternate-email-confirmation-input">Confirm Alternate E-mail</label>
+                                        <input id="alternate-email-confirmation-input" maxlength="50" type="text">
+                                    </div>
+                                    <div class="update-email-button-group">
+                                        <button id="skip-email-update-button" type="button">
+                                            Skip
+                                        </button>
+                                        <button id="update-email-button" type="button">
+                                            Update E-mail
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="cac-update-email-instructions">
+                                    Your E-mail:
+                                    <ul>
+                                        <li>Must be no more than 50 characters in length</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="ias-footer">
+                    <p>
+                        This web site of the Military Health System - The Pentagon, Washington, D.C.
+                        20301-1200
+                    </p>
+                    <p>
+                        For Help, please contact
+                        <a href="javascript:alert('MHS Service Desk:1-800-600-9332');">MHS Helpdesk</a>. For Official Use Only.
+                    </p>
+                </div>
+            </div>
+        </div>
+    <script type="text/javascript" src="scripts/vendors~ias-portal.cb7dcf5e8f9f70483519.js"></script><script type="text/javascript" src="scripts/ias-portal.cb7dcf5e8f9f70483519.js"></script>
+
+</body></html>

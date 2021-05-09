@@ -1,0 +1,355 @@
+<html dir="ltr" style="visibility: visible;" lang="en-US-ORACLE9I"><head>
+   <title>Standard Mandatory DoD Notice and Consent Banner</title>
+   <meta http-equiv="X-UA-Compatible" content="IE=10">
+   <meta http-equiv="text/html;charset=UTF8">
+   <meta name="generator" content="Oracle UIX">
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <link rel="stylesheet" charset="UTF-8" type="text/css" href="/OA_HTML/alta-desktopEXTN-custom-12_2_5_0_0-en-ie-11-windows.css">
+   <script>var _UixWindowOpenError='A popup window blocker has been detected in your browser. Popup blockers interfere with the operation of this application. Please disable your popup blocker or allow popups from this site.'</script>
+   <script src="/OA_HTML/cabo/jsLibs/Common12_2_5_0_0.js"></script>
+   <script>_defaultTZ()</script><script language="javascript" src="/OA_HTML/cabo/oajsLibs/oafcoreR122.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/oaGestureHandler.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/popup.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/oaGestureLib.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/mainMenuTree.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/flexibleLayout.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/FNDWFWorklistService.js"></script>
+   <script language="javascript" src="/OA_HTML/cabo/oajsLibs/oafb.js"></script>
+
+   <script language="JavaScript" type="text/javascript">
+
+       function onOKClick()
+       { 
+           document.cookie="DAIBAN1=banner_appsLogin.jsp;path=/OA_HTML";
+           window.location.href='https://ebs.dai.csd.disa.mil:443/OA_HTML/banner_appsLogin2.jsp';
+       }
+   </script>
+
+</head>
+<body class="xk" onload="return _chain('_checkLoad(event)','null;attachGestureToDocumentBody();',this,event)" onunload="_checkUnload(event)" onbeforeunload="_savePageStateIE()" style="cursor: default;">
+   <iframe id="_pprIFrame" name="_pprIFrame" title="" src="/OA_HTML/cabo/images/skyros/t.htm" style="position:absolute;top:-100;visibility:hidden" width="0" height="0" frameborder="0"></iframe>
+   <div id="_pprBlockingDiv" onclick="return _pprConsumeClick(event);" style="position:absolute;left:0;top:0;width:0;height:0;cursor:wait;" onkeyup="return false;" onkeydown="return false;" onkeypress="return false;"></div>
+   <div id="_uixDownload" style="behavior:url(#default#download)" class="x3g"></div>
+   <script>var _cachedLibs;</script>
+   <script>var _pprFirstClickPass=true;</script>
+   <span id="_pprPageContent"><div id="oafwindowsizediv" style="height: 100%; position: absolute; overflow: auto; width: 100%; z-index: -99999; visibility: hidden;"></div>
+   <div class="x8l" id="_oafOraBodyContainer"><form id="DefaultFormName" name="DefaultFormName" style="margin:0px" method="POST" action="/OA_HTML/OA.jsp?page=/oracle/apps/fnd/framework/navigate/webui/NewHomePG&amp;homePage=Y&amp;_ti=494878916&amp;retainAM=Y&amp;addBreadCrumb=N&amp;OAPB=FWK_HOMEPAGE_BRAND&amp;OAMC=G&amp;oapc=5&amp;oas=Ci6MAMbYUzkKLLeT6GmMww.."><input id="_AM_TX_ID_FIELD" type="hidden" value="1jugxuzag" name="_AM_TX_ID_FIELD"><input id="_FORM" type="hidden" value="DefaultFormNameM0IgeaQD" name="_FORM"><span id="lovHFCId"></span><span id="PageLayoutRN"><div id="popUpMenuTempContainer"><div id="menuHoldingContainer"></div>
+</div>
+   <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+         <td>
+            <table class="globalHeader" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody><tr class="x8b">
+                  <td class="xap"><img src="/OA_MEDIA/dailogo.gif" title="Defense Agencies Initiative (DAI)" alt="Defense Agencies Initiative (DAI)" border="0"></td>
+                  <td class="x8e"><span title="Defense Agencies Initiative (DAI)" style="position:relative"><span class="x4j">Defense Agencies Initiative (DAI)</span></span><script>var _tURL="\x2FOA_HTML\x2Fcabo\x2Fimages\x2Fskyros\x2Ft.gif";var _axm;t('0','14')</script><img src="/OA_HTML/cabo/images/skyros/t.gif" width="0" height="14"></td>
+                  <td>
+                     <table id="globalHeaderID" align="right">
+                        <tbody><tr>
+                           <td></td>
+                           <td></td>
+                           <td style="display: inline-block;"><link id="alta" rel="stylesheet" type="text/css" href="/OA_HTML/cabo/styles/OAFSlideoutMenu_skyros.css">
+                              <table id="topmenubar" class="Menu" style="width: auto;">
+                              <tbody>
+                                 <tr class="topmenudiv">
+                                    <td><div class="Menu_ItemLink" style="padding-left: 2px"><a rel="FavList" href="#" name="Fav" id="SFAV"><div><img class="drimage1" style="border:none;" src="/OA_MEDIA/fnd_t.gif" title="Favorites" alt="Favorites"></div></a></div><script type="text/javascript"> if(document.getElementById('topmenubar')) { oafsm.setup("topmenubar", "topbar",escape('RF.jsp?function_id=MAINMENUREST&security_group_id=0'),'false',false,'Loading...') }</script><div class="menuPopup_Position"><div id="SFavTop" style="position:absolute;display:none"><ul id="FavList" class="submenustyle"></ul></div></div></td>
+                                 </tr>
+                              </tbody>
+                              </table>
+                           </td>
+                           <td>
+                              <div style="position:relative"><a onclick="menus['settingsMenu'].invokeMenu(this,event);" onkeydown="menus['settingsMenu'].invokeMenuUsingKey(this,event);" class="x8c" href="#" title="Settings" role="button" aria-haspopup="true"><div><img src="/OA_MEDIA/fnd_t.gif" title="Settings" alt="Settings" border="0"><img src="/OA_MEDIA/fnd_t.gif" alt="" style="margin-left:4px;border:0px"></div></a><div id="menuDiv:settingsMenu" role="menu" class="xa1" style="display:none; background-color:#FFFFFF;">
+                                 <table role="presentation" style="border-collapse:collapse;">
+                                 <tbody>
+                                    <tr id="Preferences" onclick="return _chain('menus[\'settingsMenu\'].closeMenuOnAction(this,event);','location.href=\'OA.jsp?page=/oracle/apps/fnd/preferences/webui/PreferencesPG&amp;retainAM=Y&amp;_ti=494878916&amp;oapc=5&amp;menu=Y&amp;addBreadCrumb=S&amp;OAPF=Y&amp;oas=u-Cq5dhJlZWv0c3k1rembQ..\';',this,event)" onmouseover="menus['settingsMenu'].mouseOverOnMenuItem(this,event)" onmouseout="menus['settingsMenu'].mouseOutOnMenuItem(this,event)" onkeydown="menus['settingsMenu'].focusMenu(event, this);" href="OA.jsp?page=/oracle/apps/fnd/preferences/webui/PreferencesPG&amp;retainAM=Y&amp;_ti=494878916&amp;oapc=5&amp;menu=Y&amp;addBreadCrumb=S&amp;OAPF=Y&amp;oas=u-Cq5dhJlZWv0c3k1rembQ.." role="menuitem" hidealt="Hide" showalt="Show" tabindex="0" class="xa0">
+                                       <td style="padding-left:7px"><img id="Preferences:select" name="Preferences:select" src="/OA_HTML/cabo/images/skyros/t.gif" alt="" border="0"></td>
+                                       <td><span class="OraMenuItemText">Preferences</span></td>
+                                       <td><img src="/OA_HTML/cabo/images/skyros/t.gif" alt="" border="0"></td>
+                                    </tr><tr id="ManageProxies" onclick="return _chain('menus[\'settingsMenu\'].closeMenuOnAction(this,event);','location.href=\'OA.jsp?page=/oracle/apps/fnd/umx/proxy/webui/ManageProxiesPG&amp;_ri=0&amp;_ti=494878916&amp;oapc=5&amp;menu=Y&amp;oas=VuBPvUmhrrkiWaUg66gjOA..\';',this,event)" onmouseover="menus['settingsMenu'].mouseOverOnMenuItem(this,event)" onmouseout="menus['settingsMenu'].mouseOutOnMenuItem(this,event)" onkeydown="menus['settingsMenu'].focusMenu(event, this);" href="OA.jsp?page=/oracle/apps/fnd/umx/proxy/webui/ManageProxiesPG&amp;_ri=0&amp;_ti=494878916&amp;oapc=5&amp;menu=Y&amp;oas=VuBPvUmhrrkiWaUg66gjOA.." role="menuitem" hidealt="Hide" showalt="Show" tabindex="0" class="xa0">
+                                        <td style="padding-left:7px"><img id="ManageProxies:select" name="ManageProxies:select" src="/OA_HTML/cabo/images/skyros/t.gif" alt="" border="0"></td>
+                                        <td><span class="OraMenuItemText">Manage Proxies</span></td>
+                                        <td><img src="/OA_HTML/cabo/images/skyros/t.gif" alt="" border="0"></td>
+                                    </tr><tr id="AccessRequests" onclick="return _chain('menus[\'settingsMenu\'].closeMenuOnAction(this,event);','location.href=\'OA.jsp?page=/oracle/apps/fnd/umx/accessRequest/webui/MyAppAccessPG&amp;_ri=0&amp;_ti=494878916&amp;oapc=5&amp;menu=Y&amp;oas=4mG-wlaPHZM4SGbVa1zMrw..\';',this,event)" onmouseover="menus['settingsMenu'].mouseOverOnMenuItem(this,event)" onmouseout="menus['settingsMenu'].mouseOutOnMenuItem(this,event)" onkeydown="menus['settingsMenu'].focusMenu(event, this);" href="OA.jsp?page=/oracle/apps/fnd/umx/accessRequest/webui/MyAppAccessPG&amp;_ri=0&amp;_ti=494878916&amp;oapc=5&amp;menu=Y&amp;oas=4mG-wlaPHZM4SGbVa1zMrw.." role="menuitem" hidealt="Hide" showalt="Show" tabindex="0" class="xa0">
+                                         <td style="padding-left:7px"><img id="AccessRequests:select" name="AccessRequests:select" src="/OA_HTML/cabo/images/skyros/t.gif" alt="" border="0"></td>
+                                         <td><span class="OraMenuItemText">Access Requests</span></td>
+                                         <td><img src="/OA_HTML/cabo/images/skyros/t.gif" alt="" border="0"></td>
+                                    </tr>
+                                 </tbody>
+                                 </table>
+                              </div>
+                              <script language="javascript">menus['settingsMenu']= new Menu();menus['settingsMenu'].initMenu('settingsMenu');</script></div></td>
+                           <td></td>
+                           <td></td>
+                           <td></td>
+                           <td style="padding: 0 10px 0 0"><div style="border-left: 1px solid #A1BFDE; display: inline;"></div></td>
+                           <td class="x8d"><span class="x2v">From Server </span><span class="x2u">36125</span></td>
+                           <td><a class="x8c" href="javascript:top.help_window()"><div><img src="/OA_MEDIA/fnd_t.gif" title="Help" alt="Help" border="0"></div></a></td>
+                           <td></td>
+                           <td><a class="x8c" href="/OA_HTML/OALogout.jsp?menu=Y"><div><img src="/OA_MEDIA/fnd_t.gif" title="Logout" alt="Logout" border="0"></div></a></td>
+                        </tr>
+                     </tbody></table>
+                  </td>
+               </tr>
+               <tr id="pageHeader2" class="x8g">
+                  <td colspan="3"></td>
+               </tr><tr>
+                   <td colspan="3"></td>
+               </tr>
+            </tbody></table>
+         </td>
+      </tr>
+   </tbody></table>
+   <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+         <td width="100%"><div class="x9u"><div><div class="pagetopborderleft"></div><div class="pagetopbordermiddle"></div><div class="pagetopborderright"></div></div></div><div class="x9r"><div>
+            <table class="x7g" style="background-image:url(/OA_HTML/cabo/images/skyros/navBarUnderTopTabsBg.gif);" id="OraGlobalHeader" width="100%" cellspacing="0" cellpadding="0" border="0">
+               <tbody><tr>
+                  <td></td>
+               </tr>
+            </tbody></table></div></div>
+         </td>
+      </tr>
+   </tbody></table>
+   <div id="oafcontent"><div style=""><div style="padding: 6px; height: auto;" id="oafusercontent"><div class="x6w">
+   <table class="x88" width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+         <td></td>
+         <td style="font-size:0px"><script>t('5','1')</script><img src="/OA_HTML/cabo/images/skyros/t.gif" width="5" height="1"></td><td></td>
+      </tr>
+   </tbody></table>
+   <table id="FwkErrorBeanId" width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr>
+         <td></td>
+      </tr>
+   </tbody></table><div></div><div></div><div class="x8a"><div><div class="x6d">
+   <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr class="xaq">
+         <td width="100%"><h1 class="x1f">Standard Mandatory Dod Notice and Consent Banner</h1></td>
+      </tr><tr>
+         <td><span class="x5i">Dated/Effective : May 9, 2008</span></td> 
+      </tr>
+   </tbody></table></div><div class="x7m">
+   <table width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tbody><tr valign="top">
+         <td><span id="openNTF"></span></td>
+         <td nowrap="" align="right"></td>
+      </tr><tr>
+         <td><script>t('1','2')</script><img src="/OA_HTML/cabo/images/skyros/t.gif" width="1" height="2"></td>
+      </tr>
+   </tbody></table><noscript>JavaScript enabled browser required.</noscript><div></div><img id="Status" name="Status" src="/OA_MEDIA/fnd_t.gif" title="The application is running in inaccessible mode. This can be changed from the preferences screen." alt="The application is running in inaccessible mode. This can be changed from the preferences screen." border="0"><div></div>
+   <table id="mainLayout" style="" width="100%">
+   <tbody>
+      <tr id="mainLayout_internalRow1" style="">
+         <td id="mainLayout_internalRow1_Col2" style="" valign="top" align="left"><div id="mainLayout_div" style="float:center; horizontal-align:left; ">
+            <table id="mainLayout_internalTable" "="" style="" width="100%">
+            <tbody>
+               <tr id="mainLayout_row_0" halign="left">
+                  <td id="menuLayout" style="" width="320px" valign="top" height="450px" align="left">
+                     <table id="menuLayout_internalTable1" style="" width="100%">
+                     <tbody>
+                        <tr id="menuLayout_internalTable1_Row1" style="">
+                           <td id="menuLayout_internalRow1_Col2" style="" width="" valign="top" height="" align="left"><div id="menuLayout_div" style="width:100%; height:450px; float:center; horizontal-align:left; overflow:auto ;">
+                              <table id="menuContent" style="" width="100%">
+                              <tbody>
+                                 <tr id="menuContent_internalRow1" style="">
+                                    <td id="menuContent_internalRow1_Col2" style="" valign="top" align="left">
+                                        <table id="menuTable" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                          <tbody><tr id="PersonalizeRow">
+                                             <td id="PersonalizeCell">
+						                        <table id="header" class="xar" width="100%" cellspacing="0" cellpadding="0" border="0">
+                                                   <tbody><tr>
+                                                      <td>
+	                                                     <table width="100%" cellspacing="5" cellpadding="5" border="0">
+	                                                        <tbody><tr>
+	                                                           <td>
+		                                                          <table with="100%" class="xaf" cellspacing="x5" cellpadding="5" border="0">
+		                                                             <tbody><tr>
+                                                                        <td>
+You are accessing a U.S. Government (USG) information system (IS) that is provided for USG-authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions: 
+                                                                        </td>
+		                                                             </tr><tr>
+                                                                        <td>
+<img src="/OA_MEDIA/text_bullet.gif" alt="*" border="0">The USG routinely intercepts and monitors communications occurring on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations. 
+                                                                             </td>
+		                                                             </tr><tr>
+		                                                                <td>
+<img src="/OA_MEDIA/text_bullet.gif" alt="*" border="0">At any time, the USG may inspect and seize data stored on this IS. 
+                                                                                </td>
+		                                                             </tr><tr>
+                                                                        <td>
+<img src="/OA_MEDIA/text_bullet.gif" alt="*" border="0">Communications using, or data stored on, this IS are not private, are subject to routine monitoring, 
+interception, and search, and may be disclosed or used for any USG-authorized purpose. 
+                                                                         </td>
+		                                                             </tr><tr>
+                                                                        <td>
+<img src="/OA_MEDIA/text_bullet.gif" alt="*" border="0">This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy. 
+</td>
+		                                                             </tr><tr>
+                                                                        <td>
+Notwithstanding the above, using this IS does not constitute consent to PM, LE or CI investigative searching or monitoring of the content of privileged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details. 
+                                                                         </td>
+                                                                             </tr><tr>
+                                                                          <td>
+        <table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+                <td colspan="2" valign="right"><img src="/OA_MEDIA/text_bullet.gif" alt="*" border="0">
+                     <b>Document Upload Warning</b></td>
+             </tr><tr>
+                     <td class="x5i">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                     <td>This System is UNCLASSIFIED/FOR OFFICIAL USE ONLY.</td>
+             </tr><tr>
+                     <td><img src="/OA_MEDIA/fnd_t.gif" height="20"></td>
+                     <td valign="bottom">Do not scan, upload or transmit "classified" documents into the DAI System.</td>
+                </tr><tr>
+                     <td></td>
+                     <td>If any classified document is inadvertently uploaded; please contact your Agency Tier 1 Help Desk and the DAI Help Desk immediately for assistance.</td>
+                </tr><tr>
+                      <td><img src="/OA_MEDIA/fnd_t.gif" height="20"></td>
+                     <td>Ensure you follow the proper document naming convention.</td>
+                </tr>               
+          </tbody></table>
+                                                                             </td>
+                                                                          </tr><tr>      
+
+
+		                                                                <td>
+		                                                                   <br>
+		                                                                   <center>
+                                                                           
+                                                                              <input type="button" value="   OK    " onclick="onOKClick();">
+                                                                              <input type="button" value=" Cancel  " onclick="window.location='/OA_HTML/DAILogout.jsp'">
+                                                                            
+                                                                        </center></td>
+                                                                     </tr><tr>
+                                                                        <td>
+                                                                           <br>
+                                                  	                       <center>
+				                                                           <table cellspacing="0" cellpadding="0" border="0">
+					                                                          <tbody><tr>
+                                                                                 <td valign="top"><img src="/OA_HTML/cabo/images/skyros/tip.png" width="16" height="16"></td>
+					                                                             <td class="x5h" valign="top" nowrap="">TIP&nbsp;</td>
+					                                                             <td class="x5i" valign="top"><span class="x6h">Press "OK" button if you agree. Press "Cancel" button if you disagree.</span></td>
+					                                                          </tr>
+                                                                           </tbody></table>
+                                                                           </center>
+		                                                                </td>
+		                                                             </tr>
+		                                                          </tbody></table>
+                                                               </td>
+		                                                    </tr>
+                                                        
+                                                   
+                                                </tbody></table>
+                                             </td>
+                                          </tr>
+                                          <tr id="MenuRow">
+                                             <td id="MenuCell" valign="top">
+                                                <table id="mainMenuRegion" width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+                                                   <tbody><tr id="mainMenuRow" valign="top">
+                                                      <td id="mainMenuCell" width="100%" valign="top">
+                                                         <table id="respList" class="respList">
+                                                            <tbody><tr>
+                                                               <td><script type="text/javascript" var="" mplus="/OA_HTML/cabo/images/skyros/disclosecollapsed_16_ena.png" ;="" mminus="/OA_HTML/cabo/images/skyros/discloseexpanded_16_ena.png" <="" script=""><ul id="treemenu1" class="treeview"></ul></td>
+                                                            </tr>
+                                                         </table>
+                                                         <link rel="stylesheet" type="text/css" href="cabo/styles/mainMenuTree_skyros.css" />
+                                                         <script type="text/javascript">McreateTree("treemenu1", escape('RF.jsp?function_id=MAINMENUREST&security_group_id=0'), true)</script>
+                                                      </td>
+                                                   </tr>
+                                               </tbody></table>
+                                             </td>
+                                          </tr>
+                                       </tbody></table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                              </table>
+                              
+                           </td>
+                        </tr>
+                     </tbody>
+                     </table>
+                  </td>
+                  <td id="favNtfLayout" style="" width="" valign="top" height="" align="left">
+                     <table id="favNtfLayout_internalTable1" style="" width="100%">
+                     <tbody>
+                        <tr id="favNtfLayout_internalTable1_Row1" style="">
+                           <td id="favNtfLayout_internalRow1_Col2" style="" width="" valign="top" height="" align="left"><div id="favNtfLayout_div" style="float:center; horizontal-align:left; ">
+                              <table id="favNtfLayout_internalTable20" style="" width="100%">
+                              <tbody>
+                                 <tr id="favNtfLayout_row_0" halign="left"> 
+                                    <td id="NtfLayout" style="" width="100%px" valign="top" height="" align="left">
+                                       <table id="NtfLayout_internalTable1" style="" width="100%">
+                                       <tbody>
+                                          <tr id="NtfLayout_internalTable1_Row1" style="">
+                                             <td id="NtfLayout_internalRow1_Col2" style="" width="" valign="top" height="" align="left"><div id="NtfLayout_div" style="float:center; horizontal-align:left; ">
+                                                <table id="NtfContent" style="" width="100%">
+                                                   <tbody>
+                                                   <tr id="NtfContent_internalRow1" style="">
+                                                      <td id="NtfContent_internalRow1_Col2" style="" valign="top" align="left">
+                                                         <table id="worklistRow" cellspacing="0" cellpadding="0" border="0">
+                                                            <tbody><tr> 
+                                                               <td id="worklistCell" valign="top" align="left"></td>
+                                                            </tr>
+                                                         </tbody></table>
+                                                      </td>
+                                                   </tr>
+                                                </tbody>
+                                                </table>
+                                                </div>
+                                             </td>
+                                          </tr>
+                                       </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                              </table>
+                              <table id="favNtfLayout_internalTable21" style="" width="100%">
+                              <tbody>
+                                 <tr id="favNtfLayout_row_1" halign="left">
+                                    <td id="favLayout" style="" width="60%px" valign="top" height="" align="left">
+                                       <table id="favLayout_internalTable1" style="" width="100%">
+                                       <tbody>
+                                          <tr id="favLayout_internalTable1_Row1" style="">
+                                             <td id="favLayout_internalRow1_Col2" style="" width="" valign="top" height="" align="left"><div id="favLayout_div" style="float:center; horizontal-align:left; "></div></td>
+                                          </tr>
+                                       </tbody>
+                                       </table>
+                                    </td>
+                                 </tr>
+                              </tbody>
+                              </table></div>
+                           </td>
+                        </tr>
+                     </tbody>
+                     </table>
+                  </td>
+               </tr>
+            </tbody>
+            </table></div>
+         </td>
+      </tr>
+   </tbody>
+   </table>
+   <div></div>
+   <span id="defaultDialogPopup">
+      <div id="popupdefaultDialogPopup" data="{autoPosition:0,px:-1,py:-1};" onkeydown="detectEventType(event) " ismodal="true" isautoresize="true" class="popupP0" style="position:;z-index:15;width:604px;initialwidth:604px;height:244px;initialheight:244px;left:0px;top:0px;display:none">
+      <div style="position:relative;width:604px;height:240px;">
+      <div id="defaultDialogPopupskyroscloseBar"></div> 
+      <input type="hidden" id="hiddenUrldefaultDialogPopup" value="/OA_HTML/cabo/jsps/frameRedirect.jsp?redirect=/OA_HTML/OA.jsp&amp;region=/oracle/apps/fnd/framework/webui/OADialogPopupRN&amp;bypassPageCounterIncr=Y&amp;isPopupRegion=Y&amp;retainAM=Y&amp;&amp;transactionid=494878916&amp;oapc=5&amp;oas=14M3UIUArwG32pSm9HnPaQ.."><div class="popupContent">
+      <iframe id="iframedefaultDialogPopup" name="null" title="null" longdesc="null" src="" onload="if(typeof(setTitle) != 'undefined')setTitle();" )="" width="580" height="185" frameborder="0"></iframe>
+      <a href="#" alt="Close" onfocus="document.getElementById(closeAnchorId).focus();"></a></div></div></div>
+    </span>
+    <div></div>
+    <input id="_fwkAbsolutePageName" type="hidden" value="/oracle/apps/fnd/framework/navigate/webui/NewHomePG:::okeLlkDT" name="_fwkAbsolutePageName">
+    <div><div>
+       <script>t(1,9)</script><img src="/OA_HTML/cabo/images/skyros/t.gif" width="1" height="9">
+    </div><div>
+       <script>t(1,10)</script><img src="/OA_HTML/cabo/images/skyros/t.gif" width="1" height="10">
+    </div></div><div></div><div></div><div></div><div id="_oafPageFooter" class="x92" style="width: auto;">
+    <div class="x93"><span id="N33">DAI Production - For Official Use Only</span></div>
+
+
+
+
+</div></td></tr></tbody></table></div></td></tr></tbody></table></div></div></div></div></div></div></div></span></form></div></span></body></html>

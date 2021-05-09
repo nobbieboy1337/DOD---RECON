@@ -1,0 +1,268 @@
+<html class="yui3-js-enabled" lang="en-US"><head>
+    <meta charset="utf-8">
+    <title>Support Login</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <!--[if lt IE 9]><script src="/euf/core/static/html5.js"></script><![endif]-->
+        
+<style type="text/css">
+ <!-- 
+.rn_ScreenReaderOnly{position:absolute; height:1px; left:-10000px; overflow:hidden; top:auto; width:1px;}
+.rn_Hidden{display:none !important;}
+ --></style>
+<script charset="utf-8" id="yui_3_17_2_1_1620578979003_11" src="//fmkb.widget.cx.usd.oraclecloud.com/ci/cache/yuiCombo/3.17.2/anim-base/anim-base-min.js&amp;3.17.2/anim-color/anim-color-min.js&amp;3.17.2/anim-xy/anim-xy-min.js&amp;3.17.2/anim-curve/anim-curve-min.js&amp;3.17.2/anim-easing/anim-easing-min.js&amp;3.17.2/anim-node-plugin/anim-node-plugin-min.js&amp;3.17.2/anim-scroll/anim-scroll-min.js" async=""></script><base href="https://fmkb.cx.usd.oraclecloud.com/euf/generated/optimized/1604681156/themes/affsc/">
+<link href="/euf/generated/optimized/1604681156/templates/affsc.themes.affsc.SITE.css" rel="stylesheet" type="text/css" media="all">
+<style type="text/css">
+<!--
+.rn_NavigationTab a{cursor: pointer;float: left;font-size: 1em;font-weight: bold;height: 20px;_height: 18px;margin-right: 4px;padding: 5px 20px;position: relative;}
+.rn_NavigationTab a{background:#EEEEEE url(/euf/generated/optimized/1604681156/themes/affsc/images/tabBackground.png) repeat-x scroll 0 -22px;border-top:1px solid #FFF;color:#202020;text-decoration:none;}
+.rn_NavigationTab a:hover, .rn_NavigationTab a:focus{background-color: #F8F8F8;background-position:0 -18px;color:#FF9900;}
+.rn_NavigationTab a:focus{outline:thin dotted #FFF;}
+.rn_NavigationTab a.rn_SelectedTab{background:#FFF none repeat scroll 0 0;color:#000;}
+.rn_NavigationTab a em{background:url(/euf/generated/optimized/1604681156/themes/affsc/images/tabBackground.png) no-repeat 0 0;color:#000;font-size:0em;}
+.rn_NavigationTab a:hover em, .rn_NavigationTab a:focus em{background-position:-20px 0;}
+.rn_NavigationTab .rn_SubNavigation{background:#FFF none repeat scroll 0 0;border:1px solid #CCC;padding:10px 0 0;top:100px;}
+.rn_NavigationTab .rn_SubNavigation a{background:#FFF;border:none;color:#404040;height:auto !important;height:23px;margin-bottom:1px;min-height:23px;text-transform: none;}
+.rn_NavigationTab .rn_SubNavigation a:hover{background:#EEE;}
+.rn_NavigationTab .rn_SubNavigation a:focus{outline:thin dotted #777;}
+.rn_LogoutTab.rn_LogoutLink{}
+.rn_LogoutTab.rn_LogoutLink a{background: #EEEEEE url(/euf/assets/themes/affsc/images/tabBackground.png) repeat-x scroll 0 -22px;border-top: 1px solid #FFF;color: #202020;text-decoration: none;cursor: pointer;float: left;font-size: 1em;font-weight: bold;height: 20px;_height: 18px;margin-right: 4px;padding: 5px 20px;position: relative;}
+.rn_LogoutTab.rn_LogoutLink a:hover, .rn_LogoutTab.rn_LogoutLink a:focus{background-color: #F8F8F8;background-position: 0 -18px;color: #FF9900;}
+.yui-panel.rn_Dialog.rn_FeedbackDialog{width:375px;}
+.rn_SiteFeedback2Form label{clear:left;display:block;}
+.rn_SiteFeedback2Form .rn_EmailField{clear:left;display:block;margin-bottom:1em;width:200px;}
+.rn_SiteFeedback2Form .rn_Textarea{clear:left;display:block;margin-bottom:1em;width:340px;}
+.rn_Dialog.yui3-panel-content.rn_SiteFeedbackDialog{width: 364px;}
+.rn_Dialog.yui3-panel-content.rn_SiteFeedbackDialog .yui3-widget-bd{padding-bottom: 20px;}
+.rn_ActionDialog.rn_SiteFeedbackDialog .rn_SiteFeedbackForm textarea{width: 100%;}
+.rn_HighContrastMode .rn_OracleLogo a:before{content: "Powered By Oracle";}
+.rn_OracleLogo a{background:url(/euf/core/static/PoweredByOracle.png) no-repeat scroll right 0 !important;display:block !important;height:29px !important;width:134px !important;}
+.rn_OracleLogo a:focus, .rn_OracleLogo a:hover{background-position:right -37px !important;}
+.rn_NotificationBox{background-color:#CCCCCC;background-position:24px 1.125em;background-repeat:no-repeat;border:1px solid #AAAAAA;clear:both;margin-bottom:1em;padding:1em 20px 1em 60px;}
+.rn_NotificationBox p{font-size:1.0em;line-height:1.5em;margin:0;}
+.rn_NotificationBox p + p{margin-top:1em;}
+.rn_NotificationBox.condensed{background-position:8px 10px;padding:10px 10px 10px 30px;}
+.rn_NotificationBox.condensed p{font-size:0.917em;}
+.rn_NotificationBox .close{display:block;display:none;float:right;width:20px;height:20px;cursor:pointer;background-image:url(../images/icons/close.gif);background-position:center center;background-repeat:no-repeat;text-indent:-99999px;}
+.error{background-color:#FFCCCC;background-image:url(../images/icons/error.png);border-color:#FF0000;}
+.error a{color:#990000;}
+.notify{background-color:#FFFFCC;background-image:url(../images/icons/notify.png);border-color:#FFDD00;}
+.success{background-color:#CCFFCC;background-image:url(../images/icons/tick.png);border-color:#00FF00;}
+.info{background-color:#BFD0EB;background-image:url(../images/icons/information.png);border-color:#4472B7;}
+.rn_NotificationBox{background-color:#CCCCCC;background-position:24px 1.125em;background-repeat:no-repeat;border:1px solid #AAAAAA;clear:both;margin-bottom:1em;padding:1em 20px 1em 60px;}
+.rn_NotificationBox p{font-size:1.0em;line-height:1.5em;margin:0;}
+.rn_NotificationBox p + p{margin-top:1em;}
+.rn_NotificationBox.condensed{background-position:8px 10px;padding:10px 10px 10px 30px;}
+.rn_NotificationBox.condensed p{font-size:0.917em;}
+.rn_NotificationBox .close{display:block;display:none;float:right;width:20px;height:20px;cursor:pointer;background-image:url(/euf/generated/optimized/1604681156/themes/affsc/images/icons/close.gif);background-position:center center;background-repeat:no-repeat;text-indent:-99999px;}
+.error{background-color:#FFCCCC;background-image:url(/euf/generated/optimized/1604681156/themes/affsc/images/icons/error.png);border-color:#FF0000;}
+.error a{color:#990000;}
+.notify{background-color:#FFFFCC;background-image:url(/euf/generated/optimized/1604681156/themes/affsc/images/icons/notify.png);border-color:#FFDD00;}
+.success{background-color:#CCFFCC;background-image:url(/euf/generated/optimized/1604681156/themes/affsc/images/icons/tick.png);border-color:#00FF00;}
+.info{background-color:#BFD0EB;background-image:url(/euf/generated/optimized/1604681156/themes/affsc/images/icons/information.png);border-color:#4472B7;}
+.info2{background-color:#FFFFFF;background-image:url(/euf/generated/optimized/1604681156/themes/affsc/images/icons/information.png);border-color:#4472B7;}
+.rn_LoginForm label.rn_Hidden{display:none;}
+.rn_LoginForm.rn_LoginForm{text-align: right;}
+.rn_LoginForm label{float: left;height: 18px;width: 250px;padding: 2px;line-height: 18px;}
+.rn_LoginForm input{margin-bottom: 5px;margin-right: 0;}
+.rn_LoginForm input[type="text"], .rn_LoginForm input[type="password"]{width: 200px;}
+.rn_MessageBox{margin: 0em;}
+@media screen and (max-width: 650px){label{margin-left: 7px;margin-top: 17px;}
+.rn_Column.rn_RightColumn h2{margin-bottom: -17px;}
+.rn_LoginForm.rn_LoginForm{margin-bottom: -12px;}
+}
+.rn_CacAuthButton{}
+.cac-button{background:url(/euf/generated/optimized/1604681156/themes/affsc/images/buttonBackgroundCAC.png) no-repeat scroll -8px -5px #2A2381;color:#FFFFFF !important;display:block;font-size:18px;height:60px;line-height:60px;margin-bottom:10px;padding:0;text-align:center;text-decoration:none;width:250px;}
+.cac-button:hover, .cac-button:focus{background-position:-8px -75px;text-decoration:none;}
+.cac-button:active{background-position:-8px -145px;}
+-->
+</style>
+
+    <link rel="icon" href="/euf/assets/images/favicon.png" type="image/png">
+    <script type="text/javascript">
+    <!--
+    if (parent !== self) {
+        top.location.href = location.href;
+    }
+    else if (top !== self) {
+        top.location.href = self.document.location;
+    }
+    //-->
+    </script>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body class="yui-skin-sam yui3-skin-sam" itemscope="" itemtype="http://schema.org/WebPage" id="yui_3_17_2_6_1620578979003_6"><div></div><p style="display:inline"><input type="hidden" id="rn_VirtualBufferUpdateTrigger" name="rn_VirtualBufferUpdateTrigger" value="1"></p>
+<div id="rn_Container">
+    <div id="rn_SkipNav"><a href="/app/login/redirect/home#rn_MainContent">Skip Navigation</a></div>
+    <div id="rn_Header" role="banner">
+        <noscript><h1>Scripting must be enabled to use this site.</h1></noscript>
+    </div>
+    <div id="rn_Navigation">
+        <div id="rn_NavigationBar" role="navigation">
+            <ul class="rn_FloatLeft">
+                <li><span id="rn_NavigationTab_3" class="rn_NavigationTab">
+    <a class="" href="/app/home" target="_self" aria-label="">
+        <span>Support Home</span>
+    </a>
+</span>
+</li>
+                <li><span id="rn_NavigationTab_4" class="rn_NavigationTab">
+    <a class="" href="/app/answers/list" target="_self" aria-label="">
+        <span>Answers</span>
+    </a>
+</span>
+</li>
+                <li><span id="rn_NavigationTab_5" class="rn_NavigationTab">
+    <a class="" href="/app/instant_advice/index" target="_self" aria-label="">
+        <span>Instant Advice</span>
+    </a>
+</span>
+</li>
+            </ul>
+            <ul class="rn_FloatRight">
+                <li><span id="rn_NavigationTab_6" class="rn_NavigationTab">
+    <a class="" href="/app/utils/help_search" target="_self" aria-label="">
+        <span>Help</span>
+    </a>
+</span>
+</li>
+                                <li><span id="rn_NavigationTab_7" class="rn_NavigationTab">
+    <a class="rn_SelectedTab" href="/app/login" target="_self" aria-label="Login selected">
+        <span>Login</span>
+    </a>
+</span>
+</li>
+                            </ul>
+        </div>
+    </div>
+    <div id="rn_Body">
+        <div id="rn_MainColumn" role="main">
+            <a name="rn_MainContent" id="rn_MainContent"></a>
+<div id="rn_PageContent" class="rn_Account rn_LoginForm">
+    <div class="rn_Padding">
+        <div id="rn_NotificationBox_8" class="rn_NotificationBox info2" style="">
+	<div class="rn_MobileNotify">
+		<p>Authentication is now required to gain access to Financial Services FAQs and Advice pages. If you haven't previously registered with the Air Force Personnel Services (i.e. AFPC) or the Financial Services Knowledge Base, you will be required to complete a one-time registration. Upon return to this page in the future, you'll just need to enter your CAC PIN or your user-ID and password.</p>
+	</div>
+</div>
+                    <div id="rn_NotificationBox_9" class="rn_NotificationBox " style="display: none;">
+	<div class="rn_MobileNotify">
+			</div>
+</div>
+            </div>
+    <div id="rn_LoginForm">
+        <div class="rn_Column rn_LeftColumn">
+        <div id="rn_LoginForm_10" class="rn_LoginForm rn_LoginForm">
+    <div id="rn_LoginForm_10_Content">
+        
+        <form id="rn_LoginForm_10_Form" onsubmit="return false;">
+            <label for="rn_LoginForm_10_Username">User ID</label>
+            <input id="rn_LoginForm_10_Username" type="text" maxlength="80" name="Contact.Login" autocorrect="off" autocapitalize="off" value="">
+                    <label for="rn_LoginForm_10_Password">Password</label>
+            <input id="rn_LoginForm_10_Password" type="password" maxlength="20" name="Contact.Password" autocomplete="off">
+                    <br>
+            <input id="rn_LoginForm_10_Submit" type="submit" value="Log-In">
+            <br>
+        </form>
+    </div>
+</div>
+            <a href="/app/utils/account_assistance">Forgot your username or password?</a>
+            <br>
+            <br>
+            <p class="rn_CreateAccount">Don't have an account? <a class="rn_Button2" href="/app/create1">Create Account</a></p>
+        </div>
+        <span class="rn_MiddleBuffer">or</span>
+        <div class="rn_Column rn_RightColumn rn_CACLogin">
+            <div class="rn_Padding">
+                <span id="rn_CacAuthButton_11" class="rn_CacAuthButton">
+    <a href="https://rightnow1.cx.usd.oraclecloud.com/cc/CAC/auth/site/Zm1rYi5jeC51c2Qub3JhY2xlY2xvdWQuY29t/redirect/home" class="cac-button">CAC Login</a>
+</span>
+                <div id="rn_NotificationBox_12" class="rn_NotificationBox info condensed" style="">
+	<div class="rn_MobileNotify">
+		Please select your CAC E-Mail certificate to ensure proper logon.	</div>
+</div>
+            </div>
+        </div>
+    </div>
+    <div class="rn_Padding" align="left">
+        <div id="rn_NotificationBox_13" class="rn_NotificationBox info" style="">
+	<div class="rn_MobileNotify">
+		<p><b>Important:</b> The Financial Management Knowledge Base website requires visitors to log in with a Common Access Card (CAC) or username and password. This site is intended for government audiences only. Do not reproduce or distribute the contents of this site to a wider audience without coordination with the information owner, unit legal and public affairs offices.</p>
+<p>If you are having difficult logging in or are experiencing a problem with this web site or with the user-authentication process, please contact DSN 665-5004 or 1-800-525-0102.</p>
+	</div>
+</div>
+        <p>You are accessing a U.S. Government (USG) Information System (IS) that is provided for USG-Authorized use only. By using this IS (which includes any device attached to this IS), you consent to the following conditions:</p>
+        <p>The USG routinely intercepts and monitors communications on this IS for purposes including, but not limited to, penetration testing, COMSEC monitoring, network operations and defense, personnel misconduct (PM), law enforcement (LE), and counterintelligence (CI) investigations.</p>
+        <p>At any time, the USG may inspect and seize data stored on this IS.</p>
+        <p>Communications using, or data stored on, this IS are not private, are subject to routine monitoring, interception, and search, and may be disclosed or used for any USG authorized purpose.</p>
+        <p>This IS includes security measures (e.g., authentication and access controls) to protect USG interests--not for your personal benefit or privacy.</p>
+        <p>Notwithstanding the above, using this IS does not Constitue consent to PM, LE or CI investigative searching or monitoring of the content of privlieged communications, or work product, related to personal representation or services by attorneys, psychotherapists, or clergy, and their assistants. Such communications and work product are private and confidential. See User Agreement for details.</p>
+    </div>
+</div>
+        </div>
+    </div>
+    <div id="rn_Footer" role="contentinfo">
+        <ul class="rn_FloatLeft">
+            <li><a href="https://www.my.af.mil/afp/netstorage/faq/dod_user_agreement.html" target="_blank">Privacy Policy</a></li>
+            <li><div id="rn_SiteFeedback_14" class="rn_SiteFeedback">
+        <a id="rn_SiteFeedback_14_FeedbackLink" href="javascript:void(0);">Site Feedback</a>
+        <div class="rn_Hidden">
+        <div id="rn_SiteFeedback_14_SiteFeedbackForm" class="rn_SiteFeedbackForm">
+            <div id="rn_SiteFeedback_14_ErrorMessage"></div>
+            <form>
+                            <label for="rn_SiteFeedback_14_EmailInput">
+                    Your Email                    <span class="rn_Required" aria-label="Required">
+    *</span>                </label>
+                <input id="rn_SiteFeedback_14_EmailInput" class="rn_EmailField" type="text" value="">
+                        <label for="rn_SiteFeedback_14_FeedbackTextarea">
+                Message                <span class="rn_Required" aria-label="Required">
+    *</span>            </label>
+            <textarea id="rn_SiteFeedback_14_FeedbackTextarea" name="rn_SiteFeedback_14_FeedbackTextarea" class="rn_Textarea" rows="4" cols="60"></textarea>
+            </form>
+        </div>
+            </div>
+</div>
+</li>
+        </ul>
+        <div class="rn_FloatRight">
+            <span id="rn_OracleLogo_15" class="rn_OracleLogo">
+    <a href="https://cloud.oracle.com/service" target="_blank" title="Powered By Oracle"><span class="rn_ScreenReaderOnly">Powered By Oracle</span></a>
+</span>
+        </div>
+    </div>
+</div>
+<script>var YUI_config={"fetchCSS":false,"modules":{"RightNowTreeView":"/euf/core/3.4/js/5.253/min/modules/ui/treeview.js","RightNowTreeViewDialog":"/euf/core/3.4/js/5.253/min/modules/ui/treeviewdialog.js","RightNowTreeViewDropdown":"/euf/core/3.4/js/5.253/min/modules/ui/treeviewdropdown.js"},"lang":["en-US","en-US"],"injected":true,"comboBase":"//fmkb.widget.cx.usd.oraclecloud.com/ci/cache/yuiCombo/","groups":{"gallery-treeview":{"base":"/rnt/rnw/yui_3.17/gallery-treeview/","modules":{"gallery-treeview":{"path":"gallery-treeview-min.js"}}}}};</script>
+<script type="text/javascript" src="/euf/core/3.4/js/5.253/min/RightNow.js"></script><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+<script type="text/javascript" src="/euf/generated/optimized/1604681156/templates/affsc.0db82f97e471292ba57a61e0d2d7456f.js"></script>
+<script type="text/javascript" src="/euf/generated/optimized/1604681156/pages/login.db8304f2e1004a9bfdf9fd1d112617d1.js"></script>
+<script>
+/* <![CDATA[ */
+RightNow.Env=(function(){var _props={module:'standard',coreAssets:'/euf/core/3.4/',yuiCore:'/rnt/rnw/yui_3.17/',profileData:{"isLoggedIn":false,"previouslySeenEmail":null}};return function(prop){return _props[prop];};})();RightNow.Interface.setMessagebase(function(){return {"WARNING_LBL":"Warning","INFORMATION_LBL":"Information","HELP_LBL":"Help","ERROR_REQUEST_ACTION_COMPLETED_MSG":"There was an error with the request and the action could not be completed.","OK_LBL":"OK","DIALOG_LBL":"dialog","DIALOG_PLEASE_READ_TEXT_DIALOG_MSG_MSG":"dialog, please read above text for dialog message","BEG_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"Beginning of dialog, please dismiss dialog before continuing","END_DIALOG_PLS_DISMISS_DIALOG_BEF_MSG":"End of dialog, please dismiss dialog before continuing","ERR_SUBMITTING_FORM_DUE_INV_INPUT_LBL":"There was an error submitting the form due to invalid input","ERR_SUBMITTING_SEARCH_MSG":"There was a problem with your request.  Please change your search terms and try again.","CLOSE_CMD":"Close","BACK_LBL":"Back","PLS_CLCK_HREF_EQS_PCT_S_THAN_S_MSG":"Please click <a href=\"%s\">here<\/a> to download your file.","PCT_S_MUST_NOT_CONTAIN_SPACES_MSG":"%s must not contain spaces.","USERNAME_LBL":"Username","PCT_S_CONTAIN_DOUBLE_QUOTES_MSG":"%s must not contain double quotes.","PCT_S_CNT_THAN_MSG":"%s must not contain either '<' or '>'","ERRORS_LBL":"Errors","ERROR_LBL":"Error","SITEFEEDBACK_DIALOG_MISSING_REQD_MSG":"SiteFeedback dialog is missing required element %s.","PCT_S_IS_REQUIRED_MSG":"%s is required","FIELD_IS_NOT_A_VALID_EMAIL_ADDRESS_MSG":"field is not a valid email address.","SORRY_ERROR_SUBMISSION_LBL":"Sorry, there was an error with your submission"};});
+RightNow.Interface.setConfigbase(function(){return {"DE_VALID_EMAIL_PATTERN":"^((([-_!#$%&'*+\/=?^~`{|}\\w]+(\\.[.]?[-_!#$%&'*+\/=?^~`{|}\\w]+)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[; ]*)$","CP_HOME_URL":"home","CP_FILE_UPLOAD_MAX_TIME":300,"OE_WEB_SERVER":"fmkb.cx.usd.oraclecloud.com","SUBMIT_TOKEN_EXP":30};});
+RightNow.Url.setParameterSegment(4);
+RightNow.Interface.Constants = 
+{"API_VALIDATION_REGEX_EMAIL":"((([-_!#$%&'*+\/=?^~`{|}\\w]+([.][-_!#$%&'*+\/=?^~`{|}\\w]*)*)|(\"[^\"]+\"))@[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*(\\.[0-9A-Za-z]+([\\-]+[0-9A-Za-z]+)*)+[;, ]*)+"};
+YUI().use('event-base',function(Y){Y.on('domready',function(){var n=RightNow.namespace,W=RightNow.Widgets,c='createWidgetInstance';
+n('Custom.Widgets.utils.NotificationBox').requires=["anim","anim-easing","event-custom"];
+W.setInitialWidgetCount(11);
+W[c]({"i":{"c":"NavigationTab","n":"NavigationTab","w":3},"a":{"label_tab":"Support Home","link":"\/app\/home","pages":["home"],"subpages":"","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":null,"label_selected_tab":"%s selected"},"j":[]},'W10=','fUOh6p9EnafiMIn707ZXZAnUpqgJfmeRHxk8ge6~0YbEcJTBxZj8kl1bVACRpccFhD6KUA26xxDGGp1MY0kJsDZK9~cK2FGPaZSOrjZJ7ZuEpoISfQ2SB7EUc6vNt45j8XbGHW52bRSd8!',1620578976,'NavigationTab_3','standard/navigation/NavigationTab','RightNow.Widgets.NavigationTab','3','ZlVZMGZUbUhRMFdIM2h2cjZvdFF2QWhIQ19ZbFRZd3FmdlRYS0NlZ3kxNHVfWms4MEJtQUVJVndlTFptUFdxTGRMektsMldNV3A2fm9fWWxyMnpBQmVDdTFYU1I3cW5FQ1hRYUgwMVVKTmpQNk9SVEw1Q2JsUlZGcmtifjJGT3ZUUzBQVExweWpnYzljIQ!!');
+W[c]({"i":{"c":"NavigationTab","n":"NavigationTab","w":4},"a":{"label_tab":"Answers","link":"\/app\/answers\/list","pages":["answers\/list","answers\/detail"],"subpages":"","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":null,"label_selected_tab":"%s selected"},"j":[]},'W10=','fUwvGx1UgCNHjVXaJezQq9ZMt6Rla9focbDlyCnZ_ZsSt3iIzzBU9iuq7OEN9MyKKCVOHFf_a_areMsi2o2Am1zypc311SlXuTp4sSBffOHr~c5MlTa7w7xaphK6TA0QjN26yark0k8XU!',1620578976,'NavigationTab_4','standard/navigation/NavigationTab','RightNow.Widgets.NavigationTab','4','ZlVTYkxYTzVScmNOZ1NYYXh2VUVkaVRPWDJRVmdNWmJ5bW5ofmFQcV9WWFRTeFdSNXdHa1d_bX5aeWJBRHJ5OTE2bjM0RHJBZGRUWmFyfk03bl9tOGlSOURvWU1TdG43Wl9DX1RLcEZhZ0ZZUDk5MF9SdnhoMzJCNlZqWFpibm1WTFQ1NjdwTGpUWGxZIQ!!');
+W[c]({"i":{"c":"NavigationTab","n":"NavigationTab","w":5},"a":{"label_tab":"Instant Advice","link":"\/app\/instant_advice\/index","pages":["instant_advice\/index","instant_advice\/category","instant_advice\/topic"],"subpages":"","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":null,"label_selected_tab":"%s selected"},"j":[]},'W10=','fU7BBI8RPrNmwAYnllTKJ~O~QtYSOZ7ouU_51bT4~jpup2OaMLa5P8DlUlUL2BQvhY3I3e~_9x~oNTERDivEIeXAqdtv1u89af0DTAgsl1e4OZ84oq19E8SyTW6E_xrN8MQ1z0rSbIf~k!',1620578976,'NavigationTab_5','standard/navigation/NavigationTab','RightNow.Widgets.NavigationTab','5','ZlVyOFBhMkhrSkVwMnpWWVphTVdoQXlOT2hkMDdxdGRtZjVYWlJyWXFUVlI2TEhLeFZ6MUJURHdWTlFTck9SYzRIVlRZZEhDQ1BrZjFXakJtfjc0RFVGemQ3aUhyMW5idTZGeEdXSF9JRTNkRnVQd191fjlzfkVQMmVEc1ZhbjRENlN4ZTFKY0lpSUZBIQ!!');
+W[c]({"i":{"c":"NavigationTab","n":"NavigationTab","w":6},"a":{"label_tab":"Help","link":"\/app\/utils\/help_search","pages":["utils\/help_search"],"subpages":"","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":null,"label_selected_tab":"%s selected"},"j":[]},'W10=','fUCFX8g2w8lfmmvlJCqeYP0eMnTVLrv08G3_jzou8AMVUZ3MXpi~k9PlOfdERwZEBHEpdtT6hsjPQ1RMJ3bKoNiczXuMquDveCT07F7O_Q4srRGOJOYmi33iSNGa2rwhUwmQKz3pBQujY!',1620578976,'NavigationTab_6','standard/navigation/NavigationTab','RightNow.Widgets.NavigationTab','6','ZlVzNmhiSmhUeUljQXpRbU5KanpHXzlFcmJlWWtZSnlMT01YN0R5anVyb3lVWnJIdGx3MkJqcXJZSTRHeTJ4S3B2RktKTXZQSUNVd1hyb0pLb2NJOGxzM0JoSXIxR0JVSWlyZVE1YkdNRHg0aUxVZXJUYmhENW5KVERXSTU1OHRucERxMXRTMng3X2tJIQ!!');
+W[c]({"i":{"c":"NavigationTab","n":"NavigationTab","w":7},"a":{"label_tab":"Login","link":"\/app\/login","pages":["login"],"subpages":"","css_class":"rn_SelectedTab","target":"_self","external":false,"searches_done":null,"label_selected_tab":"%s selected"},"j":[]},'W10=','fUiY~bTAWh7RUy7CZ8Peb33hDrQ3Iq7H5nmVF73LInq9PcAAhJHgXOQNycSH~xbUtXBCZ9G8PulPi5Q~FUPOySNz~lj10znPmTqp~ipA9XPp~vmmSl8AX88h5tO2X1saI2ClGkX_MZaxM!',1620578976,'NavigationTab_7','standard/navigation/NavigationTab','RightNow.Widgets.NavigationTab','7','ZlV6ZVR5N3RtejJ0MllpRUlEVFVDanowT0tFUlBWRX5wVjdrWm1IbE13MmNZSElMWmxiTVp5X2hyOEg2SXlRVk50bkNyV2NrOUU4elNGVFBuWHF3eEczQ09jRnJjOVNIMmRqUH4zRmVHaVZiNGw5czlNb2YyNnpLc2d5SVdTbENCSG1_TXR2T3dienVNIQ!!');
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":8},"a":{"label_heading":"","file_path":"\/euf\/assets\/announcements\/login-notification.html","text":"","type":"info2","visible":false,"static":true},"j":[]},'W10=','fUfelL_ueiSVPyH1lc20A5yiLzcHzehy70MdPpnc0O_aMuN6J40u0BMfS7ifXpLx4_h_tDViDsAiGMoColM1WQLjMPu~awxOqDNlkm~0tLcWBQ7A6Q4hRocFOr7MlDOD8qRTivVKKNXNw!',1620578976,'NotificationBox_8','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','8','ZlU1a3dWZF9VVH5GZV8xNDJES1FCWmRwTUlSbGRjfkhnc0hEfmQ4c0ZFanI1RE1EV2oybk1RYzQyallyQUZ5SWZkMn5YZlByNVVrOHZHUzlLfjBDdm1wbW1iVkgwSX5kOGNUU3Z5dks0RjI5WkVPQ1daU0RnTjZjWENZSm9FMk9ueXVycnp6VTdBdjc4IQ!!');
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":9},"a":{"label_heading":"","file_path":"","text":"","type":"","visible":false,"static":false},"j":[]},'W10=','fUr2X2gX56vBeduy6vFzaLSKRA8K3V32ANmY9bemOfJk6zUwFcrRquvuctdllCQeFfIj~tKuRibGyH0_q_kkKb2hdhmImMDNsidImgVMIX6rvMiFUQgeI5ofk5bW9U5~E4fk5Vs5GMeJM!',1620578976,'NotificationBox_9','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','9','ZlVBWW5XVUpoOV9TaEdJfkdvS0lNWn54ZnhraW1CVkFXaGZPYTFQQm83TThlUWtvV0trbnJtT21tV0RZUHJ6aXJKVEozS1d5OHdZVjV6TVJZbUJoVzQ5QkhJY1l1ZmZDaEY0TDNsZzBFWWdFVDh_ZUpab21PbX52d1BCX1ZCUGdBVDVQQXRmRllnQ0ZvIQ!!');
+W[c]({"i":{"c":"LoginForm","n":"LoginForm","w":10},"a":{"label_username":"User ID","label_password":"Password","label_login_button":"Log-In","redirect_url":"\/app\/email_code\/redirect","append_to_url":"","disable_password":false,"initial_focus":false,"login_ajax":"\/cc\/ajaxCustom\/validUsernamePasword","disable_password_autocomplete":true},"j":{"f_tok":"ZlV3Y3ZZb2pucV82Zmp_bENKXzdROGUwZUVPSVkyU190ckpWa01sTGpTeFpjZ1ZlS2dZUnk5VDNhbX5RZDBGNWE1azVGREJac0t3akt4azlxeVUyN2VEc3hOVkRaVFFON09ld1AxVXJkdDVuVEtsQXdCQm1NRkx4QlRybm9Yd0tleXV5aWZVN0MxckZBIQ!!","redirectOverride":"\/app\/home"}},'W10=','fUleLdaw7EKC~4N~F4Rj1gb92Th4PXBRnQXfSOnBP_r9dittKAokxp5G4rEKAtWXnvrU5_YISforCNTFoj3xaEmurPkLJ2TmKbNefO1D8i6TiAQaaW14Yx_cquDuu0w6DqCIwg_9kPtE4!',1620578976,'LoginForm_10','custom/login/LoginForm','Custom.Widgets.login.LoginForm','10','ZlVfWEt1Q1NiV3lYNm9ndDFYWGtCOURJSk9mQ0VEUG83NURsQnJyOX5WTjl6MXFUWUY0anpJZ0ZhbHFRdm16SzNnQnhxV1JZbkQ3R3lKbFdib1NSOVB5S0Qwa3pxdEY4SDF4OEdFUWRmVUV2NjRMM25YdnUzd1J3V1loTEwxU2lzME5uaWVQNUhWSGY4IQ!!');
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":12},"a":{"label_heading":"","file_path":"","text":"Please select your CAC E-Mail certificate to ensure proper logon.","type":"info condensed","visible":false,"static":true},"j":[]},'W10=','fUS~reP9tBLGacWIwe1vBZhZc1hFsg8ZvhMMxwhlB2P3dF6b2rDf3ftirgXJQdbHKTr_Od1g8so7r8~RHymDNYzbTqeYR~YZ3UrPoYHwaRsS1Mauqc1weNA_wFTvcPjfclmHB2PjBMmzY!',1620578976,'NotificationBox_12','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','12','ZlVjWDlZTGNnejZzaWFseG1vTDRweGIyOGdpaW5MMXdkWDJOQWxFdjF5UFQzVDdEN05icmFZcG80YlU2c3Q2TEtpZ35za194MUdhbWJ2ZzhtUkIwZ1JXQWRVWHMyNzk4Y2swZEFOeTg2aTZnTldMN3lkQTJtSnBXSDRpT0xkbH42bF9uYlVQM1pfUGtVIQ!!');
+W[c]({"i":{"c":"NotificationBox","n":"NotificationBox","w":13},"a":{"label_heading":"","file_path":"\/euf\/assets\/announcements\/account-bottom.html","text":"","type":"info","visible":false,"static":true},"j":[]},'W10=','fUmCG7YRwHWYY7lgerHfOdacx_eTCGnloUAFGuSKmRNHqrekYZLTNhhusSDBRD2EED3oWzL1Du4TU8618~FlaPB5QahjOTyeNNIFjlz1oVnejeUjgwPry_6ss7wTyN_jRV5YmRQyyxfsQ!',1620578976,'NotificationBox_13','custom/utils/NotificationBox','Custom.Widgets.utils.NotificationBox','13','ZlUwN0l4cGU5a2lObnZFc3U5fkdOSDU4MXk1dVRFUThKaG82NGFuM2JWSEZkY0lYVFE2flNXZWtlZ0JSSlkxR1dfVGJRRHJ6ZWtVS3J2QV9_eDNaR0E4bjlyZExDQnJsUDVIMU9TMU13Y3NNWU91bjE4UHhsd2JHS0RUTnlHZGZhekE0TXlOTjFIMWVFIQ!!');
+W[c]({"i":{"c":"SiteFeedback","n":"SiteFeedback","w":14},"a":{"label_dialog_title":"Provide Feedback","feedback_page_url":"","label_link":"Site Feedback","label_email_address":"Your Email","label_comment_box":"Message","label_send_button":"Give Feedback","label_cancel_button":"Cancel","label_feedback_confirmation":"Thanks for your feedback.","submit_site_feedback_ajax":"\/ci\/ajax\/widget\/standard\/feedback\/SiteFeedback\/submitSiteFeedback"},"j":{"f_tok":"ZlVkeXdiR3FNc2dwMUN0WVBFMDRFUmRqWUNaSUFlQnB4RVFFdTZ_dV9pTGN1MV9kcm5iNmQ2cjJQZUJ5U21XM2l5a2ZvRDJqWEM1el95WnF2dDZ6dDNhckFEbnpYMXBOUFVZd2Nad3NyN0RNWmwyb3pCNmVGQTByY2RkVVRRTGhVNkFrU2oyRmVob0Q0IQ!!","isProfile":false,"email":""}},'eyJub25EZWZhdWx0QXR0clZhbHVlcyI6eyJsYWJlbF9saW5rIjoiU2l0ZSBGZWVkYmFjayIsImxhYmVsX2VtYWlsX2FkZHJlc3MiOiJZb3VyIEVtYWlsIiwibGFiZWxfY29tbWVudF9ib3giOiJNZXNzYWdlIiwibGFiZWxfc2VuZF9idXR0b24iOiJHaXZlIEZlZWRiYWNrIn0sImNsaWNrc3RyZWFtIjp7InN1Ym1pdFNpdGVGZWVkYmFjayI6InNpdGVfZmVlZGJhY2sifX0=','fUA9araJ2elpDkXO~lNAyh4RXXuVg2sT2enp52fmghzdB8MU4TzJZAQQJEyj1V4ZIZPY5egft2v8Q1PKURTqxdfeEI9VvcGehWoX97~hCOkNRvOlL6qhHZhNbrdG~hDkqg9eYQS64jydk!',1620578976,'SiteFeedback_14','standard/feedback/SiteFeedback','RightNow.Widgets.SiteFeedback','14','ZlVueHNYMG00TzhxTUUwQU9JdmdrUkNmU3pYSVVKbzQwdzhJTU9KSWx2SFlIMFhSTDdTSXpSR2JNamRjYlNLfmNvX0s5djBxYVVGXzJxOXZxTG9Xdk13U0pQV2lWanZ2OVlHd1dUeXlLZXREVzNTZkVfRjljSX5DQThZN3cxdzFtY2Z5cWZfen5FM2dnIQ!!');
+})});
+/* ]]> */
+</script>
+<iframe src="javascript:false" title="Action Capture" style="position: absolute; width: 0px; height: 0px; border: 0px none;"></iframe><script type="text/javascript">
+var _rnq=_rnq||[];_rnq.push({"s":"uyNEjxap","uh":"9ba50086","uc":"fmkb.cx.usd.oraclecloud.com\/app\/login","b":"dd94691","i":"afpc:fmkb","f":"rnw","p":"Customer Portal","v":"20.2.0.1-b253-sp5","th":"www.rnengage.com"});
+(function(e){var b,d,a=document.createElement("iframe"),c=document.getElementsByTagName("script");a.src="javascript:false";a.title="Action Capture";a.role="presentation";(a.frameElement||a).style.cssText="position:absolute;width:0;height:0;border:0";c=c[c.length-1];c.parentNode.insertBefore(a,c);try{b=a.contentWindow.document}catch(f){d=document.domain,a.src="javascript:var d=document.open();d.domain='"+d+"';void(0);",b=a.contentWindow.document}b.open()._l=function(){for(var a;e.length;)a=this.createElement("script"),
+d&&(this.domain=d),a.src=e.pop(),this.body.appendChild(a)};b.write('<head><title>Action Capture</title></head><body onload="document._l();">');b.close()})(["https://www.rnengage.com/api/e/dd94691/e.js","//www.rnengage.com/api/1/javascript/acs.js"]);
+</script>
+
+</body></html>

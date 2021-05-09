@@ -1,0 +1,191 @@
+<html lang="en"><head>
+    <title>DOEHRS Login</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <meta http-equiv="PRAGMA" content="NO-CACHE">
+    <link rel="stylesheet" type="text/css" href="/Doehrs/Css/style.css">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+</head>
+
+<body onload="pageLoad();">
+
+
+
+<noscript>Please ensure that your browser is JavaScript enabled and try again.</noscript>
+<script language="javascript" type="text/javascript">
+    function pageLoad() {
+        
+        showDiv("pageDiv");
+        
+    }
+
+    function getAppContextPath() {
+        return "/Doehrs/";
+    }
+
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return "";
+    }
+
+    function deleteCookie(name) {
+        document.cookie = name + '=; expires=Thu, 01-Jan-70 00:00:01 GMT; path=/';
+    }
+
+    function showDiv(divId) {
+        // find the division
+        var x = getElementById(divId);
+        if (x != null) {
+            x.style.display = "inline";
+        }
+    }
+
+    function getElementById(id) {
+        var x;
+        if (document.getElementById) {
+            x = document.getElementById(id);
+        } else if (document.all) {
+            x = document.all[id];
+        }
+        return x;
+    }
+
+    function createCookieWithMinutes(name, value, minutes) {
+        var expires = "";
+        if (minutes) {
+            var date = new Date();
+            date.setTime(date.getTime() + (minutes * 60 * 1000));
+            expires = "; expires=" + date.toGMTString();
+        }
+        document.cookie = name + "=" + value + expires + ";path=/";
+    }
+</script>
+<table width="100%" cellspacing="1" cellpadding="0" border="0">
+    <tbody><tr>
+        <td>
+            <table width="100%" cellspacing="0" cellpadding="2" border="0" background="/Doehrs/Images/header_back5.gif">
+                <tbody><tr>
+                    <td><span class="apptitle">Defense Occupational and Environmental Health Readiness System</span></td>
+                </tr>
+                <tr>
+                    <td class="content" valign="BOTTOM">&nbsp;<br>
+                        &nbsp;
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+<div id="loadDiv" style="display:none">
+    <table class="maincontent" width="100%" cellspacing="20" cellpadding="20" border="0">
+        <tbody><tr>
+            <td align="CENTER">
+                <b style="color:red;font:16px arial;font-weight: bold;">Loading, please wait.</b>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+<div id="pageDiv" style="display: inline;">
+    <table class="mainContent" width="100%" cellspacing="1" cellpadding="0" border="0">
+        <tbody><tr>
+            <td width="100%" valign="TOP" align="LEFT">
+                <table class="maincontent" width="100%" cellspacing="20" cellpadding="20" border="0">
+                    <tbody><tr>
+                        <td align="LEFT">
+                            <div id="privacyAct" style="display:block">
+                                <table width="100%" cellspacing="1" cellpadding="8" border="0" bgcolor="#93A2B0">
+                                    <tbody><tr>
+                                        <td class="searchtext" valign="TOP">
+                                            <table width="100%" cellspacing="0" cellpadding="2" border="0">
+                                                <tbody><tr>
+                                                    <td class="content" valign="top">
+                                                        
+                                                            <p class="maintitle" align="center">
+                                                                MANDATORY PRIVACY ACT AND HIPAA WARNING
+                                                            </p>
+                                                            <p>You are accessing a U.S. Government (USG) Information
+                                                                System (IS) that is provided for USG-authorized use
+                                                                only.</p>
+                                                            <span class="maintitle">Privacy Act Warning</span><br>
+                                                            <span>
+                                            (Applies to any system accessed by this connection which contains individual data subject to protection by the Privacy Act of 1974)
+                                        </span>
+                                                            <p>
+                                                                Personally Identifiable Information contained in this
+                                                                system is subject to 5 U.S.C. 552a, as amended, the
+                                                                Privacy Act of 1974 and DoD 5400.11-R, "Department of
+                                                                Defense Privacy Program." Personally Identifiable
+                                                                Information contained in this system may be used only by
+                                                                authorized persons in the conduct of official business.
+                                                                Any individual responsible for unauthorized disclosure
+                                                                or misuse of personal information may be subject to a
+                                                                fine of up to $5000. Executive Order 9397 authorizes
+                                                                solicitation and use of social security numbers (SSNs)
+                                                                as a numerical identifier for personnel that are
+                                                                identified in most federal record systems.
+                                                            </p>
+                                                            <span class="maintitle">HIPAA Warning</span><br>
+                                                            <span>
+                                            (Applies to any system accessed by this connection which contains data related to the health of an individual)
+                                        </span>
+                                                            <p>
+                                                                Protected Health Information in this system is subject
+                                                                to Public Law 104-191, the Health Insurance Portability
+                                                                and Accountability Act of 1996 and the Final Privacy
+                                                                Rule and Final Security Rule codified in 45 C.F.R. § 160
+                                                                and 164, DoD 6025.18-R, "DoD Health Information Privacy
+                                                                Regulation" and DoD 8580.02-R, “DoD Health Information
+                                                                Security Regulation." Information in this system may
+                                                                only be used and/or disclosed in strict conformance with
+                                                                these authorities. The Military Health System (MHS) is
+                                                                required to, and will apply, appropriate sanctions
+                                                                against individuals who fail to comply with its privacy
+                                                                policies and procedures.
+                                                            </p>
+                                                        
+                                                        
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="content" valign="TOP" align="CENTER">
+                                                        <form name="privacyStatement">
+                                                            <br>
+                                                            
+                                                                
+                                                                
+                                                                    <input name="p_button" type="button" value="Accept" class="submit" onclick="location.href='/Doehrs/Login.do';"><br>
+                                                                
+                                                                
+                                                            
+
+                                                            
+                                                        </form>
+                                                    </td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                        </td>
+                    </tr>
+
+                    
+
+                    
+
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+
+</body></html>

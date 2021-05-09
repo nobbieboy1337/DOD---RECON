@@ -1,0 +1,18 @@
+<html><head>
+<title>Error 404--Not Found</title>
+</head>
+<body bgcolor="white">
+<font face="Helvetica"><br clear="all">
+<table cellspacing="5" border="0"><tbody><tr><td><br clear="all">
+<font size="3" face="Helvetica" color="black"><h2>Error 404--Not Found</h2>
+</font></td></tr>
+</tbody></table>
+<table width="100%" cellpadding="10" border="0"><tbody><tr><td width="100%" valign="top" bgcolor="white"><font face="Courier New"><font size="3" face="Helvetica"><h3>From RFC 2068 <i>Hypertext Transfer Protocol -- HTTP/1.1</i>:</h3>
+</font><font size="3" face="Helvetica"><h4>10.4.5 404 Not Found</h4>
+</font><p><font face="Courier New">The server has not found anything matching the Request-URI. No indication is given of whether the condition is temporary or permanent.</font></p><p><font face="Courier New">If the server does not wish to make this information available to the client, the status code 403 (Forbidden) can be used instead. The 410 (Gone) status code SHOULD be used if the server knows, through some internally configurable mechanism, that an old resource is permanently unavailable and has no forwarding address.</font></p>
+</font></td></tr>
+</tbody></table>
+
+
+
+</font></body></html>

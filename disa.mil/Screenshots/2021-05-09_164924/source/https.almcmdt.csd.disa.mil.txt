@@ -1,0 +1,27 @@
+<html><head>
+<title>Micro Focus Common Tools</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="description" content="Micro Focus Common Tools">
+<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="noarchive, nocache, noimageindex, noodp, nosnippet, notranslate, noydir">
+<link rel="shortcut icon" href="/favicon.ico">
+<style type="text/css">
+/*<![CDATA[*/
+@import url('/msgbox.css');
+/*]]>*/
+</style>
+</head>
+<body>
+<div class="msgv"><div class="msgh" id="text">
+<div id="logo"><a href="https://www.microfocus.com/"><span>SERENA</span></a></div>
+<div id="subject">COMMON TOOLS</div>
+<div id="message">
+The default main web page of<br>
+the Micro Focus Common Tools.
+</div>
+</div></div>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+
+</body></html>
