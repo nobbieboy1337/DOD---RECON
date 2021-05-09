@@ -1,0 +1,3 @@
+Protocol,Port,Domain,Request Status,Screenshot Path, Source Path
+http,80,localhost.dod.mil,Timeout,/home/jaleeljustin643/gopath/bin/DOD-Recon/EyeWitness/Python/2021-05-09_165106/screens/http.localhost.dod.mil.png,/home/jaleeljustin643/gopath/bin/DOD-Recon/EyeWitness/Python/2021-05-09_165106/source/http.localhost.dod.mil.txt
+https,443,www.defensetravel.dod.mil,Successful,/home/jaleeljustin643/gopath/bin/DOD-Recon/EyeWitness/Python/2021-05-09_165106/screens/https.www.defensetravel.dod.mil.png,/home/jaleeljustin643/gopath/bin/DOD-Recon/EyeWitness/Python/2021-05-09_165106/source/https.www.defensetravel.dod.mil.txt

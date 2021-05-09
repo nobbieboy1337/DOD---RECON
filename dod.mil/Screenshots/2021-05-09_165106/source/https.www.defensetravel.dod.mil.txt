@@ -1,0 +1,827 @@
+<html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+
+<!-- YouTube Site Verification -->
+<meta name="google-site-verification" content="vdU0-qe9FPxEXjvtJMcnmYlrclc4bU54-ndVp5lNuJg">
+
+<title>Defense Travel Management Office (DTMO)</title>
+	
+<meta name="Description=" content="The single focal point for commercial travel within the Department of Defense; establishing strategic direction, setting policy, and centrally managing commercial travel programs. Home of the Defense Travel System (DTS) and source for official government travel news.">	
+
+<!-- Youtube tracking Google Tag Manager -->
+<meta name="google-site-verification" content="kkuTXCxPqwLlAisF4G2FPf5qqpiDUCw63YpNG5Afyck">
+<!-- End Youtube Google Tag Manager -->
+ 
+ 
+ 
+ <!-- Google Tag Manager -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-5XW7L7W"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5XW7L7W');</script>
+<!-- End Google Tag Manager -->
+
+
+<!-- Hotjar Tracking Code for https://www.defensetravel.dod.mil/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1522644,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="https://static.hotjar.com/c/hotjar-1522644.js?sv=6"></script>
+	
+ 
+<link href="style.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="scripts/coolmenupro.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+function openCSWin(htmlpage) { 
+	csWin = window.open(htmlpage, "comingsoon", "width=590,height=370,scrollbars=yes,resizable,menubar=false,top=50,left=50");
+}
+function openDemoWin() { 
+	demoWin = window.open("site/demos.cfm", "demos", "width=590,height=440,scrollbars=yes,resizable,menubar=false,top=100,left=200");
+}
+
+<!--
+//v1.7
+// Flash Player Version Detection
+// Detect Client Browser type
+// Copyright 2005-2008 Adobe Systems Incorporated.  All rights reserved.
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+function ControlVersion()
+{
+	var version;
+	var axo;
+	var e;
+	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
+	try {
+		// version will be set for 7.X or greater players
+		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
+		version = axo.GetVariable("$version");
+	} catch (e) {
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 6.X players only
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
+			
+			// installed player is some revision of 6.0
+			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
+			// so we have to be careful. 
+			
+			// default to the first public version
+			version = "WIN 6,0,21,0";
+			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
+			axo.AllowScriptAccess = "always";
+			// safe to call for 6.0r47 or greater
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 4.X or 5.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = axo.GetVariable("$version");
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 3.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
+			version = "WIN 3,0,18,0";
+		} catch (e) {
+		}
+	}
+	if (!version)
+	{
+		try {
+			// version will be set for 2.X player
+			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
+			version = "WIN 2,0,0,11";
+		} catch (e) {
+			version = -1;
+		}
+	}
+	
+	return version;
+}
+// JavaScript helper required to detect Flash Player PlugIn version information
+function GetSwfVer(){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	var flashVer = -1;
+	
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			var descArray = flashDescription.split(" ");
+			var tempArrayMajor = descArray[2].split(".");			
+			var versionMajor = tempArrayMajor[0];
+			var versionMinor = tempArrayMajor[1];
+			var versionRevision = descArray[3];
+			if (versionRevision == "") {
+				versionRevision = descArray[4];
+			}
+			if (versionRevision[0] == "d") {
+				versionRevision = versionRevision.substring(1);
+			} else if (versionRevision[0] == "r") {
+				versionRevision = versionRevision.substring(1);
+				if (versionRevision.indexOf("d") > 0) {
+					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
+				}
+			}
+			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	else if ( isIE && isWin && !isOpera ) {
+		flashVer = ControlVersion();
+	}	
+	return flashVer;
+}
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
+{
+	versionStr = GetSwfVer();
+	if (versionStr == -1 ) {
+		return false;
+	} else if (versionStr != 0) {
+		if(isIE && isWin && !isOpera) {
+			// Given "WIN 2,0,0,11"
+			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
+			tempString        = tempArray[1];			// "2,0,0,11"
+			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
+		} else {
+			versionArray      = versionStr.split(".");
+		}
+		var versionMajor      = versionArray[0];
+		var versionMinor      = versionArray[1];
+		var versionRevision   = versionArray[2];
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+		if (versionMajor > parseFloat(reqMajorVer)) {
+			return true;
+		} else if (versionMajor == parseFloat(reqMajorVer)) {
+			if (versionMinor > parseFloat(reqMinorVer))
+				return true;
+			else if (versionMinor == parseFloat(reqMinorVer)) {
+				if (versionRevision >= parseFloat(reqRevision))
+					return true;
+			}
+		}
+		return false;
+	}
+}
+function AC_AddExtension(src, ext)
+{
+  if (src.indexOf('?') != -1)
+    return src.replace(/\?/, ext+'?'); 
+  else
+    return src + ext;
+}
+function AC_Generateobj(objAttrs, params, embedAttrs) 
+{ 
+  var str = '';
+  if (isIE && isWin && !isOpera)
+  {
+    str += '<object ';
+    for (var i in objAttrs)
+    {
+      str += i + '="' + objAttrs[i] + '" ';
+    }
+    str += '>';
+    for (var i in params)
+    {
+      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
+    }
+    str += '</object>';
+  }
+  else
+  {
+    str += '<embed ';
+    for (var i in embedAttrs)
+    {
+      str += i + '="' + embedAttrs[i] + '" ';
+    }
+    str += '> </embed>';
+  }
+  document.write(str);
+}
+function AC_FL_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+     , "application/x-shockwave-flash"
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_SW_RunContent(){
+  var ret = 
+    AC_GetArgs
+    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
+     , null
+    );
+  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
+}
+function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
+  var ret = new Object();
+  ret.embedAttrs = new Object();
+  ret.params = new Object();
+  ret.objAttrs = new Object();
+  for (var i=0; i < args.length; i=i+2){
+    var currArg = args[i].toLowerCase();    
+    switch (currArg){	
+      case "classid":
+        break;
+      case "pluginspage":
+        ret.embedAttrs[args[i]] = args[i+1];
+        break;
+      case "src":
+      case "movie":	
+        args[i+1] = AC_AddExtension(args[i+1], ext);
+        ret.embedAttrs["src"] = args[i+1];
+        ret.params[srcParamName] = args[i+1];
+        break;
+      case "onafterupdate":
+      case "onbeforeupdate":
+      case "onblur":
+      case "oncellchange":
+      case "onclick":
+      case "ondblclick":
+      case "ondrag":
+      case "ondragend":
+      case "ondragenter":
+      case "ondragleave":
+      case "ondragover":
+      case "ondrop":
+      case "onfinish":
+      case "onfocus":
+      case "onhelp":
+      case "onmousedown":
+      case "onmouseup":
+      case "onmouseover":
+      case "onmousemove":
+      case "onmouseout":
+      case "onkeypress":
+      case "onkeydown":
+      case "onkeyup":
+      case "onload":
+      case "onlosecapture":
+      case "onpropertychange":
+      case "onreadystatechange":
+      case "onrowsdelete":
+      case "onrowenter":
+      case "onrowexit":
+      case "onrowsinserted":
+      case "onstart":
+      case "onscroll":
+      case "onbeforeeditfocus":
+      case "onactivate":
+      case "onbeforedeactivate":
+      case "ondeactivate":
+      case "type":
+      case "codebase":
+      case "id":
+        ret.objAttrs[args[i]] = args[i+1];
+        break;
+      case "width":
+      case "height":
+      case "align":
+      case "vspace": 
+      case "hspace":
+      case "class":
+      case "title":
+      case "accesskey":
+      case "name":
+      case "tabindex":
+        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
+        break;
+      default:
+        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
+    }
+  }
+  ret.objAttrs["classid"] = classid;
+  if (mimeType) ret.embedAttrs["type"] = mimeType;
+  return ret;
+}
+// -->
+</script>
+
+<style type="text/css">
+.Titles {	font-size: 14px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.menu_item_font {	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	color: #000000;
+}
+</style>
+
+<style>
+#clockdiv{
+    font-family: sans-serif;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+}
+#clockdiv > div{
+    padding: 6px;
+    border-radius:4px;
+    background:linear-gradient(#749bc7,#3a578b);
+    display: inline-block;
+}
+#clockdiv div > span{
+    padding:4px;
+    border-radius: 6px;
+	width:30px;
+	font-weight:800;
+	font-size: 18px;
+   	background:linear-gradient(#f7ebbf,#ecd068);
+	color:#424242;
+    display: inline-block;
+}
+.oTrans {
+opacity: 0;
+    transition-delay: 0s;
+	transition: opacity 0.35s ease-in-out;
+    -moz-transition: opacity 0.35s ease-in-out;
+    -webkit-transition: opacity 0.35s ease-in-out;
+	-webkit-transition-delay: 0s;
+}
+</style>
+
+
+<script async="" src="https://script.hotjar.com/modules.7225c79fe4e29708c611.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style></head>
+
+<body topmargin="0" marginwidth="0" marginheight="0" leftmargin="0" bgcolor="White" background="images/back.jpg">
+
+	
+	
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5XW7L7W"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div align="center">
+
+<table width="1000" cellspacing="0" cellpadding="0" border="0" bgcolor="#002964">
+<tbody><tr><td style="text-align:right;" background="images/topback.jpg" align="right"><a href="index.cfm"><img src="images/header.png" alt="Defense Travel Management Office - The DoD Center for Travel Excellence" width="571" vspace="0" hspace="0" height="116" border="0" align="left"></a><a href="/site/redesign.cfm"><img src="images/header2_redesign.png" alt="image of a map with lines representing travel routes" width="394" height="116" border="0"></a></td></tr></tbody></table>
+
+<table width="1000" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td background="images/menuback.gif">
+
+<table width="1000" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td style="width: 995px; height: 36px;" background="images/menuback.gif"><script type="text/javascript" src="scripts/menu1.js"></script><div id="menu1_r" style="z-index:1000;position:relative;width:995px;height:36px;"><div style="position: absolute; visibility: inherit; left: 0px; top: 0px; width: 995px; height: 36px;"><div id="menu1_t_0" class="" style="overflow:hidden;position:absolute;width:75px;height:36px;left:0px;top:0px;background-color:#E4D9C0,#118AC2;"></div><table id="menu1_t_1" style="position:absolute;border-collapse:collapse;left:0px;top:0px;width:75px;height:36px;background: #F5EEDD url(/images/l0_bg_out.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">About</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><table id="menu1_t_2" style="visibility:hidden;position:absolute;border-collapse:collapse;left:0px;top:0px;width:75px;height:36px;background: #4FC4FA url(/images/l0_bg_over.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">About</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><a id="menu1_t_3" style="display:block;position:absolute;width:75px;height:36px;left:0px;top:0px;" class="" title="" accesskey="" href="/site/about.cfm" target="" onfocus="return $instances[1].$dispatch('focus',window.event||arguments[0],0)" onblur="return $instances[1].$dispatch('blur',window.event||arguments[0],0)" onkeydown="return $instances[1].$dispatch('keydown',window.event||arguments[0],0)" onmouseover="return $instances[1].$dispatch('mouseover',window.event||arguments[0],0)" onmouseout="return $instances[1].$dispatch('mouseout',window.event||arguments[0],0)" onclick="return $instances[1].$dispatch('click',window.event||arguments[0],0)"><img src="/images/b.gif" title="" alt="" width="100%" height="100%" border="0"></a><div id="menu1_t_4" class="" style="overflow:hidden;position:absolute;width:140px;height:36px;left:74px;top:0px;background-color:#E4D9C0,#118AC2;"></div><table id="menu1_t_5" style="position:absolute;border-collapse:collapse;left:74px;top:0px;width:140px;height:36px;background: #F5EEDD url(/images/l0_bg_out.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Travel Programs</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><table id="menu1_t_6" style="visibility:hidden;position:absolute;border-collapse:collapse;left:74px;top:0px;width:140px;height:36px;background: #4FC4FA url(/images/l0_bg_over.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Travel Programs</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><a id="menu1_t_7" style="display:block;position:absolute;width:140px;height:36px;left:74px;top:0px;" class="" title="" accesskey="" href="/site/programs.cfm" target="" onfocus="return $instances[1].$dispatch('focus',window.event||arguments[0],1)" onblur="return $instances[1].$dispatch('blur',window.event||arguments[0],1)" onkeydown="return $instances[1].$dispatch('keydown',window.event||arguments[0],1)" onmouseover="return $instances[1].$dispatch('mouseover',window.event||arguments[0],1)" onmouseout="return $instances[1].$dispatch('mouseout',window.event||arguments[0],1)" onclick="return $instances[1].$dispatch('click',window.event||arguments[0],1)"><img src="/images/b.gif" title="" alt="" width="100%" height="100%" border="0"></a><div id="menu1_t_8" class="" style="overflow:hidden;position:absolute;width:205px;height:36px;left:213px;top:0px;background-color:#E4D9C0,#118AC2;"></div><table id="menu1_t_9" style="position:absolute;border-collapse:collapse;left:213px;top:0px;width:205px;height:36px;background: #F5EEDD url(/images/l0_bg_out.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Customer Support &amp; Training</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><table id="menu1_t_10" style="visibility:hidden;position:absolute;border-collapse:collapse;left:213px;top:0px;width:205px;height:36px;background: #4FC4FA url(/images/l0_bg_over.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Customer Support &amp; Training</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><a id="menu1_t_11" style="display:block;position:absolute;width:205px;height:36px;left:213px;top:0px;" class="" title="" accesskey="" href="/site/customer_support.cfm" target="" onfocus="return $instances[1].$dispatch('focus',window.event||arguments[0],2)" onblur="return $instances[1].$dispatch('blur',window.event||arguments[0],2)" onkeydown="return $instances[1].$dispatch('keydown',window.event||arguments[0],2)" onmouseover="return $instances[1].$dispatch('mouseover',window.event||arguments[0],2)" onmouseout="return $instances[1].$dispatch('mouseout',window.event||arguments[0],2)" onclick="return $instances[1].$dispatch('click',window.event||arguments[0],2)"><img src="/images/b.gif" title="" alt="" width="100%" height="100%" border="0"></a><div id="menu1_t_12" class="" style="overflow:hidden;position:absolute;width:170px;height:36px;left:417px;top:0px;background-color:#E4D9C0,#118AC2;"></div><table id="menu1_t_13" style="position:absolute;border-collapse:collapse;left:417px;top:0px;width:170px;height:36px;background: #F5EEDD url(/images/l0_bg_out.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Policy &amp; Regulations</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><table id="menu1_t_14" style="visibility:hidden;position:absolute;border-collapse:collapse;left:417px;top:0px;width:170px;height:36px;background: #4FC4FA url(/images/l0_bg_over.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Policy &amp; Regulations</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><a id="menu1_t_15" style="display:block;position:absolute;width:170px;height:36px;left:417px;top:0px;" class="" title="" accesskey="" href="/site/travelreg.cfm" target="" onfocus="return $instances[1].$dispatch('focus',window.event||arguments[0],3)" onblur="return $instances[1].$dispatch('blur',window.event||arguments[0],3)" onkeydown="return $instances[1].$dispatch('keydown',window.event||arguments[0],3)" onmouseover="return $instances[1].$dispatch('mouseover',window.event||arguments[0],3)" onmouseout="return $instances[1].$dispatch('mouseout',window.event||arguments[0],3)" onclick="return $instances[1].$dispatch('click',window.event||arguments[0],3)"><img src="/images/b.gif" title="" alt="" width="100%" height="100%" border="0"></a><div id="menu1_t_16" class="" style="overflow:hidden;position:absolute;width:205px;height:36px;left:586px;top:0px;background-color:#E4D9C0,#118AC2;"></div><table id="menu1_t_17" style="position:absolute;border-collapse:collapse;left:586px;top:0px;width:205px;height:36px;background: #F5EEDD url(/images/l0_bg_out.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Travel &amp; Transportation Rates</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><table id="menu1_t_18" style="visibility:hidden;position:absolute;border-collapse:collapse;left:586px;top:0px;width:205px;height:36px;background: #4FC4FA url(/images/l0_bg_over.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Travel &amp; Transportation Rates</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><a id="menu1_t_19" style="display:block;position:absolute;width:205px;height:36px;left:586px;top:0px;" class="" title="" accesskey="" href="/site/travelreg.cfm" target="" onfocus="return $instances[1].$dispatch('focus',window.event||arguments[0],4)" onblur="return $instances[1].$dispatch('blur',window.event||arguments[0],4)" onkeydown="return $instances[1].$dispatch('keydown',window.event||arguments[0],4)" onmouseover="return $instances[1].$dispatch('mouseover',window.event||arguments[0],4)" onmouseout="return $instances[1].$dispatch('mouseout',window.event||arguments[0],4)" onclick="return $instances[1].$dispatch('click',window.event||arguments[0],4)"><img src="/images/b.gif" title="" alt="" width="100%" height="100%" border="0"></a><div id="menu1_t_20" class="" style="overflow:hidden;position:absolute;width:205px;height:36px;left:790px;top:0px;background-color:#E4D9C0,#118AC2;"></div><table id="menu1_t_21" style="position:absolute;border-collapse:collapse;left:790px;top:0px;width:205px;height:36px;background: #F5EEDD url(/images/l0_bg_out.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Station &amp; Housing Allowances</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><table id="menu1_t_22" style="visibility:hidden;position:absolute;border-collapse:collapse;left:790px;top:0px;width:205px;height:36px;background: #4FC4FA url(/images/l0_bg_over.gif);" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class=""><div class="" style="color: #000080; font: bold 9pt Arial, sans-serif; text-align: center; padding-left: 0px;">Station &amp; Housing Allowances</div></td><td width="20"><img src="/images/arrow.gif" width="20" height="15"></td></tr></tbody></table><a id="menu1_t_23" style="display:block;position:absolute;width:205px;height:36px;left:790px;top:0px;" class="" title="" accesskey="" href="/site/allowances.cfm" target="" onfocus="return $instances[1].$dispatch('focus',window.event||arguments[0],5)" onblur="return $instances[1].$dispatch('blur',window.event||arguments[0],5)" onkeydown="return $instances[1].$dispatch('keydown',window.event||arguments[0],5)" onmouseover="return $instances[1].$dispatch('mouseover',window.event||arguments[0],5)" onmouseout="return $instances[1].$dispatch('mouseout',window.event||arguments[0],5)" onclick="return $instances[1].$dispatch('click',window.event||arguments[0],5)"><img src="/images/b.gif" title="" alt="" width="100%" height="100%" border="0"></a></div></div><script type="text/javascript">CLoadNotify();</script><noscript><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+		<td align="right" background="images/menuback.gif"><img src="images/menudiv_ro.gif" alt=" " width="6" height="36" hspace="0" border="0"></td>
+<td align="center" background="images/menuback_on.gif"><a href="index.cfm" class="menuon">Home</a></td>
+<td align="left" background="images/menuback.gif"><img src="images/menudiv_lo.gif" alt=" " width="6" height="36" hspace="0" border="0"></td>
+<td align="center" background="images/menuback.gif" onMouseOver="this.style.backgroundImage='url(images/menuback_on.gif)'" onMouseOut="this.style.backgroundImage='url(images/menuback.gif)'"><a href="site/about.cfm" class="menu">About</a></td>
+<td align="center" background="images/menuback.gif"><img src="images/menudiv.gif" alt=" " width="6" height="36" hspace="0" border="0"></td>
+<td align="center" background="images/menuback.gif" onMouseOver="this.style.backgroundImage='url(images/menuback_on.gif)'" onMouseOut="this.style.backgroundImage='url(images/menuback.gif)'"><a href="site/programs.cfm" class="menu">Programs &amp; Services</a></td>
+<td align="center" background="images/menuback.gif"><img src="images/menudiv.gif" alt=" " width="6" height="36" hspace="0" border="0"></td>
+<td align="center" background="images/menuback.gif" onMouseOver="this.style.backgroundImage='url(images/menuback_on.gif)'" onMouseOut="this.style.backgroundImage='url(images/menuback.gif)'"><a href="site/news.cfm" class="menu">News &amp; Events</a></td>
+<td align="center" background="images/menuback.gif"><img src="images/menudiv.gif" alt=" " width="6" height="36" hspace="0" border="0"></td>
+<td align="center" background="images/menuback.gif" onMouseOver="this.style.backgroundImage='url(images/menuback_on.gif)'" onMouseOut="this.style.backgroundImage='url(images/menuback.gif)'"><a href="site/resources.cfm" class="menu">References</a></td>
+<td align="center" background="images/menuback.gif"><img src="images/menudiv.gif" alt=" " width="6" height="36" hspace="0" border="0"></td></tr>
+</table></noscript>
+
+</td>
+<td background="images/menuback.gif" align="center"></td>
+<td background="images/menuback.gif" align="right"><img src="images/menuright.gif" alt=" " width="6" height="36" border="0"></td>
+</tr>
+</tbody></table>
+
+
+</td>
+</tr>
+
+
+
+
+<tr>
+<td><table width="1000" cellspacing="0" cellpadding="0" border="0" bgcolor="white" background="images/itsback.jpg">
+  <tbody><tr background="images/itsback.jpg">
+    <td colspan="2" valign="top" height="621"><table cellspacing="0" cellpadding="0" border="0" bgcolor="white" background="images/itsback.jpg">
+      <tbody><tr>
+        <td colspan="3" valign="top" align="center"><!--url's used in the movie-->
+          <!--text used in the movie-->
+          <!--
+Text
+-->
+          <!-- saved from url=(0013)about:internet -->
+
+          <a href="https://www.defensetravel.dod.mil/coronavirus/" border="0"><img src="images/news_In_The_Spotlight_CoronavirusBannerC-R3.jpg" alt="" width="628" height="220" border="0"></a><br>
+	
+          <img src="images/mainsepline.png" alt="" width="627" height="3"></td>
+        <td rowspan="4" width="3" valign="top" background="images/div3.gif"><img src="images/dtsback.jpg" alt="" width="3" hspace="0" height="34" border="0"></td>
+        <td rowspan="4" width="785" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0" background="images/dtsback.jpg" align="right">
+          <tbody><tr>
+            <td><table width="100%" cellspacing="0" cellpadding="3" border="0" align="left">
+              <tbody><tr> 			  
+                <form action="site/search.cfm"></form><td width="24%" nowrap="" height="20" align="right"><input type="text" name="keywords" size="18" height="20" align="left"></td>
+                  
+                  <td width="37%" nowrap="" height="20" align="left"><input type="image" src="images/search2.jpg" alt="Search" align="left"></td>
+                  <td width="39%" nowrap="" height="20" bgcolor="#006DD9" align="center"><a href="https://www.defensetravel.osd.mil/dts/site/index.jsp" target="_blank" class="DTS-Access" style="font:8pt Arial; color:Navy;font-weight:bold;"><center><img src="images/logintodts2.jpg" alt="Login to DTS" vspace="0" border="0" align="middle"></center></a></td>
+                  
+                
+                                </tr>
+            </tbody></table></td>
+           
+          </tr>
+        </tbody></table>
+          <br clear="right">
+          <link href="/style.css" rel="stylesheet" type="text/css"><table width="369" cellspacing="0" cellpadding="0" border="0" align="left">
+            
+<style type="text/css">
+.menu_item_font {font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	color: #000000;
+}
+</style>
+
+<tbody><tr>
+  <td width="354" valign="top" nowrap="" height="190" align="left">
+    <table width="367" height="193" cellspacing="0" cellpadding="0" border="0" background="images/In-Other-News4.png">
+      <tbody><tr>
+        <td valign="top" height="193"><br>
+          &nbsp;  &nbsp; <img src="images/In-Other-News-txtonly.png" alt="In Other News" usemap="#News" width="181" height="27" border="0"><br>
+          <table width="350" cellspacing="0" cellpadding="2" border="0" align="right">
+
+
+
+            
+    
+            <tbody><tr>
+              <td>&nbsp;</td>
+              <td height="13"><span class="menu_item_font"><img src="images/bullet_blue_cir.png" alt="" width="6" hspace="0" height="6" border="0"></span><br></td>
+              <td style="font-size: 13px; font-style: normal; font-family: Tahoma, Geneva, sans-serif;" height="20"><a href="https://www.tsa.gov/news/press/releases/2021/04/27/dhs-announces-extension-real-id-full-enforcement-deadline" title="DHS Extends REAL ID Enforcement Deadline" target="_blank" class="text">DHS Extends REAL ID Enforcement Deadline</a></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td height="13"><span class="menu_item_font"><img src="images/bullet_blue_cir.png" alt="" width="6" hspace="0" height="6" border="0"></span><br></td>
+              <td style="font-size: 13px; font-style: normal; font-family: Tahoma, Geneva, sans-serif;" height="20"><a href="/site/award_winners.cfm" title="Excellence in Practice Award Winners Announced" class="text">Excellence in Practice Award Winners Announced</a></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td height="13"><span class="menu_item_font"><img src="images/bullet_blue_cir.png" alt="" width="6" hspace="0" height="6" border="0"></span><br></td>
+              <td style="font-size: 13px; font-style: normal; font-family: Tahoma, Geneva, sans-serif;" height="20"><a href="https://www.defensetravel.dod.mil/site/rssDetail.cfm?id=6983" title="DoD Dine Smart Traveler Rewards – Enroll Today!" class="text">DoD Dine Smart Traveler Rewards – Enroll Today!</a></td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td height="13"><span class="menu_item_font"><img src="../images/spacer.gif" alt="" width="1" height="1"><img src="images/bullet_blue_cir.png" alt="" width="6" hspace="0" height="6" border="0"></span><br></td>
+              <td style="font-size: 13px; font-style: normal; font-family: Tahoma, Geneva, sans-serif;" height="20"><a href="/site/dispatch.cfm" title="Spring 2021 Dispatch" class="text">The Dispatch Newsletter - Spring 2021</a></td>
+            </tr>
+            <tr>
+              
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td valign="top" height="13"><span class="menu_item_font"><img src="images/spacer.gif" alt="" width="4" hspace="0" height="4" border="0"><br>
+              <img src="images/bullet_blue_cir.png" alt="" width="6" hspace="0" height="6" border="0"></span><br></td>
+              <td style="font-size: 13px; font-style: normal; font-family: Tahoma, Geneva, sans-serif;" height="20"><a href="https://www.defensetravel.dod.mil/site/rssDetail.cfm?id=6984" title="Defense Travel Enterprise Customer Satisfaction Survey released" class="text">Defense Travel Enterprise Customer <br>
+              Satisfaction Survey released</a></td>
+            </tr>
+
+            
+          </tbody></table>
+        </td>
+      </tr>
+      </tbody></table>
+
+
+            </td></tr><tr>
+              <td valign="top" height="400"><img src="images/tac_main.png" alt="Travel Assistance" usemap="#MapMap" title="Travel Assistance" width="369" border="0" align="top">
+                <table style="display: inline-table;" width="369" cellspacing="0" cellpadding="0" border="0">
+                  <tbody><tr>
+                    <td><center><img src="../images/FrontPageGraphics-DTM.png" alt="Defense Travel Modernization Prototype" name="SP33A2_r1_c1" usemap="#SP33A2_r1_c1Map" id="SP33A2_r1_c1" title="Defense Travel Modernization Prototype" width="369" height="206" border="0"></center></td>
+                  </tr>
+                  </tbody></table>
+                </td>
+            </tr>
+          </tbody></table>
+          <map name="MapMap">
+            <area shape="rect" coords="128,109,227,129" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=N" alt="Navy  LDTA">
+            <area shape="rect" coords="127,151,225,172" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=M" alt="Marine Corps  LDTA">
+            <area shape="rect" coords="243,72,344,96" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=F" alt="Air Force LDTA">
+            <area shape="rect" coords="247,148,348,169" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=J" alt="Joint Command  LDTA">
+            <area shape="rect" coords="162,195,304,214" href="/site/tac.cfm" alt="Travel Assistance Center">
+            <area shape="rect" coords="244,109,339,130" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=X" alt="DoD Agency  LDTA">
+            <area shape="rect" coords="123,71,228,96" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=A" alt="Army LDTA">
+            <area shape="rect" coords="2928,1734,4093,1980" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=J">
+            <area shape="rect" coords="2894,1276,3989,1523" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=X">
+            <area shape="rect" coords="1545,1769,2675,2015" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=M">
+            <area shape="rect" coords="1556,1276,2698,1511" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=N">
+            <area shape="rect" coords="2882,843,4047,1125" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=F" alt="Air Force LDTA">
+            <area shape="rect" coords="1499,831,2709,1125" href="https://www.defensetravel.dod.mil/site/localSupport.cfm?sa=A" alt="Army LDTA">
+            <area shape="rect" coords="1948,2284,3586,2507" href="/site/tac.cfm" alt="Travel Assistance Center">
+          </map>        </td></tr>
+      <tr valign="top">
+        <td colspan="3" nowrap="" height="327">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+<style type="text/css">
+.menu_item_font {font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	color: #000000;
+}
+</style>
+
+<link href="../style.css" rel="stylesheet" type="text/css">
+<br>
+<table width="400" cellspacing="0" cellpadding="0" border="0" align="center">
+  <tbody><tr>
+    <td width="32%" valign="top" align="left"><table width="250" cellspacing="0" cellpadding="0" border="0" align="left">
+      <tbody><tr>
+        <td rowspan="2" width="16%" valign="top"><img src="/images/DTMO-Icons-v4_r2_c1_s1.png" alt="Travel Tools" width="43" height="46"></td>
+        <td colspan="3" valign="top" height="35"><img src="/images/DTMO-Icons-v4_r2_c2_s1.png" alt="Travel Tools" width="99" height="33"></td>
+      </tr>
+      <tr>
+        <td width="5%" height="20" align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font" width="2%">&nbsp;</td>
+        <td class="menu_item_font" width="77%"><a href="../site/localSupport.cfm" title="Find Your DTA" class="normal">Find Your DTA</a></td>
+      </tr>
+ 
+      <tr>
+        <td width="16%">&nbsp;</td>
+        <td width="5%" align="right"><img src="/images/bullet_blue_cir.png" alt="" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../site/goto.cfm?link=http://www.gsa.gov/portal/category/21288" title="State Tax Exemption Forms" target="_blank" class="normal">State Tax Exemption Forms</a></td>
+      </tr>
+      <tr>
+        <td width="16%">&nbsp;</td>
+        <td width="5%" align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../site/goto.cfm?link=https://www.gsa.gov/portal/content/103882" title="Baggage Allowance" target="_blank" class="normal">Baggage Allowance</a></td>
+      </tr>
+      <tr>
+        <td width="16%">&nbsp;</td>
+        <td width="5%" align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="https://www.defensetravel.dod.mil/Rental" title="Rental Vehicle Assistance Tool" target="_blank" class="normal"> Rental Vehicle Assistance Tool</a></td>
+      </tr>
+      <tr>
+        <td width="16%">&nbsp;</td>
+        <td width="5%" align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../Passport" title="Travel Explorer (TraX)" target="_blank" class="normal">TraX</a></td>
+      </tr>
+      <tr>
+        <td width="16%">&nbsp;</td>
+        <td width="5%" align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../site/pdcFiles.cfm?dir=/Allowances/" title="Allowance Tables" target="_blank" class="normal">Allowance Tables</a></td>
+      </tr>
+      <tr>
+        <td width="16%">&nbsp;</td>
+        <td width="5%" align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../site/allcalc.cfm" title="Allowance Calculators" class="normal">Allowance Calculators</a></td>
+      </tr>
+      
+      <tr>
+        <td>&nbsp;</td>
+        <td align="right"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../site/restrictedfares.cfm" title="Restricted Fares" class="normal">Restricted Fares</a></td>
+      </tr>
+      <tr>
+        <td rowspan="2" valign="top"><img src="/images/DTMO-Icons-v4_r11_c1_s1.png" alt="Training Resources" title="Training Resources" width="43" height="45"></td>
+        <td colspan="3" valign="bottom" height="34"><img src="/images/DTMO-Icons-v4_r11_c2_s1.png" alt="Training Resources" title="Training Resources" width="159" height="33"></td>
+      </tr>
+      <tr>
+        <td height="19"><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><a href="site/training.cfm#lookup" title="Training Resource Lookup" class="normal">Training Resource Lookup</a></span></td>
+      </tr>
+      <tr>
+        <td height="20">&nbsp;</td>
+        <td><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" vspace="1" hspace="0" height="6" border="0" align="right"></td>
+        <td>&nbsp;</td>
+        <td nowrap=""><a href="../site/trainingSearch.cfm" title="Listing of Available Training Resources" class="normal">Listing of Available Training Resources</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>
+          <img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" vspace="1" hspace="0" height="6" border="0" align="right"></td>
+        <td>&nbsp;</td>
+        <td><a href="../site/training.cfm#lookup" title="New and Updated Training Resources" class="normal">New and Updated Training Resources</a></td>
+      </tr>
+      <tr>
+        <td rowspan="2">&nbsp;</td>
+        <td height="17"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" vspace="1" hspace="0" height="6" border="0" align="right"></td>
+        <td rowspan="2">&nbsp;</td>
+        <td valign="bottom"><a href="../Docs/Training_Instructions.pdf" title="Instructions for Accessing Training" target="_blank" class="normal">Instructions for Accessing Training 
+        </a></td>
+      </tr>
+      <tr>
+        <td valign="top">&nbsp;</td>
+        <td valign="top"><a href="../Docs/Training_Instructions.pdf" target="_blank" class="normal">in TraX</a></td>
+      </tr>
+
+      <tr>
+        <td rowspan="2" height="33">&nbsp;</td>
+        <td nowrap="nowrap" height="17"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" vspace="1" hspace="0" height="6" border="0" align="right"></td>
+        <td rowspan="2">&nbsp;</td>
+        <td><a href="../site/instTools.cfm" title="Enterprise Web Training System" class="normal">Enterprise Web Training System</a></td>
+      </tr>
+      <tr>
+        <td nowrap="nowrap">&nbsp;</td>
+        <td><a href="../site/instTools.cfm" title="(EWTS) - Guide and Request Form" class="normal">(EWTS) - Guide  and Request Form</a></td>
+      </tr> 
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap" height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap" height="10">&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap" height="10">&nbsp;</td>
+      </tr>
+    </tbody></table></td>
+    <td width="68%" valign="top"><table width="50%" cellspacing="0" cellpadding="0" border="0" align="left">
+      <tbody><tr>
+        <td rowspan="2" valign="top"><img src="/images/DTMO-Icons-v4_r8_c1_s1.png" alt="Travel Regulations and Allowances" width="43" height="46"></td>
+        <td colspan="3" valign="top" height="38"><img src="/images/DTMO-Icons-v4_r8_c2_s1.png" alt="Travel Regulations" width="276" height="35"></td>
+      </tr>
+      <tr>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><a href="site/bah.cfm" title="Basic Allowance For Housing" class="normal">Basic Allowance For Housing</a></span></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/conus.cfm" title="CONUS COLA" class="normal">CONUS COLA</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/cola.cfm" title="Overseas COLA" class="normal">Overseas COLA</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/oha.cfm" title="Overseas Housing Allowance" class="normal"> Overseas Housing Allowance</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/perdiem.cfm" title="Per Diem" class="normal">Per Diem</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/travelreg.cfm" title="Joint Travel Regulations (JTR)" class="normal">Joint Travel Regulations (JTR)</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/dodi5154.cfm" title="DoD Instruction 5154.31" class="normal">DoD Instruction 5154.31<img src="/images/pixel.gif" alt="" width="5" hspace="0" height="" border="0"></a></td>
+        </tr>
+      <tr>
+        <td rowspan="3" valign="top"><img src="/images/DTMO-Icons-v4_r5_c1_s1.png" alt="Travel Programs" width="43" height="46"></td>
+        <td colspan="3" valign="bottom" height="34"><img src="/images/DTMO-Icons-v4_r5_c2_s1.png" alt="Travel Programs" title="Travel Programs" width="127" height="20"></td>
+      </tr>
+      <tr>
+        <td height="18"><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="../site/comAir.cfm" title="Air" class="normal"> Air</a></td>
+        </tr>
+      <tr>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td>&nbsp;</td>
+        <td nowrap="nowrap"><span class="menu_item_font"><a href="../site/bus.cfm" title="Bus Program" class="normal">DoD Bus Program</a></span></td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap"><a href="../site/dinesmart.cfm" title="Dining Program" class="normal">Dining Program</a></td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap"><a href="../site/govtravelcard.cfm" title="Government Travel Charge Card" class="normal">Government Travel Charge Card</a></td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap"><a href="../site/lodging.cfm" title="Integrated Lodging Program Pilot" target="_blank" class="normal">Integrated Lodging Program</a><a href="goto.cfm?link=http://www.dodlodging.net/" target="_blank" class="normal"></a></td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap"><a href="../site/recruitAssist.cfm" title="Recruit Travel and Assistance" class="normal">Recruit Travel  Assistance</a></td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font" nowrap="nowrap"><a href="../site/rentalCar.cfm" title="Rental Car and Truck Program" class="normal">Rental Car and Truck Program</a></td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/compliance.cfm" title="Travel Policy Compliance" class="normal"> Travel Policy Compliance</a></td>
+        </tr>
+      <tr>
+        <td rowspan="2" valign="top"><img src="/images/DTMO-Icons-v4_r14_c1_s1.png" alt="Defense Travel System" width="43" height="46"></td>
+        <td colspan="3" valign="bottom"><img src="/images/DTMO-Icons-v4_r14_c2_s1.png" alt="Defense Travel System" class="normal" title="Defense Travel System" width="182" height="36" border="0"></td>
+      </tr>
+      <tr>
+        <td><span class="menu_item_font"><img src="/images/bullet_blue_cir.png" alt="Bullet" width="6" hspace="0" height="6" border="0" align="right"></span></td>
+        <td class="menu_item_font">&nbsp;</td>
+        <td class="menu_item_font"><a href="site/dtsupdates.cfm" title="Recent Software Updates" class="normal">Recent Software Updates</a><a href="DTSOutreach/DTS-EWTS_Maintenance_Schedule.pdf" target="_blank" class="normal"></a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+
+           
+        <table width="100%" cellspacing="0" cellpadding="0" border="0" background="images/itsback.jpg">
+          <tbody><tr><td>&nbsp;</td></tr>
+            <tr>
+              <td scope="row" valign="bottom" align="left"><table cellspacing="0" cellpadding="0" border="0" align="left">
+                <tbody><tr>
+                  <td width="107" nowrap="nowrap" bgcolor="#FFFFFF"><img src="images/connect.jpg" alt="Connect:" width="107" hspace="0" height="37" border="0" align="bottom"></td>
+                  
+                          <td width="35" nowrap="nowrap" background="images/connectback.jpg"><a class="QuickLinks-Icon-Newsletter" href="https://www.defensetravel.dod.mil/site/dispatch.cfm"><img src="images/news_icon.png" id="Dispatch" alt="Defense Travel Dispatch" width="25" hspace="0" height="25" border="0"></a></td>
+                  <td nowrap="nowrap" background="images/connectback.jpg"><img src="images/pixel.gif" alt="" width="1" hspace="0" height="4" border="0"><a class="QuickLinks-Link-Newsletter" href="https://www.defensetravel.dod.mil/site/dispatch.cfm" title="Defense Travel Dispatch" style="font:8pt Arial; color:Navy;font-weight:bold;">Newsletter</a></td>             
+                  <td width="20" nowrap="nowrap" background="images/connectback.jpg">&nbsp;&nbsp;</td>
+                  <td width="29" nowrap="nowrap"><a class="QuickLinks-Icon-RSS-Feeds" href="../site/rss.cfm"><img src="images/rss.jpg" alt="RSS" width="29" hspace="0" height="37" border="0" align="bottom"></a></td>
+                  <td nowrap="nowrap" background="images/connectback.jpg"><img src="images/pixel.gif" alt="" width="1" hspace="0" height="4" border="0" align="bottom"> <a class="QuickLinks-Link-RSS-Feeds" href="../site/rss.cfm" title="RSS Feeds" style="font:8pt Arial; color:Navy;font-weight:bold;">RSS Feeds</a></td>
+                  <td width="9" nowrap="nowrap" background="images/connectback.jpg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                  <td nowrap="nowrap"><a href="javascript: openCSWin('site/comingsoon.cfm?type=pod')"><img src="images/podcasts.jpg" alt="Coming soon" width="30" hspace="0" height="37" border="0" align="bottom"></a></td>
+                  <td nowrap="nowrap" background="images/connectback.jpg"><img src="images/pixel.gif" alt="" width="1" hspace="0" height="4" border="0" align="bottom"><a href="javascript: openCSWin('site/comingsoon.cfm?type=pod')" title="Coming soon" style="font:8pt Arial; color:Navy;font-weight:bold;">Podcasts</a></td>
+                  <td width="10" nowrap="nowrap" background="images/connectback.jpg"><img src="images/pixel.gif" alt="" width="1" hspace="0" height="4" border="0" align="bottom"></td>
+                  <td width="56" nowrap="nowrap"><img src="images/connectend2.png" alt="" width="56" hspace="0" height="37" border="0" align="bottom"></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+</tbody></table>
+
+<img src="images/itsback2.jpg" alt=" " width="1000" hspace="0" height="5" border="0" align="top"><table cellspacing="0" cellpadding="0" border="0" align="left">
+      <tbody><tr></tr>
+</tbody></table>
+    
+</td> 
+</tr>
+</tbody></table>
+<br>
+<div align="center"><img src="images/reshaping2.png" alt="Reshaping the Defense Travel Enterprise Through Results-Oriented Innovation" width="329" height="25" border="0"><br><br>
+
+<a href="site/sitemap.cfm" style="color:Navy;">Site Map</a> | <a href="site/contacts.cfm" style="color:Navy;">Contact Us</a> | <a href="site/dtmojobs.cfm" style="color:Navy;">Job Opportunities</a> | <a href="site/privacy.cfm" style="color:Navy;">Privacy and Security Notice</a> | <a href="https://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank" style="color:Navy;">Accessibility/Section 508</a> | <a href="site/externalLinks.cfm" style="color:Navy;">External Links Disclaimer</a><br>
+<a href="https://www.esd.whs.mil/FOID/" title="FOIA" target="_blank" style="color:Navy;">FOIA</a> | <a href="https://USA.gov" target="_blank" style="color:Navy;">USA.gov</a> | <a href="http://www.defense.gov/" title="Department of Defense" target="_blank" style="color:Navy;">Department of Defense</a> | <a href="https://prhome.defense.gov/" target="_blank" style="color:Navy;">Personnel &amp; Readiness</a> | <a href="https://www.dhra.mil/" title="Defense Human Resources Activity" target="_blank" style="color:Navy;">Defense Human Resources Activity</a> | <a href="https://www.defensetravel.dod.mil/Community/se/251137451A5EC3D4" title="Feedback" target="_blank" style="color:Navy;">Help &amp; Feedback</a></div>
+
+<br>&nbsp;
+<map name="SP33A2_r1_c1Map">
+  <area shape="rect" coords="3,6,364,198" href="site/dtmprototype.cfm" alt="DTM Prototype">
+</map>
+	
+	
+
+
+</td></tr></tbody></table></div><iframe style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-5e3cec51ed8e99df6977c199d27812d7.html"></iframe></body></html>
