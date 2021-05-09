@@ -1,0 +1,149 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+<title>US Army Corps of Engineers</title>
+
+
+
+
+<style type="text/css">
+.auto-style5 {
+	background-color: #333333;
+	text-align: center;
+}
+.auto-style7 {
+	background-color: #333333;
+}
+.auto-style13 {
+	background-color: #333333;
+	color: #FFFFFF;
+	text-align: left;
+}
+.auto-style15 {
+	color: #D2D2D2;
+}
+.auto-style16 {
+	background-color: #666666;
+}
+.auto-style17 {
+	border-width: 0px;
+}
+.auto-style18 {
+	background-color: #333333;
+	color: #D2D2D2;
+}
+.auto-style20 {
+	text-decoration: none;
+}
+.auto-style21 {
+	text-align: center;
+}
+</style>
+</head>
+
+<body style="margin: 0">
+
+<table style="width: 1000px; height: 593px;" role="presentation" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr>
+		<td colspan="5">
+		<a href="https://www.usace.army.mil//">
+		<img title="U.S. Army Corps of Engineers" class="auto-style17" src="images/header.png" width="1000" height="68"></a></td>
+	</tr>
+	<tr>
+		<td colspan="5" style="height: 274px" class="auto-style21">
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="5" class="auto-style16" style="height: 10px"></td>
+	</tr>
+	<tr>
+		<td class="auto-style7" style="width: 504px">&nbsp;</td>
+		<td class="auto-style7" rowspan="4" style="width: 59px">&nbsp;</td>
+		<td class="auto-style13" style="width: 157px">
+		&nbsp;</td>
+		<td class="auto-style7" style="width: 135px">&nbsp;</td>
+		<td class="auto-style5">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="auto-style7" style="height: 53px; width: 504px">
+		<span class="auto-style15"><strong>Our Mission </strong></span>
+		<br class="auto-style15">
+		<br class="auto-style15">
+		<span class="auto-style15">The mission of the U.S. Army Corps of 
+		Engineers is to deliver vital public and military engineering services; 
+		partnering in peace and war to strengthen our nation’s security, 
+		energize the economy and reduce risks from disasters. </span></td>
+		<td class="auto-style13" style="width: 157px" valign="top">
+		<a href="http://www.facebook.com/USACEHQ" target="_blank">
+		<img src="images/facebook.JPG" title="Facebook" class="auto-style17" width="30" height="27"></a><a href="http://twitter.com/USACEHQ" target="_blank"><img title="Twitter" src="images/twitter.JPG" class="auto-style17" width="32" height="27"></a><a href="http://www.youtube.com/CORPSCONNECTION" target="_blank"><img title="YouTube" src="images/youtube.JPG" class="auto-style17" width="30" height="26"></a><a href="http://www.flickr.com/photos/usacehq" target="_blank"><img title="Flickr" src="images/flickr.jpg" class="auto-style17" width="27" height="26"></a></td>
+		<td class="auto-style7" style="width: 135px">&nbsp;</td>
+		<td class="auto-style5" style="height: 53px" valign="top">
+		<a href="https://www.army.mil/" target="_blank">
+		<img title="U.S. Army" src="images/army-logo-color.png" class="auto-style17" longdesc="U.S. Army" width="65" height="86"></a></td>
+	</tr>
+	<tr>
+		<td class="auto-style7" style="height: 8px; width: 504px"></td>
+		<td class="auto-style18" rowspan="2" style="width: 157px">
+		<strong>
+		<a class="auto-style20" href="http://www.esd.whs.mil/DD/plainlanguage" target="_blank">
+		<span class="auto-style15">Plain Language</span></a>
+		<a class="auto-style20" href="https://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank">
+		<span class="auto-style15">Accessibility </span></a><br>
+		<a class="auto-style20" href="https://www.usace.army.mil/Contact.aspx">
+		<span class="auto-style15">Contact Us </span></a><br>
+		<a class="auto-style20" href="https://www.usace.army.mil/InformationQualityAct.aspx">
+		<span class="auto-style15">Quality Facts </span></a><br>
+		<a class="auto-style20" href="https://www.usace.army.mil/LinkDisclaimer.aspx">
+		<span class="auto-style15">Link Disclaimer </span></a><br>
+		<a class="auto-style20" href="https://www.usace.army.mil/PrivacyandSecurity.aspx">
+		<span class="auto-style15">Privacy &amp; Security </span></a></strong></td>
+		<td class="auto-style18" rowspan="2" style="width: 135px">
+		<strong>
+		<a class="auto-style20" href="https://www.usace.army.mil/SiteMap.aspx">
+		<span class="auto-style15">Site Map </span></a><br>
+		<a class="auto-style20" href="https://www.usa.gov/" target="_blank">
+		<span class="auto-style15">USA.gov</span></a><br>
+		<a class="auto-style20" href="https://prhome.defense.gov/nofear" target="_blank">
+		<span class="auto-style15">No Fear Act </span></a><br>
+		<a class="auto-style20" href="https://www.usace.army.mil/Careers/EEO/">
+		<span class="auto-style15">EEO &amp; SHARP</span></a>
+		<a class="auto-style20" href="https://www.usace.army.mil/Business-With-Us/Small-Business/">
+		<span class="auto-style15">Small Business</span></a>
+		<a class="auto-style20" href="https://open.defense.gov/" target="_blank">
+		<span class="auto-style15">Open Government </span></a></strong></td>
+		<td class="auto-style5" rowspan="2">
+		<a class="auto-style20" href="https://www.usace.army.mil/Engineer-Inspector-General/">
+		<span class="auto-style15"><strong>IG </strong></span></a><strong><br>
+		<br>
+		</strong>
+		<a class="auto-style20" href="https://www.usace.army.mil/Contact/RSS/">
+		<span class="auto-style15"><strong>RSS</strong></span></a> <strong>
+		<br>
+		</strong><br>
+		<a class="auto-style20" href="https://www.usace.army.mil/FOIA.aspx">
+		<span class="auto-style15"><strong>FOIA </strong></span></a><br>
+		<br>
+		<a class="auto-style20" href="https://www.inscom.army.mil/isalute/https://www.inscom.army.mil/isalute/" target="_blank">
+		<span class="auto-style15"><strong>iSALUTE </strong></span></a></td>
+	</tr>
+	<tr>
+		<td class="auto-style7" style="width: 504px; height: 162px;">
+		<span class="auto-style15"><strong>About the U.S. Army Corps of Engineers Headquarters Website </strong></span>
+		<br class="auto-style15">
+		<br class="auto-style15">
+		<span class="auto-style15">This is the official public website of the Headquarters U.S. Army Corps of Engineers. For website corrections, write to hqwebmaster@usace.army.mil. </span></td>
+	</tr>
+	<tr>
+		<td style="height: 50px;" colspan="5">
+		<img title="ESSAYONS" src="images/footer.PNG" width="1000" height="131"></td>
+	</tr>
+</tbody></table>
+
+
+
+
+</body></html>

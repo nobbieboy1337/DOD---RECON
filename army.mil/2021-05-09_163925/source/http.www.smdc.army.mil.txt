@@ -1,0 +1,1345 @@
+<html lang="en-US"><head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><title>
+	HOME
+</title><meta id="MetaDescription" name="DESCRIPTION" content="USASMDC conducts space and missile defense operations and provides planning, integration, control and coordination of Army forces and capabilities in support of U.S. Strategic Command missions (strategic deterrence, integrated missile defense, and space operations); serves as the Army force modernization proponent for space, high altitude and global missile defense; serves as the Army operational integrator for global missile defense; and conducts mission-related research and development"><meta id="MetaKeywords" name="KEYWORDS" content="SMDC, Space and Missile Defense Command, hypersonics, space, missile defense, directed energy, 100th Missile Defense Brigade, 1st Space Brigade, Future Warfare Center, Technical Center, Army Forces Strategic Command, high energy laser, cyber"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/DesktopModules/SlideShow/module.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/DesktopModules/MVC/MosaicLinks/module.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/desktopmodules/SlideShow/Templates/JointResponsive/template.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/Joint2/skin.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Portals/_default/Containers/USArmy_Container/container.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Portals/_default/Containers/Joint2/container.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Portals/38/portal.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/DesktopModules/TanLDResponsiveHtmlTabs/css/font/css/font-awesome.min.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/DesktopModules/TanLDResponsiveHtmlTabs/css/zozo.tabs.min.css?cdv=2182" type="text/css" rel="stylesheet"><link href="/DesktopModules/TanLDResponsiveHtmlTabs/css/zozo.tabs.flat.min.css?cdv=2182" type="text/css" rel="stylesheet"><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/838cc154/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script type="text/javascript" defer="" async="" src="https://stats.defense.gov/piwik.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2182" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2182" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2182" type="text/javascript"></script><link rel="SHORTCUT ICON" href="/Portals/38/favicon.ico?ver=cZru9jk6Tiyd2ogc2900Uw%3d%3d" type="image/x-icon"><meta name="host" content="DMA Public Web"><meta name="contact" content="pubwebhd@defense.gov">
+<!--[if IE 8 ]><script type="text/javascript">jQuery("html").addClass("ie ie8");</script><![endif]-->
+<!--[if IE 9 ]><script type="text/javascript">jQuery("html").addClass("ie ie9");</script><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/Joint2/ie.css" /><![endif]-->
+<!--[if lte IE 8]><script src="/Desktopmodules/SharedLibrary/Plugins/Respond/js/respond.min.js"></script><![endif]-->
+<script src="https://www.google-analytics.com/ga.js"></script><script src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-3.1.js?agency=DOD&amp;subagency=ARMY&amp;dclink=true" id="_fed_an_ua_tag"></script><style>.skin-footer-seal {position:absolute; top:0;left:0;width:100%;height:100%;  background-image: url(/Portals/_default/Skins/joint2/Resources/img/testseal.gif); }</style><meta name="viewport" content="width=device-width,initial-scale=1"><script type="text/javascript" src="//search.usa.gov/javascripts/remote.loader.js"></script><script type="text/javascript" src="//search.usa.gov/javascripts/remote.loader.js"></script><script charset="utf-8" src="https://platform.twitter.com/js/moment~timeline.bcb1cafa923482f4826e32741fe16a98.js"></script><script charset="utf-8" src="https://platform.twitter.com/js/timeline.28ecda9667eeb8e1b18898b99fee6c31.js"></script><link type="text/css" href="//search.usa.gov/assets/sayt.css" rel="stylesheet" media="screen"><script type="text/javascript" src="//search.usa.gov/assets/sayt_loader_libs.js"></script><link type="text/css" href="//search.usa.gov/assets/sayt.css" rel="stylesheet" media="screen"><script type="text/javascript" src="//search.usa.gov/assets/sayt_loader_libs.js"></script></head>
+<body id="Body">
+    
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="zklrvX9YbXbFkBJsNVm/bGrcRffdCVTfqS2jpOmuCiwUCV4nOEZXPxr88KpDSliMq88Q//41WjVe5aqdkFG6A74Jc66R1CeOazAOOJLmyQmOPANVGc6UjaitDa9I39QYKTbjKPvqiTdtVPG2VfYeh35kHpHBq/uwtNYWQ9bDTfrVyplrdjq6ziwdUxEDlChPEE9QRojHALfOjawky5oT/VmWloImVOS6u3jKkOqm55Cs1zsO/so7Ni492lWXJVmBz3jdRyg/sk5vgURtMR+ec5OC4rWhkqCBvlX3SryCdKeylewuLHpkuLRawtW+0D3A2FQr+MAeCSU9xYeuOMqi7wFCTdXYev9D/9Bw5ms7QXGOnzT8sfwHxwnhW1iV2TOP4gIIU/JVARjiikgO4Ig2BpeDDVOS/c9CKgcapk4pAuhiD5luuVUe9sC36IpksxlzKxsAIsN3tl90DczIoPZVeEBVeLytUsVzAGxcd3urQcicQemyFPkOoBzGpjLkzFu2jJDSlx2ukb9ifDG+G6skQtO61Lit2bQmhGhS/k/Vk7iDmEXAiL34FOIDr5XVX5523qXtGvzf4wNFKTtrp4yFwH71ZKeO9TNmruUxrw7ac5FKh9p74LyKzqWyD7KxoMhODqKRJ9JO3pl4YNxgF7ckQByFuXUwxFBn4V5ph0vzH3lHxhI2pAqQPhU5haxqVLZpSIxE+2KR1s76N9d0NxyWrBHvD+J9HmAALOpHCfIZ1a0upjJQOI+SZSJ8/g3QLDtHuzdpCg1fwZr6a0oE6qPbDnVMJRJmGZgZs/Sv46u4hA7aEan9yLkFew8tQkahb2t7qJX+1PAUIyRKhfWlPifpeK6gtTLTntmjhipvbtytqksVtkfMsfXCO4bp51BE3xJCl9MCjj/ttFv4AWibZp+DZKVbeGYXnb4OV75/vpk9FRjsNDP0IElfW7UFyXLm2ueki0yJej4XlxLDUQX1aMg/HKWHzpblqsez0rkoSUw3Mu1yLFUS7bvyvnRxMVbtyjaL5Tv6Lf+tpuxq5m50VAzOYgJpoZgJVSL5TE915Lj0TYwj7aYh1dvSBmQGcq8dXeDdYoJduGt7z5Xz+DiEjig5o7CyDWjFkS8UYv69leGmtKpogtzeMzfPZwbg1NRCCl5A6dyX5HKcAg7KcEFOp50HzkM+cB7W+qVKNoETbr7FXfNeCRWxOk+mgN2VNlTzCgMUxUENd1IN9BaFpNg3V4iNEeTXYQViJoUDiJ6Y+JzcCTGcZQRUrXcJFqKkpt6pLkqPEfOeCVDIKs0qFn+y9UxcvAIMUNXBXup6OrRSY7cLc9h0W6ABUB5JPcwuvbksaIehF7L6Dju/sp1O6Qf0gPRPEu1biOMuT4zzFlTRD6C1feC2txBjk/C+8sG8bKmq59rFQxLnF8MGROUL1hF9mjDkK8Pcey3/nTqBoHCpdsy8D6yRcaaCzLCsiGoW4JOQp/mMy0RTu+O6AQzGhGp4hYiM7Tq1GBdvdAWFggxZSdFHoSQA4t1KfG2OBHVZs84kWhJG5ewraWnqcKnq3RJpBPPThBZnA/5BEiYMT3ERLmd01SAAMR2dQL58jOkqII9TmL4zwiVhQzT9zAQP1UePPlmb6SWEh6Qu0HUsbRzVNjwcEubM4Xh1c7wGvuO1dYjbcsZaEnkK1np9PjGpLDao5A91jbf8yEuL/3JgvdA1wpaxdZ4Ga1u8o4QQX2YXgVnVm2ceFs8LUGOLX0GPE4zCYai1FtFCIgJFUDTKeOkat+rA4n02fN/UwS1I00jliae4PLtyODQxWTU0SbNNs46EYqpJZUN2ONrDIgcCdlyclaP1hH1Pd7nJkhdNPyjAbQ7BFdolwbSTPvqExuomV+hGSIfevVGI7QIjIJ3GxtpF9/nr1lQHswgsCn8tQObt0RB1LwlJqrJ4ePaWYWiBThqEci0Ingqj+TQnCyZWqKjiV9QzAYJBnK1VlXByKwG30zR0rUUuGWgEmz2s6ggkwTgrxij3UzyWz8sJrSawuEwzNDbMzZF7+e68R8ONJI6UQn1DFMCx9yR/Qq6d/UUpArKQZatUVwcoRgYr/98IVl9VZLW6YyrbXcMFIqXOHJJihhG5hQUNyABMikTEqplNZLqpSy4ggDm7MpDUUUL/rl2XYV6Zlfp8EkS8An6eoB6bcqfZ9b98Lx0Kkw3MiLUJpZL2lthkeQaWYEQMjWzcfetAclppG8XpcRF+2bTNRKxMHr/3JSU94XZIedWU5G9EiEYpL7VDsK2axSYY1vM/sYd5HokxkNhqLAY/zaIUoKPBVJbDxaEGoZoVf+/+EDaGDkURD4wTfev4CI66cUSMZ76aY5JarlOt/ellkJN5NZjKtGfxK16qX/7oIBK8AzO0v46crhn3scHSc0SfNLxQ9Z+Y7ZtyjkgCfR+tHAMvuwLdqIPi+oYvIXIxL1b0F2Oh3jvpu+e/S4KuUZl+IYgzS3gU/w==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV3CCrPMGlUsHxjUGpW3WyTusIei5wnKPcbKIgqIQyD_GfQBhPk1&amp;t=637453888939909757" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IoASieOHaJmyYFTUz6Cq0r2l1Sy07_VT5Yw0VD7gnCDO9BxN2OTjLQLvpELqq0JRh4SiS3YQDskkW6ND1424MEpgCFIuUFPSXsM2L6mGgY6GeDN5Dfw4RK-kuXohg2&amp;t=2fe674eb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoLHx-HtE2TIHCKS28gzObfyL67HPOEbbj1OVN5Jqga7H-6b2a9Pa9e4CtPu0iqfSkd0Xq9bBbppoLORtoEw1FCFrgXwud_oHdx1Wu_CdpWMpZlefg_F-4keKLt_TIbdAdrR6Wul0&amp;t=2fe674eb" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="ievb9OuXhzdZZVQhuooPz084+N9mVx9rTzK/79xwkvih2eIr8/dhLediM4tBRojsSh1e1c3UJ9apV1WfDEAxjChKljyH3gUjKUuGwzuP4IpwJEpJT1V6PYSZqLM31757bDHPtQ==">
+</div><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=2182" type="text/javascript"></script><script src="/js/dnn.js?cdv=2182" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=2182" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2182" type="text/javascript"></script><script src="/Portals/_default/Skins/Joint2/resources/js/skin.js?cdv=2182" type="text/javascript"></script><script src="/js/dnncore.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=2182" type="text/javascript"></script><script src="/Resources/Shared/Scripts/dnn.jquery.js?cdv=2182" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=2182" type="text/javascript"></script><script src="/DesktopModules/TanLDResponsiveHtmlTabs/js/zozo.tabs.min.js?cdv=2182" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/Joint2/resources/js/skin.js?cdv=2182|DnnBodyProvider|100)-->
+
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"USASMDC","SiteShortName":"USASMDC","SiteSubTitle":"U.S. Army Space and Missile Defense Command","aid":"army_smdc","IsSecureConnection":false,"IsBackEnd":false,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"http://www.smdc.army.mil/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":true,"PiwikSiteID":9,"SocialLinks":{"Facebook":{"Url":"http://www.facebook.com/armysmdc","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"http://www.twitter.com/armysdmc","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"http://www.youtube.com/armysmdc","Window":"_blank","Relationship":"noopener"},"Flickr":{"Url":"http://www.flickr.com/armysmdc","Window":"_blank","Relationship":"noopener"},"Pintrest":{"Url":"","Window":"","Relationship":""},"Instagram":{"Url":"","Window":"","Relationship":null},"Blog":{"Url":"","Window":"","Relationship":""},"RSS":{"Url":"","Window":"","Relationship":""},"Podcast":{"Url":"","Window":"","Relationship":null},"Email":{"Url":"","Window":"","Relationship":null},"LinkedIn":{"Url":"","Window":"","Relationship":null},"Snapchat":{"Url":"","Window":"","Relationship":null}},"SiteLinks":null,"LogoffTimeout":3300000};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://www.smdc.army.mil/Portals/38/SMDC.png?ver=Bt3eKJRfKtCl5zlMXBOP3g%3d%3d","name":"USASMDC","url":"http://www.smdc.army.mil/","sameAs":["http://www.facebook.com/armysmdc","http://www.twitter.com/armysdmc","http://www.youtube.com/armysmdc"]}</script>
+
+
+
+<div class="wrapper container nopad">
+    
+
+<div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+<header id="header">
+    <div class="container nopad">
+        <div class="container skin-header skin-header-background">
+            <button type="button" class="navbar-toggle pull-left skin-nav-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="skin-logo">
+                <a href="http://www.smdc.army.mil/" target="" rel="">
+                    <img src="/Portals/38/SMDC.png?ver=Bt3eKJRfKtCl5zlMXBOP3g%3d%3d" alt="USASMDC" title="USASMDC" style="max-height: 100%" class="img-responsive"></a>
+            </div>
+            <div class="skin-title">
+                <a href="http://www.smdc.army.mil/" title="USASMDC">
+                    <div class="hidden-xs">
+                        
+                        <span class="title-text withsub">USASMDC</span>
+                        <span class="subtitle-text">U.S. Army Space and Missile Defense Command</span>
+                        
+                    </div>
+                    <div class="visible-xs">
+                        <span class="title-text">USASMDC</span>
+                    </div>
+                </a>
+            </div>
+            <div class="skin-header-right">
+                <div class="social hidden-xs">
+                    
+                </div>
+                <div class="skin-search">
+                    <div class="desktop-search hidden-xs">
+                        <label for="desktopSearch" class="visuallyhidden">Search USASMDC: </label>
+                        <input type="text" name="desktopSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search USASMDC" autocomplete="off">
+                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                    </div>
+                    <div class="mobile-search visible-xs pull-right">
+                        <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                        <div class="mobile-search-popup" style="display: none;">
+                            <label for="mobileSearch" class="visuallyhidden">Search USASMDC: </label>
+                            <input type="text" name="mobileSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search USASMDC" autocomplete="off">
+                            <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-inverse fa-lg"></span>
+                                <span class="sr-only">Search</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar-collapse nav-main-collapse collapse otnav nopad">
+        <div class="container nopad menu">
+            <nav class="nav-main">
+<ul class="nav nav-main">
+	    
+    <li class=" top-level active">
+    
+        <a href="http://www.smdc.army.mil/" target="" tabindex="0">HOME
+		</a>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle">ABOUT<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ABOUT/" target="" tabindex="0">About Us
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ABOUT/Mission/" target="" tabindex="0">Our Mission
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ABOUT/History/" target="" tabindex="0">History
+        </a>    
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle">ORGANIZATION<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/Leadership/" target="" tabindex="0">Leadership
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/Staff-Leaders/" target="" tabindex="0">Staff Leaders
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/100thMDB/" target="" tabindex="0">100th Missile Defense Brigade
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/1st-Space-Brigade/" target="" tabindex="0">1st Space Brigade
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/US-Army-Satellite-Operations-Brigade/" target="" tabindex="0">U.S. Army Satellite Operations Brigade
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/FWC/" target="" tabindex="0">Space and Missile Defense Center of Excellence
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/TC/" target="" tabindex="0">Technical Center
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/ORGANIZATION/Astronauts/" target="" tabindex="0">NASA Astronaut Detachment
+        </a>    
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle">RESOURCES<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/FA40/" target="" tabindex="0">Army Space Operations Officer (FA 40)
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/Chaplain/" target="" tabindex="0">Chaplain
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/EEO/" target="" tabindex="0">Equal Employment Opportunity
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/EO/" target="" tabindex="0">Equal Opportunity
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/FOIA/" target="" tabindex="0">Freedom of Information Act
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/IG/" target="" tabindex="0">Inspector General
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/SHARP/" target="" tabindex="0">SHARP
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/SBO/" target="" tabindex="0">Small Business Office
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="/LinkClick.aspx?fileticket=xwJJcGnCixY%3d&amp;tabid=6901&amp;portalid=38" target="_blank" tabindex="0">Speaker Bureau Request Form
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="https://smdc-coe-school.army.mil/home" target="_blank" tabindex="0">U.S. Army Space and Missile Defense School
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/VIE_FIR/" target="_blank" tabindex="0">Virtual Industry Exchange Forecast Industry Report
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/RESOURCES/ContactUs/" target="" tabindex="0">Visitors and Inclement Weather
+        </a>    
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="http://www.smdc.army.mil/NEWS-MEDIA/" target="" tabindex="0" aria-expanded="false">NEWS &amp; MEDIA<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+	    <a href="https://www.youtube.com/playlist?list=PL3hB42uIW9_4qQRWa-hgBK8AFoL5-ywM9" target="_blank" tabindex="0">The High Ground - SMDC Podcast
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="https://www.army.mil/info/organization/unitsandcommands/commandstructure/smdc/" target="_blank" tabindex="0">SMDC Army.mil News
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="https://www.dvidshub.net/unit/USA-SMDC-AFSC" target="_blank" tabindex="0">SMDC DVIDS page
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="https://www.flickr.com/photos/armysmdc/albums" target="_blank" tabindex="0">SMDC Flickr page
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="https://www.youtube.com/user/ArmySMDC" target="_blank" tabindex="0">SMDC Youtube Channel
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://purview.dodlive.mil/" target="_blank" tabindex="0">Purview (The Space and Missile Defense Journal)
+        </a>    
+    
+    </li>
+
+    <li class=" dm dropdown ">
+    
+		<a href="javascript:void(0)">Kwajalein Hourglass<span class="fa fa-lg fa-angle-right"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+    
+	    <a href="/LinkClick.aspx?fileticket=M0KGXQy4G48%3d&amp;tabid=7176&amp;portalid=38" target="_blank" tabindex="0">Current Issue
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/NEWS-MEDIA/Kwajalein-Hourglass/Hourglass-Archives/" target="" tabindex="0">Hourglass Archives
+        </a>    
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/NEWS-MEDIA/Command-Publications/" target="" tabindex="0">Command Publications
+        </a>    
+    
+    </li>
+
+    <li class=" dm  ">
+    
+	    <a href="http://www.smdc.army.mil/NEWS-MEDIA/Press-Kits/" target="" tabindex="0">Press Kits
+        </a>    
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://www.smdc.army.mil/RESOURCES/ContactUs/" target="" tabindex="0">CONTACT US
+		</a>
+    
+    </li>
+
+</ul>
+</nav>
+
+
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1" innertext="Start of main content"></a></p>
+    <div class="skin-border">
+        <div class="top-wrapper skin-home-top-row">
+            <div class="container">
+                <div class="row">
+                    <div id="dnn_BannerPane" class="col-md-12 skin-sub-banner DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SubBannerPane" class="col-md-12 skin-sub-banner"><div class="DnnModule DnnModule-DNN_HTML DnnModule-36675"><a name="36675"></a>
+<div class="empty-container-no-pad">
+    <div id="dnn_ctr36675_ContentPane"><!-- Start_Module_36675 --><div id="dnn_ctr36675_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr36675_HtmlModule_lblContent" class="Normal">
+	<h2 style="font-style: italic; text-align: center;"><span style="background-color:#ff0000;"><span style="color:#ffffff;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><a href="/CORONAVIRUS/"><span style="color:#ffffff;">USASMDC Coronavirus&nbsp;Response</span></a><span style="color:#ffffff;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></h2>
+
+</div>
+
+</div><!-- End_Module_36675 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+                </div>
+            </div>
+        </div>
+        <div class="border-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div id="dnn_ContentPane" class="col-md-12 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even2Left" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Even2Right" class="col-md-6 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even3Left" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Middle" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Right" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallRightContent" class="col-md-9"><div class="DnnModule DnnModule-SlideShow DnnModule-18984"><a name="18984"></a>
+
+<div class="base-container">
+    <div class="container-head">
+        <div class="container-image"></div>
+        <div class="container-title">
+            <span id="dnn_ctr18984_dnnTITLE_titleLabel" class="Head"> </span>
+
+
+
+        </div>
+    </div>
+
+    <div class="container-body">
+        <div id="dnn_ctr18984_ContentPane" class="container-inner"><!-- Start_Module_18984 --><div id="dnn_ctr18984_ModuleContent" class="DNNModuleContent ModSlideShowC">
+	
+<script type="text/javascript" src="/DesktopModules/Slideshow/Resources/js/analyticsParamsForDVIDSAnalyticsAPI.js"></script>
+<div class="top-rotator-joint" style="visibility: visible;">
+    <div class="jointSlideContainer" style="width:100%;">
+        <div class="jointBanner-top"></div>
+        <div class="jointSlides" style="width:100%; height:382px"><div class="jointSlide cycle-slide cycle-sentinel" style="width: 100%; position: static; top: 0px; left: 0px; z-index: 100; opacity: 1; display: block; visibility: hidden;">
+                <a class="jointOneImage ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank" style="visibility: hidden;">
+                    <img alt="Col. Andrew R. “Drew” Morgan receives the Army astronaut device from Lt. Gen. Daniel L. Karbler, commanding general of U.S. Army Space and Missile Defense Command, during a May 5 ceremony at the National Museum of the United States Army at Fort Belvoir, Virginia. (Photo by Ronald Bailey)" src="https://media.defense.gov/2021/May/05/2002635444/990/382/0/210505-A-ZT466-853.JPG" class="" style="visibility: hidden;">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a class="ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank" style="visibility: hidden;">
+                    
+                    
+                    </a><div class="jointJcs_content" style="visibility: hidden;"><a class="ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank" style="visibility: hidden;">
+                        <div class="jointJcs_caption" style="visibility: hidden;">
+                            <h2 style="visibility: hidden;">Army doctor receives Astronaut device</h2>
+                            <div class="jointDetail" style="visibility: hidden;"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks" style="visibility: hidden;"><a class="ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank" style="visibility: hidden;"><span class="slideLink" style="visibility: hidden;"></span></a><a class="link" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" target="_blank" style="visibility: hidden;"><span style="visibility: hidden;">https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        <div id="jointSlide4239" class="jointSlide cycle-slide cycle-slide-active" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 100; opacity: 1; display: block; visibility: visible;">
+                <a id="jointSlideLink4239" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank">
+                    <img alt="Col. Andrew R. “Drew” Morgan receives the Army astronaut device from Lt. Gen. Daniel L. Karbler, commanding general of U.S. Army Space and Missile Defense Command, during a May 5 ceremony at the National Museum of the United States Army at Fort Belvoir, Virginia. (Photo by Ronald Bailey)" src="https://media.defense.gov/2021/May/05/2002635444/990/382/0/210505-A-ZT466-853.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4239" class="ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4239" class="jointJcs_content"><a id="jointSlideLink4239" class="ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>Army doctor receives Astronaut device</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4239" class="ieframe" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" title="Army doctor receives Astronaut device" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device" target="_blank"><span>https://www.dvidshub.net/news/395731/army-doctor-receives-astronaut-device</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4238" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 99; visibility: hidden;">
+                <a id="jointSlideLink4238" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/395688/army-space-leaders-address-ausa-noon-report" title="Army space leaders address AUSA Noon Report" target="_blank">
+                    <img alt="Retired Gen. Robert B. Brown, left, Association of the U.S. Army executive vice president, speaks with Lt. Gen. Daniel L. Karbler, commanding general, U.S. Army Space and Missile Defense Command, and Col. Andrew R. “Drew” Morgan, U.S. Army NASA Astronaut Detachment commander, at AUSA Noon Report, May 4, to discuss how Army space contributes to a multi-domain operations force. (U.S. Army photo by Lira Frye)" src="https://media.defense.gov/2021/May/05/2002635335/990/382/0/210504-A-KW619-457.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4238" class="ieframe" href="https://www.dvidshub.net/news/395688/army-space-leaders-address-ausa-noon-report" title="Army space leaders address AUSA Noon Report" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4238" class="jointJcs_content"><a id="jointSlideLink4238" class="ieframe" href="https://www.dvidshub.net/news/395688/army-space-leaders-address-ausa-noon-report" title="Army space leaders address AUSA Noon Report" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>Army space leaders address AUSA Noon Report</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4238" class="ieframe" href="https://www.dvidshub.net/news/395688/army-space-leaders-address-ausa-noon-report" title="Army space leaders address AUSA Noon Report" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/395688/army-space-leaders-address-ausa-noon-report" target="_blank"><span>https://www.dvidshub.net/news/395688/army-space-leaders-address-ausa-noon-report</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4125" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 97; visibility: hidden;">
+                <a id="jointSlideLink4125" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/394105/smdc-program-helps-students-succeed" title="SMDC program helps students SUCCEED" target="_blank">
+                    <img alt="Kiah Olivia Warner, left, a computer science student at New Century Technology High School in Huntsville, and Roddeja Keyonna Moorer, a senior and computer information systems major at Alabama State University, recently completed Cyber Force Incubator developmental training modules as part of the U.S. Army Space and Missile Defense Command’s Underserved Community Cybersecurity and Engineering Educational Development initiative. CFI modules are designed to increase students’ exposure to cybersecurity and other science, technical, engineering and mathematics fields and leverage minority high school and university talent into the USASMDC workforce. (U.S. Army photo collage by Allen Meeks)" src="https://media.defense.gov/2021/Apr/19/2002623399/990/382/0/210416-A-QA166-121.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4125" class="ieframe" href="https://www.dvidshub.net/news/394105/smdc-program-helps-students-succeed" title="SMDC program helps students SUCCEED" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4125" class="jointJcs_content"><a id="jointSlideLink4125" class="ieframe" href="https://www.dvidshub.net/news/394105/smdc-program-helps-students-succeed" title="SMDC program helps students SUCCEED" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>SMDC program helps students SUCCEED</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4125" class="ieframe" href="https://www.dvidshub.net/news/394105/smdc-program-helps-students-succeed" title="SMDC program helps students SUCCEED" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/394105/smdc-program-helps-students-succeed" target="_blank"><span>https://www.dvidshub.net/news/394105/smdc-program-helps-students-succeed</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4124" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 96; visibility: hidden;">
+                <a id="jointSlideLink4124" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/393832/rotational-security-force-arrives-fort-greely" title="Rotational security force arrives at Fort Greely" target="_blank">
+                    <img alt="Soldiers with the California Army National Guard's 330th Military Police Company arrive at Fairbanks International Airport in Alaska, March 30. These Soldiers will integrate with the Military Ground-based Interceptor Security Company, 49th Missile Defense Battalion, Alaska National Guard, at Fort Greely, to guard and defend the expanding Missile Defense Complex. (U.S. Army Reserve photo by 2nd Lt. Desirae Garcia)" src="https://media.defense.gov/2021/Apr/19/2002623401/990/382/0/210330-A-WM852-936.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4124" class="ieframe" href="https://www.dvidshub.net/news/393832/rotational-security-force-arrives-fort-greely" title="Rotational security force arrives at Fort Greely" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4124" class="jointJcs_content"><a id="jointSlideLink4124" class="ieframe" href="https://www.dvidshub.net/news/393832/rotational-security-force-arrives-fort-greely" title="Rotational security force arrives at Fort Greely" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>Rotational security force arrives at Fort Greely</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4124" class="ieframe" href="https://www.dvidshub.net/news/393832/rotational-security-force-arrives-fort-greely" title="Rotational security force arrives at Fort Greely" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/393832/rotational-security-force-arrives-fort-greely" target="_blank"><span>https://www.dvidshub.net/news/393832/rotational-security-force-arrives-fort-greely</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4088" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 95; visibility: hidden;">
+                <a id="jointSlideLink4088" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/393635/community-ties-army-space" title="Community ties to Army space" target="_blank">
+                    <img alt="Lt. Gen. Daniel Karbler, U.S. Army Space and Missile Defense Command commanding general, and Col. Samuel Glover, USASMDC deputy chief of staff, G-8, look at the Army Space and Missile exhibit at the Fayetteville-Lincoln County Museum with Lincoln County Museum Association President Bill Stidfole, April 9 in Fayetteville, Tennessee. (U.S. Army photo by Lira B. Frye)" src="https://media.defense.gov/2021/Apr/12/2002619277/990/382/0/210409-A-KW619-610.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4088" class="ieframe" href="https://www.dvidshub.net/news/393635/community-ties-army-space" title="Community ties to Army space" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4088" class="jointJcs_content"><a id="jointSlideLink4088" class="ieframe" href="https://www.dvidshub.net/news/393635/community-ties-army-space" title="Community ties to Army space" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>Community ties to Army space</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4088" class="ieframe" href="https://www.dvidshub.net/news/393635/community-ties-army-space" title="Community ties to Army space" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/393635/community-ties-army-space" target="_blank"><span>https://www.dvidshub.net/news/393635/community-ties-army-space</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4060" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 94; visibility: hidden;">
+                <a id="jointSlideLink4060" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/393248/vigilance-needed-root-out-extremism" title="Vigilance needed to root out extremism" target="_blank">
+                    <img alt="The U.S. Army Space and Missile Defense Command’s senior leader asks his workforce during the command’s Extremism Stand Down events for vigilance in rooting out extremist beliefs or views that are not in the keeping with the Army Values. (Photo graphic by Allen Meeks)" src="https://media.defense.gov/2021/Apr/07/2002616220/990/382/0/210407-A-QA166-622.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4060" class="ieframe" href="https://www.dvidshub.net/news/393248/vigilance-needed-root-out-extremism" title="Vigilance needed to root out extremism" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4060" class="jointJcs_content"><a id="jointSlideLink4060" class="ieframe" href="https://www.dvidshub.net/news/393248/vigilance-needed-root-out-extremism" title="Vigilance needed to root out extremism" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>Vigilance needed to root out extremism</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4060" class="ieframe" href="https://www.dvidshub.net/news/393248/vigilance-needed-root-out-extremism" title="Vigilance needed to root out extremism" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/393248/vigilance-needed-root-out-extremism" target="_blank"><span>https://www.dvidshub.net/news/393248/vigilance-needed-root-out-extremism</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4052" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 93; visibility: hidden;">
+                <a id="jointSlideLink4052" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/393154/jtags-initial-entry-course-teaches-missile-detection" title="JTAGS initial entry course teaches missile detection" target="_blank">
+                    <img alt="Staff Sgt. Travis Matzdorf, a Joint Tactical Ground Stations (JTAGS) initial qualification course instructor with U.S. Army Space and Missile Defense Command, instructs the current JTAGS IQC at the Dr. Peter G. Pappas Training Facility in Colorado Springs, Colo., March 29, 2021. (US Army photo by Sgt. 1st Class Aaron Rognstad/RELEASED)" src="https://media.defense.gov/2021/Apr/06/2002615127/990/382/0/210329-A-JF456-001.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4052" class="ieframe" href="https://www.dvidshub.net/news/393154/jtags-initial-entry-course-teaches-missile-detection" title="JTAGS initial entry course teaches missile detection" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4052" class="jointJcs_content"><a id="jointSlideLink4052" class="ieframe" href="https://www.dvidshub.net/news/393154/jtags-initial-entry-course-teaches-missile-detection" title="JTAGS initial entry course teaches missile detection" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>JTAGS initial entry course teaches missile detection</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4052" class="ieframe" href="https://www.dvidshub.net/news/393154/jtags-initial-entry-course-teaches-missile-detection" title="JTAGS initial entry course teaches missile detection" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/393154/jtags-initial-entry-course-teaches-missile-detection" target="_blank"><span>https://www.dvidshub.net/news/393154/jtags-initial-entry-course-teaches-missile-detection</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div><div id="jointSlide4022" class="jointSlide cycle-slide" style="width: 100%; position: absolute; top: 0px; left: 0px; z-index: 92; visibility: hidden;">
+                <a id="jointSlideLink4022" class="jointOneImage ieframe" href="https://www.dvidshub.net/news/392843/new-chapter-begins-redstones-greatest-gold-star-families-supporter" title="New chapter begins for Redstone’s greatest Gold Star Families supporter" target="_blank">
+                    <img alt="Kerrie Branson, Survivor Outreach Services coordinator for Redstone Arsenal, Alabama, holds Gold Star Family member Kylee Little during a U.S. Army Space and Missile Defense Command-sponsored fall festival at the Huntsville Botanical Gardens on Oct. 18, 2014. Little is the daughter of Spc. Kyle Little, 20, who was killed in action in Salman Pak, Iraq, on May 8, 2007. (U.S. Army photo by Carrie David Campbell)" src="https://media.defense.gov/2021/Apr/01/2002612779/990/382/0/141018-A-KW619-142.JPG" class="">
+                    
+                </a>
+                
+                
+
+                
+                
+                <a id="jointSlideLink4022" class="ieframe" href="https://www.dvidshub.net/news/392843/new-chapter-begins-redstones-greatest-gold-star-families-supporter" title="New chapter begins for Redstone’s greatest Gold Star Families supporter" target="_blank">
+                    
+                    
+                    </a><div id="jointJcs_content4022" class="jointJcs_content"><a id="jointSlideLink4022" class="ieframe" href="https://www.dvidshub.net/news/392843/new-chapter-begins-redstones-greatest-gold-star-families-supporter" title="New chapter begins for Redstone’s greatest Gold Star Families supporter" target="_blank">
+                        <div class="jointJcs_caption">
+                            <h2>New chapter begins for Redstone’s greatest Gold Star Families supporter</h2>
+                            <div class="jointDetail"> </div>
+                        </div>
+                        </a><div class="jointSlideLinks"><a id="jointSlideLink4022" class="ieframe" href="https://www.dvidshub.net/news/392843/new-chapter-begins-redstones-greatest-gold-star-families-supporter" title="New chapter begins for Redstone’s greatest Gold Star Families supporter" target="_blank"><span class="slideLink"></span></a><a class="link" href="https://www.dvidshub.net/news/392843/new-chapter-begins-redstones-greatest-gold-star-families-supporter" target="_blank"><span>https://www.dvidshub.net/news/392843/new-chapter-begins-redstones-greatest-gold-star-families-supporter</span></a></div>
+                    </div>
+                
+                
+                
+                
+                
+            </div></div>
+        <div class="jointBanner-bottom"></div>
+        <div class="jointPagerContainer"><a href="#" class="jointPage jointActiveSlide"></a><a href="#" class="jointPage"></a><a href="#" class="jointPage"></a><a href="#" class="jointPage"></a><a href="#" class="jointPage"></a><a href="#" class="jointPage"></a><a href="#" class="jointPage"></a><a href="#" class="jointPage"></a></div>
+        <div class="jointPagerArrowContainer">
+            <a href="#" class="jointPreviousButton"></a>
+            <a href="#" class="jointNextButton"></a>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    var YouTubeAPILoaded = false;
+    var allPlayers = [];
+    jQuery( document ).ready( function () {
+
+        //Load the YouTube IFrame Player API code asynchronously
+        var tag = document.createElement('script');
+
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        var resizeTimer;
+        var moduleContainer = jQuery("#dnn_ctr18984_ModuleContent");
+        var slideContainer = moduleContainer.find(".jointSlides" );
+        var pageArrowContainer = moduleContainer.find(".jointPagerArrowContainer");
+        var pagerContainer = moduleContainer.find( ".jointPagerContainer" );
+        var pagerIcons = pagerContainer.find(".jointPage");
+        var slides = slideContainer.children("div.jointSlide");
+        var windowWidth = jQuery(window).width();
+
+        function setConainerHeight() {
+            var newContainerHeight = 0;
+            slides.each(function(idx, element){
+                if(element.scrollHeight > newContainerHeight) {
+                    newContainerHeight = element.scrollHeight;
+                }
+            });
+            //console.log(newContainerHeight);
+        }
+
+        function ChopSlideText(obj) {
+            var slideTextContainer = obj.closest("div.jointSlideText");
+            var originalString = obj.html();
+            if (originalString.length > 400) { originalString = originalString.substr(0, 400);}
+            while (slideTextContainer.height() < slideTextContainer[0].scrollHeight && originalString.length > 0) {
+                originalString = originalString.substr(0, originalString.length - 5);
+                obj.html(originalString + "...");
+            }
+        }
+
+        $(window).on('resize', function(e) {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(function() {
+                setConainerHeight();
+            }, 250);
+        });
+
+        $.each(slides.children("div.jointRightSide").children("div.jointSlideText").children("div.jointSlideCaption"), function () {
+            ChopSlideText($(this));
+        });
+
+        slideContainer.on('cycle-initialized',function(){
+            setTimeout(function(){
+                moduleContainer.find(".top-rotator-joint").css( "visibility", "visible" );
+                setConainerHeight();
+            },100);
+        }).cycle({
+            slides: "> .jointSlide",
+            fx: "fade",
+            speed: 1500,
+            timeout: 5000,
+            pauseOnHover: true,
+            paused: false,
+	        swipe: true,
+            prev: pageArrowContainer.children( ".jointPreviousButton" ).eq( 0 ),
+            next: pageArrowContainer.children( ".jointNextButton" ).eq( 0 ),
+            log:false,
+            pager: pagerContainer,
+            pagerTemplate: "<a href='#' class='jointPage'></a>",
+            pagerActiveClass: "jointActiveSlide"
+        });
+
+        var pagerIcons = pagerContainer.find(".jointPage");
+
+        pagerIcons.on("click", function(){
+            setConainerHeight();
+            if(false || false) {
+                    slideContainer.on('cycle-next', function(event, opts){
+                        slideContainer.cycle('pause');
+                });
+            }
+        });
+
+        jQuery(".jointPreviousButton").on("click", function(){
+                if(false || false) {
+                    slideContainer.on('cycle-prev', function(event, opts){
+                        slideContainer.cycle('pause');
+                });
+            }
+        });
+
+        jQuery(".jointNextButton").on("click", function(){
+                if(false || false) {
+                    slideContainer.on('cycle-next', function(event, opts){
+                        slideContainer.cycle('pause');
+                });
+            }
+        });
+
+        if(false) {
+            slideContainer.on('cycle-next', function(event, opts){
+                slideContainer.cycle('pause');
+            });
+            slideContainer.on('cycle-prev', function(event, opts){
+                slideContainer.cycle('pause');
+            });
+        }
+
+        if(false) {
+            slideContainer.on('cycle-next', function(event, opts){
+                slideContainer.cycle('pause');
+            });
+            slideContainer.on('cycle-prev', function(event, opts){
+                slideContainer.cycle('pause');
+            });
+        }
+
+	    moduleContainer.find(".top-rotator-joint").css( "visibility", "visible" );
+
+    } );
+
+	function onYouTubeIframeAPIReady() {
+	    YouTubeAPILoaded = true;
+	}
+</script>
+</div><!-- End_Module_18984 --></div>
+    </div>
+</div>
+
+
+</div><div class="DnnModule DnnModule-MosaicLinks DnnModule-16291"><a name="16291"></a><div id="dnn_ctr16291_ContentPane"><!-- Start_Module_16291 --><div id="dnn_ctr16291_ModuleContent" class="DNNModuleContent ModMosaicLinksC">
+	<div id="mvcContainer-16291">
+    
+
+
+
+
+<div id="Items-16291">
+  
+<div class="blocksSeven">
+    <div class="row">
+        
+        <div class="col-md-6 col-sm-6" id="ml_1_16291_item">
+            <a aria-labelledby="ml_1_16291_label" class="blockEach" href="/ORGANIZATION/100TH-MISSILE-DEFENSE-BRIGADE/" id="anch_1">
+                <h2 id="ml_1_16291_label" style="visibility:visible;">100th Missile Defense Brigade</h2>
+                <img alt="National Guard Soldier mans ground-based midcourse defense system at 49th Missile Defense Battalion." src="https://media.defense.gov/2019/Jan/04/2002077037/740/740/0/170926-Z-VX744-001.JPG" class="img-responsive center-block">
+            </a>
+        </div>
+        
+        <style>
+          #ml_1_16291_item a {
+              background: #0D4386;
+          }
+
+          #ml_1_16291_item img {
+              opacity: 0.85;
+          }
+
+          #ml_1_16291_item a:hover img {
+              opacity: 1;
+          }
+
+          @media (min-width: 979px) and (max-width: 1199px) {
+              #ml_1_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (min-width: 769px) and (max-width: 979px) {
+              #ml_1_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (max-width: 768px) {
+              #ml_1_16291_item img {
+                  opacity: 1;
+              }
+          }
+        </style>
+        
+        <div class="col-md-6 col-sm-6" id="ml_2_16291_item">
+            <a aria-labelledby="ml_2_16291_label" class="blockEach" href="/ORGANIZATION/1ST-SPACE-BRIGADE/" id="anch_2">
+                <h2 id="ml_2_16291_label" style="visibility:visible;">1st Space Brigade</h2>
+                <img alt="Antennas at the Joint Tactical Ground Station-Japan." src="https://media.defense.gov/2019/Jan/04/2002077036/740/740/0/180920-A-KW619-004.JPG" class="img-responsive center-block">
+            </a>
+        </div>
+        
+        <div class="visible-sm">
+            <div class="clearfix"></div>
+        </div>
+        
+        <style>
+          #ml_2_16291_item a {
+              background: #A06803;
+          }
+
+          #ml_2_16291_item img {
+              opacity: 0.85;
+          }
+
+          #ml_2_16291_item a:hover img {
+              opacity: 1;
+          }
+
+          @media (min-width: 979px) and (max-width: 1199px) {
+              #ml_2_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (min-width: 769px) and (max-width: 979px) {
+              #ml_2_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (max-width: 768px) {
+              #ml_2_16291_item img {
+                  opacity: 1;
+              }
+          }
+        </style>
+        
+        <div class="col-md-4 col-sm-4" id="ml_3_16291_item">
+            <a aria-labelledby="ml_3_16291_label" class="blockEach" href="/ORGANIZATION/TECHNICAL-CENTER/" id="anch_3">
+                <h2 id="ml_3_16291_label" style="visibility:visible;">Technical Center</h2>
+                <img alt="The Kwajalein Mission Control Center on Kwajalein Atoll." class="img-responsive center-block" src="https://media.defense.gov/2019/Jan/04/2002077035/740/740/0/180801-A-KW619-003.JPG">
+            </a>
+        </div>
+        <style>
+          #ml_3_16291_item a {
+              background: #A06803;
+          }
+
+          #ml_3_16291_item img {
+              opacity: 0.85;
+          }
+
+          #ml_3_16291_item a:hover img {
+              opacity: 1;
+          }
+
+          @media (min-width: 979px) and (max-width: 1199px) {
+              #ml_3_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (min-width: 769px) and (max-width: 979px) {
+              #ml_3_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (max-width: 768px) {
+              #ml_3_16291_item img {
+                  opacity: 1;
+              }
+          }
+        </style>
+
+        
+        
+        <div class="col-md-4 col-sm-4" id="ml_4_16291_item">
+            <a aria-labelledby="ml_4_16291_label" class="blockEach" href="/ORGANIZATION/FWC/" id="anch_4">
+                <h2 id="ml_4_16291_label" style="visibility:visible;">Space and Missile Defense Center of Excellence</h2>
+                <img alt="Master Space Badge" class="img-responsive center-block" src="https://media.defense.gov/2019/Jan/04/2002077032/740/740/0/171121-A-KW619-001.JPG">
+            </a>
+        </div>
+        <style>
+          #ml_4_16291_item a {
+              background: #A06803;
+          }
+
+          #ml_4_16291_item img {
+              opacity: 0.85;
+          }
+
+          #ml_4_16291_item a:hover img {
+              opacity: 1;
+          }
+
+          @media (min-width: 979px) and (max-width: 1199px) {
+              #ml_4_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (min-width: 769px) and (max-width: 979px) {
+              #ml_4_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (max-width: 768px) {
+              #ml_4_16291_item img {
+                  opacity: 1;
+              }
+          }
+        </style>
+
+        
+        
+        <div class="col-md-4 col-sm-4" id="ml_5_16291_item">
+            <a aria-labelledby="ml_5_16291_label" class="blockEach" href="ORGANIZATION/US-Army-Satellite-Operations-Brigade/" id="anch_5">
+                <h2 id="ml_5_16291_label" style="visibility:visible;">U.S. Army Satellite Operations Brigade</h2>
+                <img alt="U.S. Army Satellite Operations Brigade, 53rd Signal Battalion Soldiers work on an antenna at the Wideband Satellite Operations Center at Fort Meade, Maryland in March 2018. The newly established brigade executes continuous tactical, operational and strategic satellite communications payload management in support of combatant commands, services, U.S. government agencies and international partners. (U.S. Army photo by Carrie David Campbell)" class="img-responsive center-block" src="https://media.defense.gov/2020/Feb/25/2002254392/740/740/0/180329-A-KW619-750.JPG">
+            </a>
+        </div>
+        <style>
+          #ml_5_16291_item a {
+              background: #A06803;
+          }
+
+          #ml_5_16291_item img {
+              opacity: 0.85;
+          }
+
+          #ml_5_16291_item a:hover img {
+              opacity: 1;
+          }
+
+          @media (min-width: 979px) and (max-width: 1199px) {
+              #ml_5_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (min-width: 769px) and (max-width: 979px) {
+              #ml_5_16291_item img {
+                  opacity: 0.85;
+              }
+          }
+
+          @media (max-width: 768px) {
+              #ml_5_16291_item img {
+                  opacity: 1;
+              }
+          }
+        </style>
+
+        
+        <div class="clearfix"></div>
+        
+        
+    </div>
+</div>
+
+</div>
+
+</div>
+
+
+
+</div><!-- End_Module_16291 --></div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-16466"><a name="16466"></a>
+<div class="empty-container base-container">
+    <div id="dnn_ctr16466_ContentPane"><!-- Start_Module_16466 --><div id="dnn_ctr16466_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr16466_HtmlModule_lblContent" class="Normal">
+	<table>
+ <tbody>
+  <tr>
+   <td colspan="2" style="text-align: left; vertical-align: top; width: 800px;">
+   <h3>More USASMDC&nbsp;in the News</h3>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/392306/smdc-leaders-participate-amcom-101" target="_blank"><span style="font-size:16px;">SMDC leaders participate in AMCOM 101</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/390517/ready-dive" target="_blank"><span style="font-size:16px;">Ready to D.I.V.E. in</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/383501/profiles-space-road-top" target="_blank"><span style="font-size:16px;">Profiles in Space: The road to the top</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/383324/smdc-leader-joins-ascend-panel" target="_blank"><span style="font-size:16px;">SMDC leader joins ASCEND panel</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/383227/colorado-springs-based-army-unit-receive-strategic-deterrence-mission-award" target="_blank"><span style="font-size:16px;">Colorado Springs-based Army unit to receive strategic deterrence mission award</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/374892/smdc-senior-enlisted-leader-recognizes-outstanding-soldiers" target="_blank"><span style="font-size:16px;">SMDC senior enlisted leader recognizes outstanding Soldiers</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center">
+   <p><a href="https://www.dvidshub.net/news/368587/senior-space-officer-receive-first-star" target="_blank"><span style="font-size:16px;">Senior space officer to receive first star</span></a></p>
+
+   <hr style="border-color: #e4a813;" width="90%" align="center"></td>
+  </tr>
+ </tbody>
+</table>
+
+<p style="text-align: center;"><a href="https://www.facebook.com/ArmyResilience/" target="_blank"><img alt="Army SHARP graphic" src="/portals/38/Images/logos/180824-F-PO640-0010.JPG" style="width: 48%; margin: 5px;"></a><a href="https://www.inscom.army.mil/isalute/" target="_blank"><img alt="iSalute graphic" src="/portals/38/Images/logos/iSalute.jpg" style="color: #003366; width: 48%; margin: 5px;"></a></p>
+
+</div>
+
+</div><!-- End_Module_16466 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+                    <div id="dnn_SmallRightSide" class="col-md-3"><div class="DnnModule DnnModule-DNN_HTML DnnModule-16408"><a name="16408"></a>
+<div class="empty-container base-container">
+    <div id="dnn_ctr16408_ContentPane"><!-- Start_Module_16408 --><div id="dnn_ctr16408_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr16408_HtmlModule_lblContent" class="Normal">
+	<p class="title" style="margin-top: 20px; text-align: center;"><strong><span style="font-size: 18px;">VISION</span></strong></p>
+
+<p class="title" style="margin-top: 20px; text-align: center;"><span style="font-size: 13px;">A People First team of professionals providing space, missile defense, and high altitude forces and capabilities to support joint warfighting readiness in all domains.</span></p>
+
+<hr style="border-color: #e4a813;" width="75%" align="center">
+<p class="title" style="font-weight: bold; margin-top: 20px; text-align: center;"><strong><span style="font-size: 18px;">MISSION</span></strong></p>
+
+<p style="margin-bottom: 10px;"><span style="font-size: 13px;">USASMDC&nbsp;develops and provides current and future global space, missile defense, and high altitude capabilities to the Army, joint force, and our allies and partners, to enable multi-domain combat effects; enhance deterrence, assurance, and detection of strategic attacks; and protect the nation.</span></p>
+
+<hr style="border-color: #e4a813;" width="75%" align="center">
+</div>
+
+</div><!-- End_Module_16408 --></div>
+    <div class="clearfix"></div>
+</div>
+</div><div class="DnnModule DnnModule-TanLDResponsiveHtmlTabs DnnModule-16307"><a name="16307"></a>
+<div class="empty-container base-container">
+    <div id="dnn_ctr16307_ContentPane" class="DNNAligncenter"><!-- Start_Module_16307 --><script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8">
+
+</script><div id="dnn_ctr16307_ModuleContent" class="DNNModuleContent ModTanLDResponsiveHtmlTabsC">
+	<!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/css/font/css/font-awesome.min.css?cdv=2182|DnnPageHeaderProvider|100)-->
+<!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/css/zozo.tabs.min.css?cdv=2182|DnnPageHeaderProvider|1002)-->
+<!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/css/zozo.tabs.flat.min.css?cdv=2182|DnnPageHeaderProvider|1003)-->
+<!--CDF(Javascript|/DesktopModules/TanLDResponsiveHtmlTabs/js/zozo.tabs.min.js?cdv=2182|DnnBodyProvider|103)-->
+
+
+
+<div id="dnn_ctr16307_ViewTabs_pnlContainter">
+		
+    <div id="tabbed-nav-16307" class="hover minimal medium z-icons-dark z-rounded z-shadows z-bordered z-spaced z-tabs horizontal top-center top crystal"><ul class="z-tabs-nav z-tabs-mobile" style="display: none;"><li><a class="z-link" style="text-align: left;"><span class="z-title"><span class="z-icon"><i class="fa fa-facebook-square"></i></span>Facebook</span><span class="z-arrow"></span></a></li></ul><i class="z-dropdown-arrow"></i><ul class="z-tabs-nav z-tabs-desktop">
+            
+                <li class="z-tab z-first z-active" data-link="tab1"><a class="z-link"><span class="z-icon"><i class="fa fa-facebook-square"></i></span>Facebook</a></li>
+            
+                <li class="z-tab z-last" data-link="tab2"><a class="z-link"><span class="z-icon"><i class="fa fa-twitter-square"></i></span>Twitter</a></li>
+            
+                </ul>
+        
+                
+            
+    
+        
+                
+                
+    <div class="z-container">
+            
+                <div class="z-content z-active" style="position: relative; display: block;"><div class="z-content-inner">
+                    
+
+                    <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FArmySMDC%2F&amp;tabs=timeline&amp;width=225&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId&amp;wmode=transparent" style="border: none; overflow: hidden;" scrolling="no" allowtransparency="true" allow="encrypted-media" width="225" height="500" frameborder="0"></iframe>                    
+                </div></div>
+            
+                <div class="z-content" style="display: none;"><div class="z-content-inner">
+                    
+
+                    <p><iframe id="twitter-widget-0" scrolling="no" allowtransparency="true" allowfullscreen="true" class="twitter-timeline twitter-timeline-rendered" style="position: static; visibility: visible; display: inline-block; width: 100%; height: 600px; padding: 0px; border: medium none; max-width: 100%; min-width: 180px; margin-top: 0px; margin-bottom: 0px; min-height: 200px;" data-widget-id="profile:ARMYSMDC" title="Twitter Timeline" frameborder="0"></iframe></p>
+                    
+                </div></div>
+            
+                </div></div>
+
+	</div>
+<input type="hidden" name="dnn$ctr16307$ViewTabs$hidCurrentTabIndex" id="dnn_ctr16307_ViewTabs_hidCurrentTabIndex">
+<script type="text/javascript">(function ($, Sys) {function setupTanLDTabs16307(){$("#tabbed-nav-16307").zozoTabs({theme: "crystal",size: "medium",style: "minimal",orientation: "horizontal",position: "top-center",bordered: true,rounded: true,shadows: true,multiline: false,spaced: true,deeplinking: false,defaultTab: "tab1",animation: {easing: "easeInQuad",effects: "fade",duration: 600},responsive: true,responsiveDelay: 100,maxRows: 2,minWindowWidth: 720,select: function(event, item){if (window.location.hash) $('#dnn_ctr16307_ViewTabs_hidCurrentTabIndex').val(window.location.hash);}});};jQuery(document).ready(function($){setupTanLDTabs16307();Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function () {setupTanLDTabs16307();});});}(jQuery, window.Sys));</script>
+</div><!-- End_Module_16307 --></div>
+    <div class="clearfix"></div>
+</div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-16706"><a name="16706"></a><div id="dnn_ctr16706_ContentPane"><!-- Start_Module_16706 --><div id="dnn_ctr16706_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr16706_HtmlModule_lblContent" class="Normal">
+	<hr style="border-color: #e4a813;" width="75%" align="center">
+</div>
+
+</div><!-- End_Module_16706 --></div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-16506"><a name="16506"></a>
+
+<h3>
+	<span id="dnn_ctr16506_dnnTITLE_titleLabel" class="Head">Links of Interest</span>
+
+
+
+</h3>
+<div id="dnn_ctr16506_ContentPane"><!-- Start_Module_16506 --><div id="dnn_ctr16506_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr16506_HtmlModule_lblContent" class="Normal">
+	<ul>
+    <li><a target="_blank" href="http://www.army.mil/">Army.mil</a></li>
+    <li><a target="_blank" href="http://www.stratcom.mil/">USSTRATCOM</a></li>
+    <li><a href="https://www.stratcom.mil/components/" target="_blank">JFCC IMD</a></li>
+    <li><a target="_blank" href="http://www.us.army.mil/" style="background-color: initial;">AKO</a></li>
+    <li><a target="_blank" href="http://cpol.army.mil/">CPOL</a></li>
+    <li><a target="_blank" href="http://www.defenselink.mil/">Defenselink</a></li>
+    <li><a target="_blank" href="http://www.army.mil/standto">Stand To!</a></li>
+    <li><a target="_blank" href="http://www.mda.mil/">Missile Defense Agency</a></li>
+    <li><a target="_blank" href="http://www.nasa.gov/">NASA</a></li>
+    <li><a target="_blank" href="http://www.usa.gov/">USA.gov</a></li>
+    <li><a href="https://www.usajobs.gov/" target="_blank">USAJobs</a></li>
+</ul>
+</div>
+
+</div><!-- End_Module_16506 --></div>
+<div class="dnnActionButtons">
+  
+	
+</div>
+</div></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_BottomPane" class="col-md-12"><div class="DnnModule DnnModule-DNN_HTML DnnModule-17432"><a name="17432"></a><div id="dnn_ctr17432_ContentPane"><!-- Start_Module_17432 --><div id="dnn_ctr17432_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr17432_HtmlModule_lblContent" class="Normal">
+	<table>
+    <tbody>
+        <tr>
+            <td style="width: 1100px;">
+            <hr style="border-color: #e4a813;" width="100%" align="left">
+            </td>
+            <td>
+            <img alt="" src="/portals/38/Images/logos/army_logo.jpg?ver=2019-02-01-114157-317" style="float: right; margin: 25px; width: 75px; height: 94px;">
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+</div><!-- End_Module_17432 --></div>
+
+</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <div class="skin-footer-background">
+            <div class="skin-footer-seal">
+            </div>
+            <div class="skin-footer-content row">
+                <div id="dnn_FooterLinks" class="col-md-6 col-sm-6 skin-footer-links"><div class="DnnModule DnnModule-DNN_HTML DnnModule-16464"><a name="16464"></a>
+<div class="empty-container base-container">
+    <div id="dnn_ctr16464_ContentPane"><!-- Start_Module_16464 --><div id="dnn_ctr16464_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr16464_HtmlModule_lblContent" class="Normal">
+	<p style="margin-left: 40px;"><span style="font-family: Verdana; color: #ffffff;"> <a href="/" style="color: #ffffff;">HOME</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="white-space: pre;"> </span><a href="https://www.army.mil/terms/" target="_blank" rel="noopener" style="color: #ffffff;">TERMS OF USE</a><br>
+<a href="/RESOURCES/Freedom-of-Information-Act/" style="color: #ffffff;">FOIA</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="white-space: pre;"> </span><a href="https://prhome.defense.gov/NoFear/" target="_blank" rel="noopener" style="color: #ffffff;">NO FEAR ACT</a><br>
+<a href="/RESOURCES/Visitors-and-Inclement-Weather/" class="ApplyClass" style="color: #ffffff;">CONTACT US</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="white-space: pre;"> </span><a href="/HOME/Accessibility/" target="_blank" rel="noopener" style="color: #ffffff;">ACCESSIBILITY/SECTION 508</a><br>
+<a href="/HOME/Disclaimer/" target="_blank" rel="noopener" style="color: #ffffff;">DISCLAIMER</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="white-space: pre;"> </span><a href="https://www.cid.army.mil/report-a-crime.html" target="_blank" rel="noopener" style="color: #ffffff;">ARMY CID - REPORT A TIP</a><br>
+<a href="/HOME/Website-Policy/" target="_blank" rel="noopener" style="color: #ffffff;">WEBSITE POLICY</a></span></p>
+</div>
+
+</div><!-- End_Module_16464 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+                
+<div class="col-md-6 col-sm-6">
+    <div class="skin-social-header">Staying Connected</div>
+    <div class="skin-social-links">
+        <ul class=""><li class=""><a href="http://www.facebook.com/armysmdc" title="Facebook" target="_blank" rel="noopener"><img title="Facebook" src="/Portals/38/facebookfinal1.png?ver=FWLOZ_MlYQ-2loAbeBK-7g%3d%3d" alt="Facebook"><span class="text text-link-283"></span></a></li><li class=""><a href="http://www.twitter.com/armysmdc" title="Twitter" target="_blank" rel="noopener"><img title="Twitter" src="/Portals/38/twitterfinal1.png?ver=_2uLVJKr_Jsv1zzDEPR7dQ%3d%3d" alt="Twitter"><span class="text text-link-282"></span></a></li><li class=""><a href="http://www.flickr.com/armysmdc" title="Flickr"><img title="Flickr" src="/Portals/38/flickrfinal1.png?ver=kmplE9BQv7SNZLI5sYXHNg%3d%3d" alt="Flickr"><span class="text text-link-284"></span></a></li><li class=""><a href="http://www.youtube.com/armysmdc" title="YouTube" target="_blank" rel="noopener"><img title="YouTube" src="/Portals/38/youtubefinal1.png?ver=0yJRMF-haNl9VdqCnaKOnQ%3d%3d" alt="YouTube"><span class="text text-link-285"></span></a></li></ul>
+    </div>
+</div>
+
+
+            </div>
+        </div>
+    </footer>
+</div>
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`}">
+        <script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=2182" type="text/javascript"></script>
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=2182|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2182|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/Joint2/skin.css?cdv=2182|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/USArmy_Container/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/desktopmodules/SlideShow/Templates/JointResponsive/template.css?cdv=2182|DnnPageHeaderProvider|11)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SlideShow/module.css?cdv=2182|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/USArmy_Container/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/MVC/MosaicLinks/module.css?cdv=2182|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=2182|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/TanLDResponsiveHtmlTabs/module.css?cdv=2182|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/USArmy_Container/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/USArmy_Container/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/Joint2/container.css?cdv=2182|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/38/portal.css?cdv=2182|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=2182|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=2182|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=2182|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=2182|DnnBodyProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=2182|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=2182|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=2182|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=2182|DnnBodyProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=2182|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=2182|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=2182|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=2182|DnnBodyProvider|12)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=2182|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=2182|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2182|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/Shared/Scripts/dnn.jquery.js?cdv=2182|DnnBodyProvider|100)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2182|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2182|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2182|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2182|DnnPageHeaderProvider|6)-->
+    
+
+
+<iframe scrolling="no" allowtransparency="true" src="https://platform.twitter.com/widgets/widget_iframe.06c6ee58c3810956b7509218508c7b56.html?origin=https%3A%2F%2Fwww.smdc.army.mil" title="Twitter settings iframe" style="display: none;" frameborder="0"></iframe><div id="usasearch_sayt" style="background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; border: 0px none; display: block; float: none; height: 0px; line-height: 0; margin: 0px; padding: 0px; position: static; width: 0px;"><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div id="usasearch_sayt"></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><iframe id="rufous-sandbox" scrolling="no" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: medium none;" title="Twitter analytics iframe" frameborder="0"></iframe></body></html>

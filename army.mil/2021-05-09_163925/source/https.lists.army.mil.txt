@@ -1,0 +1,26 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+  <title>Lists | Update your bookmarks</title>
+  <!--<link rel="stylesheet" href="/css/404.css">-->
+
+  <style type="text/css">
+    header .nav-window {
+      -webkit-transform: translateY(-100%);
+      transform: translateY(-100%);
+      -ms-transform: translateY(-100%)
+    }
+  </style>
+</head>
+
+<body>
+               
+    
+  <section class="error-content">
+    <h1>Update Your Bookmarks</h1>
+    <h2>The new Listserve URL is <a href="https://www.lists.army.mil"> https://www.lists.army.mil </a></h2>
+  </section>
+
+
+
+</body></html>

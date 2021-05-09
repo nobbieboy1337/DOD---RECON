@@ -1,0 +1,412 @@
+<html lang="en"><head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       
+        <meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
+        
+		<title>USAWC - Department of Distance Education</title>
+		
+		<link rel="icon" type="image/png" href="static/app/images/army_star_icon.png">
+
+  		<!-- Bootstrap core CSS -->
+		<link rel="stylesheet" type="text/css" href="static/vendors/bootstrap-3.4.1-dist/css/bootstrap.min.css">
+    
+    	<!--font-->
+		<link rel="stylesheet" type="text/css" href="static/app/css/Lato.css">
+    	<link rel="stylesheet" type="text/css" href="static/app/css/Raleway.css">
+	
+    	<!-- Custom styles for this template -->
+		<link rel="stylesheet" type="text/css" href="static/app/css/main.css">
+		<link rel="stylesheet" type="text/css" href="static/app/css/branding.css">
+		<link rel="stylesheet" type="text/css" href="static/app/css/style.css">
+		
+		
+		<style>
+			body.modal-open {
+				overflow: visible;
+				position: absolute;
+				width: 100%;
+				height:100%;
+			}
+		</style>
+	</head>
+
+	<body>
+    	<a id="top"></a>
+	
+		<!-- ========== HEADER SECTION ========== -->
+		<section id="home" name="home"></section>
+		<div id="headerwrap">
+			<div class="container">
+				<img src="static/app/images/subheader.png" class="img-responsive hidden-xs"> 
+				<img style="width: 295px;" src="static/app/images/mobileheader.png" class="img-responsive visible-xs"> 
+			</div><!-- /container -->
+		</div><!-- /headerwrap -->
+        
+        <!-- ========== MENU BAR ========== -->
+		<!-- Header -->   
+<div id="ddeMenuBar">
+    <div class="container">
+        <ul class="ddeMenuBarList">
+            <li class="pull-left hidden-xs"><a href="https://ssl.armywarcollege.edu/index.htm">School of Strategic Landpower</a></li>
+            <li class="pull-left visible-xs"><a href="https://ssl.armywarcollege.edu/index.htm">SSL</a></li>
+            <li style="padding-right: 0px;"><a href="https://ssl.armywarcollege.edu/DDE">DDE</a></li>
+        </ul>
+    </div>
+</div>
+
+      <!--  <div class="navbar-wrapper">
+            <div class="navbar navbar-inverse navbar-static-top">
+            	<div class="container">
+                	<div class="navbar-header">
+                  		<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    		<span class="icon-bar"></span>
+                    		<span class="icon-bar"></span>
+                    		<span class="icon-bar"></span>
+                    	</button>
+                	</div>
+                
+              		<ul class="nav navbar-nav">
+                		<li><a href="http://ssl.armywarcollege.edu/index.htm">School of Strategic Landpower</a></li>
+                	</ul>
+             		
+                    <span class="navbar-collapse collapse">   
+                    	<ul class="nav navbar-nav">
+                			<li><a href="http://ssl.armywarcollege.edu/dmspo/index.htm">DMSPO</a></li>
+                			<li><a href="http://ssl.armywarcollege.edu/dclm/index.htm">DCLM</a></li>
+                			<li><a href="http://ssl.armywarcollege.edu/dnss/index.htm">DNSS</a></li>
+                			<li><a href="https://ssl.armywarcollege.edu/dde/">DDE</a></li>
+              			</ul>
+     				</span>
+          		</div>
+        	</div>
+ 		</div> -->     
+		
+    	<section id="content">
+    		<div class="container">
+		  		<div class="row">
+            		<!--left col-->
+                    <div class="col-sm-3">
+                        <p class="devicesImg"><img src="static/app/images/3Devices.png" class="img-responsive logo"></p>
+                        <h1 class="smallTitle">The Department of Distance Education</h1>
+                        <div class="list-group">
+                            <a href="index.cfm" class="list-group-item">Overview</a>
+                            <a href="curriculum.cfm" class="list-group-item">Curriculum</a>
+                            <a href="faculty.cfm" class="list-group-item">Faculty &amp; Staff</a>
+							<a href="facultydevelopment.cfm" class="list-group-item">Faculty Development</a>
+                            <a href="#" class="list-group-item" data-toggle="modal" data-target="#lifelong">Lifelong Learning</a>
+                            <a href="#" class="list-group-item" data-toggle="modal" data-target="#reference">Resources</a>
+                            <a href="#" class="list-group-item" data-toggle="modal" data-target="#systemConfiguration">Tech Support</a>
+							<a href="#" class="list-group-item" data-toggle="modal" data-target="#contact">Contact Us</a>
+                        </div><!--list-group-->
+                     	<h4 style="padding-left: 15px;">Other Links</h4>   
+                      <div class="list-group">
+                            <a href="https://ssl.armywarcollege.edu/dde/cnsp/index.cfm" target="_blank" class="list-group-item">Commandant's National Security Program</a>
+                            <a href="https://ssl.armywarcollege.edu/DDE/orientation.cfm" target="_blank" class="list-group-item">Orientation Weekend</a>
+                            <a href="https://www.armywarcollege.edu/programs/registrar.cfm" target="_blank" class="list-group-item">Office of the Registrar</a>
+                        </div><!--list-group-->
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <p class="deptLinks"><a href="http://www.armywarcollege.edu/compass/" target="_blank" title="Compass"><img src="static/app/images/compass.png" alt="Compass icon"></a></p>
+                            </div><!-- /.col-sm-6 -->
+                            <div class="col-sm-6">
+                                <p class="deptLinks"><a href="https://armywarcollege.blackboard.com/" target="_blank" title="Blackboard"><img src="static/app/images/blackboard.png" alt="Blackboard icon" width="65px"></a></p>
+                            </div><!-- /.col-sm-6 -->
+                        </div><!-- /.row -->   
+                        <p class="note"><strong>NOTE:</strong> Please click <u>above</u> to<br>access Compass or Blackboard.</p> 
+                    </div><!--col-sm-3-->
+            
+            		<hr class="featurette-divider">
+                
+            		<!--right col-->
+            		<div class="col-sm-9">
+                		<h1 class="largeTitle">The Department of Distance Education</h1>
+                    	<h3>Mission:</h3>
+                    	<p>The Department of Distance Education seeks to educate and develop leaders for service at the strategic level while advancing knowledge in the global application of landpower.</p>
+        
+        				<!--<div class="row alert">
+                        	<div class="col-sm-12">
+                            	<h4><strong><a href="https://ssl.armywarcollege.edu/dde/bbstud_tut/index.html" target="_blank">Click HERE to access the new Student Tutorials for Blackboard!</a></strong></h4>
+                            </div>
+                        </div>-->
+        
+                    	<h3>Program Overview:</h3>
+                    	<p>The Distance Education Program (DEP) at the US Army War College allows you to participate in a two-year, rigorous program of instruction that results in the award of the same Graduation Certificate and the same fully-accredited Master of Strategic Studies degree awarded to graduates of our resident program. The DEP is also accredited by the Chairman, Joint Chiefs of Staff, as a program for joint education, Phase I Senior Level (JPME I) and for selected students in Phase II Senior Level (JPME II). At last, you can receive at any duty station or remote location, the same high-quality instruction delivered here at Carlisle Barracks. The Distance Education Program allows you to work a regular full-time job and still make time for a War College degree. You will need to devote 15 hours each week to a program that is delivered to you via the Internet, one that leverages technology to enhance the educational experience. Under the <strong>"Curriculum"</strong> link to the left, you will find a brief overview of the program and many of the issues that are a part of our program of instruction.</p>
+                    	<div class="row overviewLinks">
+                        	<div class="col-sm-4">
+                            	<a href="javascript:void(0)"><p class="circular-images dropshadow" data-toggle="modal" data-target="#eligibility"><img class="img-circle" src="static/app/images/eligibility.png" alt="Image here."></p></a>
+                          		<div class="button-links">
+                                	<div class="buttonDesc"><button type="button" class="btn btn-default" data-toggle="modal" data-target="#eligibility">Eligibility</button>
+                                	</div>
+                            	</div>
+                        	</div><!-- /.col-sm-4 -->                        
+                        	<div class="col-sm-4">
+                          		<a href="javascript:void(0)"><p class="circular-images dropshadow" data-toggle="modal" data-target="#gradReqs"><img class="img-circle" src="static/app/images/gradReqs.png" alt="Image here."></p></a>
+                          		<div class="button-links">
+                                	<div class="buttonDesc">
+                                  		<button type="button" class="btn btn-default" data-toggle="modal" data-target="#gradReqs">Requirements</button>
+                                	</div>
+                            	</div>
+                        	</div><!-- /.col-sm-4 -->
+							<div class="col-sm-4">
+                          		<a href="javascript:void(0)"><p class="circular-images dropshadow" data-toggle="modal" data-target="#records"><img class="img-circle" src="static/app/images/records.png" alt="Image here."></p></a>
+                          		<div class="button-links">
+                                	<div class="buttonDesc"><button type="button" class="btn btn-default" data-toggle="modal" data-target="#records">Records</button>
+                                	</div>
+                            	</div>
+                        	</div><!-- /.col-sm-4 -->
+                      	</div><!-- /.row -->
+                    
+                    	<p>The department also offers a four-month, online Defense Strategy Course (DSC), a ten-week, online Defense Planners Course (DPC), and a twelve-week, online Defense Strategy Foundation Course (DSFC). DSC is designed for majors and lieutenant colonels desiring to learn how the nation develops national security policy and strategy.  DPC is designed for majors and lieutenant colonels (or equivalent level civilians) that operate in and conduct joint operational planning. DSFC is designed for GS 14 and 15 level civilians from the Defense Senior Leader Development Program (DSLDP) focusing on the National Security Strategy policymaking process and the relationship of the national instruments of power to defense strategy. Please view the <strong>"Curriculum"</strong> link on the left and expand the <strong>"Defense Strategy Course"</strong>, <strong>"Defense Planners Course"</strong>, or <strong>"Defense Strategy Foundation Course"</strong> links at the bottom of the page to view more about these course offerings.</p>
+                    	
+                        <p>The DEP is designed to be provocative, demanding, and rigorous. You will be in a class of highly intelligent professionals who seek to hone their intellectual skills and professional competency. You will be challenged academically, but there are teams of trained professionals to assist you as you wrestle with many of the complex issues of today's global situation.</p>
+                    	<p>Your view of many issues may change as you work through the program. Here, there are at least two sides to every issue and often, there are no school solutions. Is this program for you? Do you want to know more? Click on the buttons above to learn more about this unique academic program!</p>
+                	</div><!--col-sm-9-->
+				</div><!--row-->
+     		</div><!--container-->
+		</section><!--content-->
+
+		<!-- Lifelong Learning Modal -->
+<div class="modal fade" id="lifelong" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Lifelong Learning</h4>
+            </div>
+            <div class="modal-body">
+                <p>Please select an item of interest from our course materials below.</p>
+                <ul>
+                    <p><a href="https://ssl.armywarcollege.edu/dde/ews/index.cfm" target="_blank">Effective Writing Website</a></p>
+                    <p><a href="https://ssl.armywarcollege.edu/dde/documents/jsps/jsps_module.cfm" target="_blank">Joint Strategic Planning System (JSPS) Module</a></p>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>     
+            </div>
+        </div>
+    </div>
+</div><!-- Resources Modal -->
+<div class="modal fade" id="reference" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Resources</h4>
+            </div>
+            <div class="modal-body">
+                <p>Please select an item from our resources below.</p>
+                <ul>
+					<p><a href="DDE_documents/2020-2021_DDE_Program_Calendar.jpg" target="_blank">2020-2021 DDE Calendar</a></p>
+					<p><a href="https://apps.armywarcollege.army.mil/modules/dde/calendar/?yr=2020" target="_blank">2020-2021 DDE Calendar (Compass interactive version, CAC Required)</a></p>
+                    <p><a href="DDE_documents/DEP_CAD_AY20.pdf" target="_blank">2020 Communicative Arts Directive (CAD)</a></p>
+					<p><a href="DDE_documents/DEP_CAD_AY21.pdf" target="_blank">2021 Communicative Arts Directive (CAD)</a></p>
+					<p><a href="DDE_documents/DDE Effective Communication Directive (Second Edition).pdf" target="_blank">DDE Effective Communications Directive - Second Edition</a></p>
+                    <p><a href="DDE_documents/StudentHandbook_AY20.pdf" target="_blank">2020 DDE Student Handbook</a></p>
+					<p><a href="DDE_documents/StudentHandbook_AY21.pdf" target="_blank">2021 DDE Student Handbook</a></p>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>     
+            </div>
+        </div>
+     </div>
+</div>
+
+<!-- Contact Us Modal -->
+<div class="modal fade" id="contact" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Contact Us</h4>
+            </div>
+            <div class="modal-body">
+                <p>Please select the assistance you require from the list below to help us establish the appropriate contact for all your needs.</p>
+                <ul>
+                    <p>For all program and curriculum questions please contact the Department of Distance Education central office at <a href="mailto:usarmy.carlisle.awc.mbx.atwc-ade@mail.mil?subject=DDE Program and Curriculum Questions">usarmy.carlisle.awc.mbx.atwc-ade@mail.mil</a>.</p>
+                    <p>For all enrollment and admissions questions please contact the Registrar's Office at <a href="mailto:usarmy.carlisle.awc.mbx.registrar@mail.mil?subject=Enrollment and Admissions Questions">usarmy.carlisle.awc.mbx.registrar@mail.mil</a>.</p>
+                    <p>For all login, password, and access questions please contact the Service Desk at <a href="mailto:usarmy.carlisle.NETCOM.mbx.nec-service-desk-email@mail.mil?subject=Login, Password, and Access Questions">usarmy.carlisle.NETCOM.mbx.nec-service-desk-email@mail.mil</a>.</p>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <div class="footerNote col-sm-10"><strong>Scroll or swipe</strong> for more content.</div>
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>     
+            </div>
+        </div>
+    </div>
+</div><!-- Eligibility Modal -->
+<div class="modal fade" id="eligibility" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Eligibility</h4>
+            </div>
+            <div class="modal-body">
+                <p>The Army War College does not accept individual applications into its SSC programs except through special exceptions. A DA-centralized board is held on behalf of the CAR to identify officers to attend SSC. USAR officers are selected according to AR 350-1. Commissioned officers from all components should remember that according to the provisions of AR 350-100, attendance at the Army War College incurs a 2-year service obligation. U.S. Army War College Distance Education Course allows you to participate in a 2-year, rigorous program of instruction that results in the award of the same graduation certificate and the same fully accredited master of science degree awarded to graduates of the resident program. You will need to devote 15 hours each week to a program that is delivered to you via the Internet, one that leverages technology to enhance the educational experience. Only the resident SSC courses and nonresident Army War College course award MEL SSC and JPME II upon completion. SSC graduates are assigned to organizations based on guidance from the CAR, and Director of ARNG. Tours following graduation are to the Army Staff, the Joint Chiefs of Staff, Secretary of Defense, ACOM, and combatant command staffs in branch, FA, branch/FA generalist or joint positions."</p>
+                <p class="col-sm-12 mainImg dropshadow"><img src="static/app/images/military.jpg" class="img-responsive rectImgs" alt="Picture of the Military Students in DDE."></p>
+                <p><strong>U.S. Military.</strong> To attend the United States Army War College a prospective student must be a serving colonel or lieutenant colonel with at least 16 but not more than 25 years of service at the starting date of the course. Students must have completed the Command and General Staff College, or the equivalent. To be eligible potential students must have completed a baccalaureate degree or equivalent from a regionally accredited institution. The years of service prerequisite may be waived for deserving officers by their component. Requests for waiver shall be endorsed by the applicant's immediate commander and will accompany the officer's application.</p>
+                <p class="col-sm-12 mainImg dropshadow"><img src="static/app/images/civilians.jpg" class="img-responsive rectImgs" alt="Picture of the Civilian Students in DDE."></p>
+                <p><strong>Civilian.</strong> To attend the Army War College, Department of the Army Federal Government civilians must be at the grade of GS/GM-14. Other DoD and Federal Government civilians can be accepted in the grade of GS-13. Please contact the department for enrollment instructions.</p>
+                <p class="col-sm-12 mainImg dropshadow"><img src="static/app/images/ifs.jpg" class="img-responsive rectImgs" alt="Picture of the International Fellows in DDE."></p>
+                <p><strong>International Fellows.</strong> All students attending the USAWC are expected to read, write, and speak English fluently. Native speakers of English are defined as those individuals who have received all of their primary and secondary education in the following countries: Antigua, Australia, Bahamas, Barbados, Belize, Brunei, English-speaking Canada, Dominica, Grenada, Guyana, India, Ireland, Jamaica, Malta, Mauritius, New Zealand, Singapore, St. Kitts, St. Lucia, St. Vincent, Trinidad, and the United Kingdom. Non-native speakers of English must demonstrate proficiency by taking the Test of English as a Foreign Language (TOEFL) which must be taken prior to enrollment at USAWC. A score of 557 on the paper-based test, 83 Internet based, or 220 on the computer-based test is the minimum for enrollment in the program of instruction at the U.S. Army War College. Information on the TOEFL may be obtained by writing to:</p>
+                <ul style="margin-bottom: 20px;" type="none"><li>TOEFL<br>P.0. Box 6154<br>Princeton, NJ 90541-6154, USA or <a href="https://www.ets.org/toefl" target="_blank"><strong>https://www.ets.org/toefl</strong></a></li></ul>
+                <p>International Fellows seeking enrollment in the Master of Strategic Studies degree program must submit their transcripts and supporting documentation to the USAWC Registrar's Office for assessment by an outside review body to determine equivalency of their degree.</p>
+                <p><strong>Service Obligation.</strong> Commissioned officers from all components should remember that according to the provisions of AR 350-100, attendance at the Army War College incurs a two-year service obligation. Prospective students from other services or government organizations are encouraged to determine if an obligation is incurred and the extent of the obligation.</p>
+            </div>
+            <div class="modal-footer">
+                <div class="footerNote col-sm-10"><strong>Scroll or swipe</strong> for more content.</div>
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div><!-- Graduation Requirements Modal -->
+<div class="modal fade" id="gradReqs" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Graduation Requirements</h4>
+            </div>
+            <div class="modal-body">
+                <p>To graduate from the U.S. Army War College through the Distance Education Program a U.S. student must:</p>
+                <ol style="margin-bottom: 20px;" type="a">
+                    <li>Successfully complete all Distance Education academic requirements. Satisfactory completion of the individual course requirements is the only basis for receiving credit for the completion of the Distance Education Program.</li>
+                    <li>Attend both resident courses.</li>
+                    <li>Possess a Secret security clearance.</li>
+                </ol>
+                <p class="col-sm-12 mainImg dropshadow"><img src="static/app/images/gradReqs2.jpg" class="img-responsive rectImgs" alt="Picture of the 2014 DDE Graduation Ceremony."></p>
+                <p>The Department of Distance Education's program requires a high degree of academic rigor. The high academic standards have given the U.S. Army War College's distance education offerings respectability in both civilian and military education circles. As a result, the Distance Education Program has been recognized as a graduate level program.</p>
+                <p><strong>PLEASE NOTE:</strong> Due to the specialized nature of the curriculum at the U.S. Army War College, transfer of credits from other institutions will not be accepted.</p>
+            </div>
+            <div class="modal-footer">
+                <div class="footerNote col-sm-10"><strong>Scroll or swipe</strong> for more content.</div>
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div><!-- Academic Records Modal -->
+<div class="modal fade" id="records" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Academic Records and Retirement Points</h4>
+            </div>
+            <div class="modal-body">
+                <p><strong>Permanent Records.</strong> Current academic files are maintained by the Department of Distance Education. Records of former students such as transcripts and AERs are maintained in the Registrar's Office. Once selected for the U.S. Army War College, each student will receive an administrative packet, which requires immediate attention. Included in the packet will be the instructions on how to submit your biographical information via Compass. <strong>This information must be completed no later than 10 days after receipt of the packet.</strong> A required part of your records is a current photo, which must be sent electronically to the DDE Administrative Office as a JPG file not later than 60 days after your enrollment in the course. If you fail to submit your biographical information and photograph to the College, administrative actions will be pursued.</p>
+                <p><strong>Transcript.</strong> All second-year students must request that their undergraduate transcript be mailed directly from their institution to the U.S. Army War College, Registrar's Office, 122 Forbes Avenue, Carlisle, PA 17013, for verification NLT 31 October of the academic year prior to graduation. U.S. Army War College transcripts are available by contacting the Registrar's Office (email: <a href="mailto:usarmy.carlisle.awc.mbx.registrar@mail.mil?subject=USAWC Transcript Request"><strong>usarmy.carlisle.awc.mbx.registrar@mail.mil</strong></a>). Please note, to be official, a transcript must be transmitted directly from the registrar of one institution to another.</p>
+            </div>
+            <div class="modal-footer">
+                <div class="footerNote col-sm-10"><strong>Scroll or swipe</strong> for more content.</div>
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div><!-- System Configuration Modal -->
+<div class="modal fade" id="systemConfiguration" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Tech Support</h4>
+            </div>
+            <div class="modal-body">
+                <p>Please select a from the guides listed below.</p>
+                <ul>
+                    <p><a href="http://ssl.armywarcollege.edu/dde/compassconfigure.cfm" target="_blank">Compass Activation and Blackboard Access</a></p>
+                    <p><a href="http://ssl.armywarcollege.edu/dde/techsupport.cfm" target="_blank">Tech Support</a></p>
+                </ul>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-info" data-dismiss="modal">Close</button>     
+            </div>
+        </div>
+     </div>
+</div><!-- Footer -->    
+
+<div class="top" style="text-align:center">
+	<a href="#top">Back to top</a>
+</div>	
+<div id="f">
+    <div class="container">
+	  <div id="armyLogo"><img src="static/app/images/armylogo.png" alt="" width="135" height="135"></div>
+        <div class="row">
+            <!-- ADDRESS -->
+            <div class="col-sm-3">
+                <h4>US Army War College</h4>
+                <p>
+                    Attn: Public Affairs Office<br>
+                    122 Forbes Avenue<br>
+                    Carlisle, PA 17013-5234<br>
+                    <a href="mailto:usarmy.carlisle.awc.mbx.atwc-cpa@mail.mil">Email</a>
+                </p>
+                <p>
+                    <a href="https://www.armywarcollege.edu/contact.cfm" target="_blank">Additional Contact Information</a><br>
+                    <a href="https://www.armywarcollege.edu/security-Privacy.cfm" target="_blank">Privacy &amp; Security</a>
+                </p>
+            </div><!--/col-md-3 -->
+            
+            <!-- Social -->
+            <div class="col-sm-2">
+                <h4>Social</h4>
+                <p>
+                    <a href="https://www.facebook.com/USAWC" target="_blank">Facebook</a><br>
+                    <a href="https://twitter.com/ArmyWarCollege" target="_blank">Twitter</a><br>
+                    <a href="https://www.youtube.com/user/USArmyWarCollege" target="_blank">YouTube</a><br>
+                    <a href="https://www.flickr.com/photos/usawc/" target="_blank">Flickr</a><br>
+                    <a href="https://www.linkedin.com/organization/15177635/admin/updates" target="_blank">LinkedIn</a>
+                </p>
+            </div><!-- /col-md-3 -->
+            
+            <!-- links -->
+            <div class="col-sm-3">
+                <h4>Related Sites</h4>
+                <p>
+                    <a href="https://www.army.mil/" target="_blank">US Army Website</a><br>
+                    <!--<a href="http://www.asamra.army.mil/nofear.cfm" target="_blank">No Fear Act</a><br>-->
+                    <a href="https://www.inscom.army.mil/isalute" target="_blank">iSALUTE</a><br>
+                    <a href="https://carlislebarracks.carlisle.army.mil/acs/sexual_assault.cfm" target="_blank">Sexual Assault Hotline</a>
+                </p>
+            </div><!-- /col-lg-3 -->
+            
+            <!-- Links -->
+            <div class="col-sm-4">
+                <h4>Internal Resources *</h4>
+                <p>
+                    <a href="https://armywarcollege.blackboard.com/" target="_blank">Blackboard</a><br>
+                    <a href="https://www.armywarcollege.edu/compass/" target="_blank">Compass</a><br>
+                    <a href="https://web.mail.mil/" target="_blank">OWA mail.mil</a><br>
+					<a href="https://www.office.com/" target="_blank">Office 365</a>
+         		</p>
+                <p>* requires authentication</p>
+				<p>Email Service Desk<br>
+					<a href="mailto:usarmy.carlisle.netcom.mbx.nec-service-desk-email@mail.mil" target="_blank">usarmy.carlisle.netcom.mbx.nec-service-desk-email@mail.mil</a><br>
+				</p>
+                
+            </div><!-- /col-lg-3 -->
+            
+            
+        </div><!-- --/row ---->
+    </div><!-- /container -->
+</div><!-- /f -->
+
+
+    	<!-- Bootstrap core JavaScript
+    	================================================== -->
+        <!-- Placed at the end of the document so the pages load faster -->
+        <script src="static/vendors/jquery/jquery-3.5.1.min.js"></script>
+        <script src="static/vendors/bootstrap-3.4.1-dist/js/bootstrap.min.js"></script>   
+        
+        <script>
+			$('.modal').on('show.bs.modal', function () {
+				var winHeight=$(window).height();
+				
+				$('.modal .modal-body').css('max-height', winHeight * 0.65);
+				
+			});
+        </script>		
+	
+
+</body></html>
