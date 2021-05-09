@@ -1,0 +1,218 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Professional Awards
+</title><meta http-equiv="X-UA-Compatible" content="IE=8"><meta name="format-detection" content="telephone=no"><link href="StyleSheet.css" rel="stylesheet" type="text/css"></head>
+ 
+ <body>
+
+  <form method="post" action="./" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+</div>
+
+    <div id="divContent" class="borderContents">
+
+<div class="textHome">
+
+ <p>
+  Welcome to the U.S. Army Corps of Engineers Professional Awards website!  Each year USACE recognizes 
+  employees' contributions of excellence in performance, leadership, professional development and 
+  community support in the fields of architecture, landscape architecture, interior design, 
+  computer aided design &amp; building information modeling, structural engineering, fire protection engineering, mechanical engineering, electrical engineering, and the geospatial and control systems.
+ </p>
+
+  The 2021 awards will include:  
+  <div class="homeBlock" style="margin-top:5px;">
+    Architect of the Year<br>
+    Landscape Architect of the Year<br>
+    Interior Designer of the Year<br>
+    CAD/BIM Professional of the Year<br>
+    Structural Engineer of the Year<br>
+    Fire Protection Engineer of the Year<br>
+    Mechanical Engineer of the Year<br>
+    Electrical Engineer of the Year<br>
+    Geospatial Professional of the Year<br>
+    Control System Professional of the Year <span style="color:#cc0000; font-style:italic; font-weight:bold;">* NEW *</span>
+  </div>
+ 
+ <p>
+  Anyone may access the instructions and information on the previous awardees but only USACE 
+  activities may submit nominations. Do this by registering, and then logging on to the nomination 
+  section of the site.  After the nomination period concludes, a jury consisting of the leaders from 
+  the appropriate Communities of Practice and additional qualified USACE peers will judge the 
+  nominations based on the five evaluation factors outlined in the "Instructions" page and recommend 
+  selections to the Chief of the Engineering and Construction for confirmation.
+ </p>
+	
+ <a href="PreviousWinners.aspx" target="_self">2020 Winners</a>
+ <table class="winners" cellspacing="3">
+  <tbody><tr><td class="tbl_Label">Architect of the Year</td>    <td class="tbl_Text">Jah-Ras Hodge,  (NAB)</td></tr>
+  
+  <tr><td class="tbl_Label">Interior Designer of the Year</td>    <td class="tbl_Text">Jessica O'Bryan, LEED-AP (LRL)</td></tr>
+  
+  <tr><td class="tbl_Label">Structural Engineer of the Year</td>    <td class="tbl_Text">Eric Johnson, P.E., S.E. (MVR)</td></tr>
+  <tr><td class="tbl_Label">Fire Protection Engineer of the Year</td>    <td class="tbl_Text">Raymond Schmid, FPE (SPL)</td></tr>
+  <tr><td class="tbl_Label">Mechanical Engineer of the Year</td>    <td class="tbl_Text">Joseph  Bush, FE (CERL)</td></tr>
+  <tr><td class="tbl_Label">Electrical Engineer of the Year</td>    <td class="tbl_Text">Charles Malone, FE III (HNC)</td></tr>
+  <tr><td class="tbl_Label">Geospatial Professional of the Year</td>    <td class="tbl_Text">Paul Deatrick, GISP (LRL)</td></tr>
+  
+ </tbody></table>
+ 
+  <div class="InstructionHeading"><h3>Schedule</h3></div>
+  <p class="InstructionParagraph"></p>
+  <table class="gv" style="margin:5px 0 15px 0; border:2px ridge white; border-collapse:collapse;" cellspacing="0" cellpadding="5">
+   <colgroup><col width="120"><col width="435">
+   </colgroup><tbody><tr valign="top">
+    <td style="white-space:nowrap; text-align:right;">01 OCT 2020</td>
+    <td>Website opens for 2021 nominations.</td>
+   </tr>
+   <tr valign="top">
+    <td style="white-space:nowrap; text-align:right;">28 FEB 2021</td>
+    <td>Website closes for 2021 nominations.</td>
+   </tr> 
+   <tr valign="top">
+    <td style="white-space:nowrap; text-align:right; vertical-align:middle;">MAY 2021</td>
+    <td>Awardees announced on this website.</td>
+   </tr>
+  </tbody></table>
+ 
+  <p>For questions regarding the program, contact:</p>
+
+ <br>
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Architect of the Year</legend>
+     <span class="ContactName">Scott C. Wick</span>, AIA, LEED AP, PMP<br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  202-761-7419</div>
+  </fieldset>
+   
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Interior Designer of the Year</legend>
+     <span class="ContactName">Scott C. Wick</span>, AIA, LEED AP, PMP<br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  202-761-7419</div>
+  </fieldset>
+   
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Landscape Architect of the Year</legend>
+     <span class="ContactName">Kevin S. Holden</span>, PLA, ASLA<br>
+     Institute for Water Resources, US Army Corps of Engineers<br>
+     1500 Rock Island Drive<br>
+     Rock Island, IL 61201<br>
+     <div class="phone">Telephone: 309-794-5236</div>
+ </fieldset>
+   
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">CAD/BIM Professional of the Year</legend>
+     <span class="ContactName">Jason Fairchild</span>, PE<br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  202-761-1898</div>
+  </fieldset>
+
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Structural Engineer of the Year</legend>
+     <span class="ContactName">Christopher H. Westbrook</span>, PE, F.ASCE<br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  202-761-7584</div>
+  </fieldset>
+
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Fire Protection Engineer of the Year</legend>
+     <span class="ContactName">John W. Wilkus, PE</span><br>
+     Headquarters, US Army Corps of Engineers<br>
+     601 E. 12th Street<br>
+     Kansas City, MO 64106<br>
+     <div class="phone">Telephone:  816-389-3227</div>
+  </fieldset>
+
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Mechanical Engineer of the Year</legend>
+     <span class="ContactName">Timothy M. Paulus, PE</span><br>
+     Headquarters, US Army Corps of Engineers<br>
+     180 5th Street East, Suite 700<br>
+     Saint Paul, MN 55101-1678<br>
+     <div class="phone">Telephone:  651-290-5530</div>
+  </fieldset>
+
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Electrical Engineer of the Year</legend>
+     <span class="ContactName">Christopher C. Thompson, PhD, PE</span><br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  202-761-4492</div>
+  </fieldset>
+
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Geospatial Professional of the Year</legend>
+     <span class="ContactName">Nancy Blyler</span><br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  202-761-7755</div>
+  </fieldset>
+
+ <fieldset class="fieldsetHome">
+   <legend class="textLegend">Control System Professional of the Year</legend>
+     <span class="ContactName">Joseph Bush</span><br>
+     Headquarters, US Army Corps of Engineers<br>
+     441 G. Street, NW<br>
+     Washington, DC 20314-1000<br>
+     <div class="phone">Telephone:  217-373-4433</div>
+  </fieldset>
+
+</div>
+</div>
+      
+    <div id="divMenu">
+<link rel="stylesheet" href="JSCookMenu/ThemePanel/theme.css" type="text/css">
+<script type="text/javascript" src="JSCookMenu/JSCookMenu.js"></script>
+<script type="text/javascript" src="JSCookMenu/ThemePanel/theme.js"></script>
+<div id="BarMenuDiv" style="margin-bottom:10px; width:147px;" class="ThemePanelMainItem"><table summary="main menu" class="ThemePanelMenu" cellspacing="0"><tbody><tr class="ThemePanelMainItem" onmouseover="cmItemMouseOverOpenSub (this,'ThemePanel',1,null,'vbr',0)" onmousedown="cmItemMouseDown (this,0)" onmouseout="cmItemMouseOut (this,500)" onmouseup="cmItemMouseUp (this,0)"><td class="ThemePanelMainItemLeft"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td><td class="ThemePanelMainItemText">Home</td><td class="ThemePanelMainItemRight"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td></tr><tr class="ThemePanelMainItem" onmouseover="cmItemMouseOverOpenSub (this,'ThemePanel',1,null,'vbr',1)" onmousedown="cmItemMouseDown (this,1)" onmouseout="cmItemMouseOut (this,500)" onmouseup="cmItemMouseUp (this,1)"><td class="ThemePanelMainItemLeft"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td><td class="ThemePanelMainItemText">Instructions</td><td class="ThemePanelMainItemRight"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td></tr><tr class="ThemePanelMainItem" onmouseover="cmItemMouseOverOpenSub (this,'ThemePanel',1,null,'vbr',2)" onmousedown="cmItemMouseDown (this,2)" onmouseout="cmItemMouseOut (this,500)" onmouseup="cmItemMouseUp (this,2)"><td class="ThemePanelMainItemLeft"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td><td class="ThemePanelMainItemText">Previous Winners</td><td class="ThemePanelMainItemRight"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td></tr><tr class="ThemePanelMainItem" onmouseover="cmItemMouseOverOpenSub (this,'ThemePanel',1,null,'vbr',3)" onmousedown="cmItemMouseDown (this,3)" onmouseout="cmItemMouseOut (this,500)" onmouseup="cmItemMouseUp (this,3)"><td class="ThemePanelMainItemLeft"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td><td class="ThemePanelMainItemText">Contact Us</td><td class="ThemePanelMainItemRight"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td></tr><tr class="ThemePanelMainItem" onmouseover="cmItemMouseOverOpenSub (this,'ThemePanel',1,null,'vbr',4)" onmousedown="cmItemMouseDown (this,4)" onmouseout="cmItemMouseOut (this,500)" onmouseup="cmItemMouseUp (this,4)"><td class="ThemePanelMainItemLeft"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td><td class="ThemePanelMainItemText">Login</td><td class="ThemePanelMainItemRight"><img alt="" src="JSCookMenu/ThemePanel/blank.gif"></td></tr></tbody></table></div>
+ <script language="javascript" type="text/javascript">
+ var BarMenuVar = 
+ [
+[null,"Home","Default.aspx",null,null],
+[null,"Instructions","Default.aspx?f=Instructions",null,null],
+[null,"Previous Winners","PreviousWinners.aspx",null,null],
+[null,"Contact Us","Default.aspx?f=ContactUs",null,null],
+[null,"Login","Login.aspx",null,null]
+];
+ cmDraw("BarMenuDiv", BarMenuVar, "vbr", cmThemePanel, "ThemePanel");
+function GoComment()
+{var w=window.open("Comment.aspx?p=default.aspx","CommentWindow","height=400px,width=640px,resizable=yes,location=no,titlebar=no,menubar=no,status=yes,top=100");
+w.focus();}
+function myFun(){iKeepAlive++;
+document.getElementById("KeepAlive").src="Blank.htm?i="+iKeepAlive;}
+setInterval(myFun, 600000);
+var iKeepAlive = 1;
+</script>
+<input type="button" value="Comment" class="button" onclick="GoComment()">
+<div id="KeepAliveDiv" style="margin-top:10px; display:none;">
+ <iframe id="KeepAlive" src="Blank.htm"></iframe>
+</div><div id="divDOD" runat="server"> <a href="https://www.inscom.army.mil/isalute" target="_blank">  <img src="images/isalute.png" alt="iSalute Link" style="border:2px solid silver;" width="100px" border="0"> </a></div></div>
+      
+    <div id="divBanner">
+      <a href="Default.aspx"><img src="images/CorpsBanner_ProfAwards.jpg" alt="CorpsBanner" class="CorpsBanner"></a>
+    </div>
+      
+
+
+  </form>
+
+ 
+
+</body></html>

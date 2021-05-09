@@ -1,0 +1,42 @@
+<html dir="ltr" lang="en"><head>
+    <title>Error</title>
+    <base href="https://access.erdc.dren.mil:443/">
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+</head>
+
+<body>
+
+<div class="ping-container">
+
+    <!--
+     if there is a logo present in the 'company-logo' container,
+     then 'has-logo' class should be added to 'ping-header' container.
+     -->
+    <div class="ping-header">
+        <span class="company-logo"><!-- client company logo here --></span>
+        Error
+    </div><!-- .ping-header -->
+
+    <div class="ping-body-container">
+        <div class="section-title">
+            Oops
+        </div>
+        <div class="ping-messages ping-nopad">
+            <div>
+                Looks like something is not right. Please contact your administrator.
+            </div>
+            <div class="ping-note-text">
+                403 - Forbidden
+            </div>
+        </div>
+    </div> <!-- .ping-body-container -->
+
+</div> <!-- .ping-container -->
+
+
+
+</body></html>
