@@ -1,0 +1,75 @@
+<html>
+        <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2021/05/09 at 17:05:04</center><center><a href="report.html" id="previous"> Previous Page </a></center>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a></center>
+<table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://arba.army.pentagon.mil" target="_blank">http://arba.army.pentagon.mil</a><br>
+            <b>Resolved to:</b> 52.227.248.96<br>
+<br><b> Page Title: </b>The United States Army | Army Review Boards Agency
+<br><b> Date:</b> Sun, 09 May 2021 17:05:13 GMT
+<br><b> Content-Type:</b> text/html
+<br><b> Content-Length:</b> 10072
+<br><b> Connection:</b> close
+<br><b> Last-Modified:</b> Thu, 11 Mar 2021 17:34:45 GMT
+<br><b> Accept-Ranges:</b> bytes
+<br><b> ETag:</b> &quot;7a36c9d39c16d71:0&quot;
+<br><b> Strict-Transport-Security:</b> max-age=31536000
+<br><b> X-Frame-Options:</b> SAMEORIGIN
+<br><b> X-XSS-Protection:</b> 1; mode=block
+<br><b> X-Content-Type-Options:</b> nosniff
+<br><b> Content-Security-Policy:</b> default-src &#x27;self&#x27; *.pentagon.mil:443; script-src *.pentagon.mil:443; font-src *pentagon.mil:443; frame-src *pentagon.mil:443; connect-src &#x27;self&#x27;; img-src &#x27;self&#x27;; style-src *.pentagon.mil:443
+<br><b> Referrer-Policy:</b> strict-origin
+<br><b> Set-Cookie:</b> ARRAffinity=5259918dd1ce68c2f692020338a1607540b8d623ccf1adf962c85e74cfa56f2d;Path=/;HttpOnly;Secure;Domain=arba.army.pentagon.mil
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.arba.army.pentagon.mil.txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.arba.army.pentagon.mil.png"
+                target="_blank"><img src="screens/http.arba.army.pentagon.mil.png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br></table><br>
+<center><br><a href="report.html"> Page 1</a><a href="report_page2.html"> Page 2</a></center>
+<br><center><a href="report.html" id="previous"> Previous Page </a></center></body></html>

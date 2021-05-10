@@ -1,0 +1,194 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/index2.dwt" codeOutsideHTMLIsLocked="false" --><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!-- InstanceBeginEditable name="meta" -->
+	<!-- Enter your site's description inside the content value below. Search Engine's will display this text in their results. -->
+	<meta name="Description" content="">
+	<!-- Enter your site's keywords inside the content value below. Choose words/acronyms that describe your site. -->
+    <meta name="Keywords" content="US Army, Army, Army News, ARMY.mil, Headlines, Public Affairs, Official Army Homepage, Hot Topics, Images, Video, Audio, AMP, Social Media, Leaders, History, Organization, Service, AKO">
+	<!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="doctitle" -->
+    <title>The United States Army | Army Review Boards Agency</title>
+    <!-- InstanceEndEditable -->
+    <link rel="stylesheet" type="text/css" href="rv4_css/root.css">
+	<!--[if IE 6]>
+	    <link rel="stylesheet" type="text/css" href="rv4_css/ie6.css" />
+	<![endif]-->
+    <!--[if IE 7]>
+        <link rel="stylesheet" type="text/css" href="rv4_css/ie7.css" />
+    <![endif]-->
+    <script type="text/javascript" src="rv4_js/utility.js"></script>
+    <script type="text/javascript" src="rv4_js/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="rv4_js/superfish.js"></script>
+    <script type="text/javascript" src="rv4_js/jquery.hoverIntent.min.js"></script>
+    <script type="text/javascript" src="rv4_js/jqueryui.slide.min.js"></script>
+    <script type="text/javascript" src="rv4_js/dropDown.js"></script>
+    <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<body>
+    <div id="wrapper"><div id="container">
+        <div id="header">
+            <a id="headerStar" href="http://www.army.mil/"></a>
+        </div>
+        <div id="navBar">
+            <ul id="dropDownNav" class="sf-js-enabled">
+                <a class="hide2" href="#skipNav">Skip main navigation</a>
+				
+                <!-- InstanceBeginEditable name="EditRegion1" -->
+				<li><a href="index.html">Home</a></li>
+              <!--  <li><a href="">Link</a>
+                    <ul>
+                        <li><a href="">Sub-Link</a></li>
+                        <li><a href="">Sub-Link</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Link</a>
+                    <ul>
+                        <li><a href="">Sub-Link</a></li>
+                        <li><a href="">Sub-Link</a></li>
+                    </ul>    
+                </li>
+                <li><a href="">Link</a>
+                    <ul>
+                        <li><a href="">Sub-Link</a></li>
+                        <li><a href="">Sub-Link</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Link</a>
+                    <ul>
+                        <li><a href="">Sub-Link</a></li>
+                        <li><a href="">Sub-Link</a></li>
+                    </ul>
+                </li>
+                <li><a href="">Link</a>
+                    <ul>
+                        <li><a href="">Sub-Link</a></li>
+                        <li><a href="">Sub-Link</a></li>
+                    </ul>
+                </li> -->
+				<!-- InstanceEndEditable -->
+            </ul>
+            <div id="liveSearch" style="background: rgb(82, 82, 82) none repeat scroll 0% 0%;">
+                <ul id="liveSearchTabs">
+                    <li id="liveSearchTabs1" style="color: rgb(17, 17, 17);">All</li>
+                    <li id="liveSearchTabs2" style="color: rgb(255, 255, 255);">Articles</li>
+                    <li id="liveSearchTabs3" style="color: rgb(255, 255, 255);">Images</li>
+                    <li id="liveSearchTabs4" style="color: rgb(255, 255, 255);">Video</li>
+                </ul>
+                <div id="liveSearchLeft" style="background: rgba(0, 0, 0, 0) url(&quot;rv4_images/live_search_left.gif&quot;) no-repeat scroll 0% 0%;"></div>
+                <form id="searchForm" name="searchForm" method="get" action="http://www4.army.mil/search/index.php">
+                    <h6>
+                        <label class="hide2">Search</label><input type="text" value="" name="search" id="search" size="32">
+                        <input type="submit" value="" class="close" id="searchbutton">
+                    </h6>
+                </form>
+            </div>
+            <a name="skipNav"></a>
+      </div>
+        <div id="contentBackground"><div id="leftCol">            
+            <div id="navLinks">
+                <ul id="leftColNav">
+                  <!-- InstanceBeginEditable name="EditRegion2" --><li><a href="index.html">Home</a></li><hr>
+                    <li><a href="overview.html">Mission &amp; Overview</a></li><hr>
+                    <li><a href="online-application.html">Online Application</a></li><hr>
+                    <li><a href="abcmr-overview.html">Correction of Military Records</a></li><hr>
+                    <li><a href="adrb-overview.html">Discharge Review</a></li><hr>
+                    <li><a href="agdrb-overview.html">Grade Determination Review</a></li><hr>
+                    <li><a href="unfavorable.html">Appealing Unfavorable Information in Military Records (DASEB)</a></li><hr>
+                    <li><a href="clemency-parole.html">Army Clemency and Parole Board</a></li><hr><li><a href="disability-appeals.html">Disability Appeals</a></li><hr>                    
+                    <li><a href="dadt.html">Don't Ask, Don't Tell</a></li><hr>                    
+                    <li><a href="faqs.html">FAQs</a></li><hr>
+                    <li><a href="links.html">Links</a></li><hr>                    
+                    <li><a href="contact.html">Contact Us</a></li>                    
+                  <!-- InstanceEndEditable -->                    
+                  <!-- InstanceEndEditable -->
+                </ul>
+                </div>
+        </div>        
+   
+        <div id="mainContent"><!-- InstanceBeginEditable name="EditRegion3" -->
+		<h1>On behalf of the Secretary of the Army</h1>
+		<p> The Army Review Boards Agency serves as the highest administrative level for review of personnel actions taken by lower levels of the Army and administers a number of boards including those listed below.  (Click on board names below for more information on that board.)</p>
+		<!-- <p>&nbsp;</p> -->
+        <div id="nohover">
+		<p format="bold"><b>NOTICE:</b>  The <b>new mailing address</b> for Army Review Boards Agency and
+applications to its various boards is:&nbsp;<b>251 18th Street South, Suite 385
+Arlington, VA  22202-3531.</b> <!--This replaces the former addresses at 1901 South
+Bell Street, Arlington, VA and our former support office address in St.
+Louis. -->
+
+ </p>
+        </div>
+		<h1>Boards</h1>
+		<!--<div id="nohover">
+		<a href="abcmr-overview.html" style="border:0px; color:#404040; padding:0px;">
+		<div style="background-image:url(images/button-abcmr.png); height:132px; width:630px; vertical-align:middle;">
+			
+			</div>
+		</div>
+		</a>
+		<br />
+		<div id="nohover">
+		<a href="adrb-overview.html" style="border:0px; color:#404040; padding:0px;">
+		<div style="background-image:url(images/button-adrb.png); height:132px; width:630px; vertical-align:middle;">
+			
+			</div>
+		</div>
+		</a>
+        	<br />	
+		<div id="nohover">
+		<a href="agdrb-overview.html" style="border:0px; color:#404040; padding:0px;">
+		<div style="background-image:url(images/button-agdrb.png); height:132px; width:630px; vertical-align:middle;">-->
+			<ul>
+			<li><a href="abcmr-overview.html">Army Board for Correction of Military Records (ABCMR)</a></li>
+	<li><a href="adrb-overview.html">Army Discharge Review Board (ADRB)</a></li>
+	<li><a href="agdrb-overview.html">Army Grade Determination Review Board (AGDRB)</a></li>
+	<li>Army Active Duty Board</li>
+	<li>Army Board of Review for Eliminations</li>
+	<li>Ad Hoc Board</li>
+	<li>Army Physical Disability Appeal Board</li>
+	<li><a href="disability-appeals.html">Army Physical Disability Review Board</a></li>
+	<li><a href="disability-appeals.html">Army Disability Rating Review Board</a></li>
+	<li><a href="clemency-parole.html">Army Clemency and Parole Board</a></li>
+	<li>Army Special Review Board (ASRB) [Evaluation Appeals]</li>
+<!--	<li>Army Enlisted Special Review  Board (ESRB)</li>
+-->	<li><a href="unfavorable.html">Department of the Army Suitability Evaluation Board (DASEB)</a></li>
+	<li>Department of the Army Conscientious Objector Board (DACORB)</li>
+			<li><a href="documents/AgencyBriefing20181203.pdf">Army Review Boards Agency Brief</a></li>
+	</ul>
+
+			
+			</div>
+		</div>
+				
+		
+		</div>        <!-- InstanceEndEditable --></div>
+        <!-- end mainContent -->
+        
+<!-- snip -->
+        
+        <div id="footer">
+            
+            <div id="footerLeft">
+                <a class="rss" href="http://www.army.mil/rss/"><span class="textLink">Army RSS</span></a>
+  <!--              <a class="podcasts" href="http://www.army.mil/rss/podcasts/"><span class="textLink">Podcasts</span></a>-->
+            </div>
+            <div id="footerMiddle">
+                <ul>
+                  <!-- InstanceBeginEditable name="EditRegion5" -->
+                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="https://www.army.mil/privacy/">Privacy &amp; Security</a></li>
+                    <li><a href="http://www.army.mil">www.army.mil</a></li>
+                    <li><a href="https://www.rmda.army.mil/">Army FOIA</a></li>
+                    <li><a href="http://www.asamra.army.mil/nofear.html">NO FEAR</a></li>
+
+                  <!-- InstanceEndEditable -->
+                </ul>
+                </div>
+            <div id="footerRight">
+                Need help? Try <a href="http://www.army.mil/info/a-z/">A-Z</a>
+            </div>
+        </div>
+            
+    <!-- end container -->
+<!-- end wrapper -->
+</body><!-- InstanceEnd --></html>

@@ -1,0 +1,480 @@
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	G-2 Home
+</title>
+<style type="text/css">
+a{
+				color:#254470; 
+				text-decoration:none; 
+				font-weight:bold;
+}
+
+.style1 {
+				color: #FFFFFF;
+}
+
+</style>
+
+
+
+<link href="g2Scripts/js-image-slider.css" rel="stylesheet" type="text/css">
+<script src="g2Scripts/js-image-slider.js" type="text/javascript"></script>
+
+
+<style type="text/css">
+.style2 {
+				border-style: solid;
+				border-width: 1px;				
+				padding-bottom: 1px;
+}
+#Rsscontainer{
+position: relative; 
+height: 133px; 
+overflow:scroll;
+padding: 2px;
+padding-left: 4px;
+background-image:url('g2Images/contentboxes_bg.jpg');
+}
+
+.style3 {
+				border-color:#a5a5a5;
+				border-style: solid;
+				border-width: 1px;
+				
+}
+
+.style4 {
+				border-left: 1px solid #a5a5a5;
+				border-right: 1px solid #a5a5a5;
+				border-top: 1px solid #a5a5a5;
+				border-bottom-color: #a5a5a5;
+				
+}
+.style5 {
+				border-left: 1px solid #a5a5a5;
+				border-right: 1px solid #a5a5a5;
+				border-bottom-color: #a5a5a5;
+				
+}
+
+
+.style6 {
+				border-width: 0px;
+}
+a{
+				color:#254470; 
+				text-decoration:none; 
+				font-weight:bold;
+}
+
+    .style8 {
+				float: right;
+}
+
+    </style>
+
+				
+
+
+
+<style type="text/css">
+	/* <![CDATA[ */
+	#mainMenu { height:28px;width:998px; }
+	#mainMenu img.icon { border-style:none;vertical-align:middle; }
+	#mainMenu img.separator { border-style:none;display:block; }
+	#mainMenu img.horizontal-separator { border-style:none;vertical-align:middle; }
+	#mainMenu ul { list-style:none;margin:0;padding:0;width:auto; }
+	#mainMenu ul.dynamic { background-color:Black;z-index:1;margin-left:2px; }
+	#mainMenu a { text-decoration:none;white-space:nowrap;display:block; }
+	#mainMenu a.static { padding:4px 5px 4px 5px;text-decoration:none;border-style:none; }
+	#mainMenu a.popout { background-image:url("g2Images/navigation_arrow.gif");background-repeat:no-repeat;background-position:right center;padding-right:14px; }
+	#mainMenu a.popout-dynamic { background:url("/WebResource.axd?d=oo89p6ef7zLelCItaGX5N8qZmpQnN8LgiwYgF4ZR2ejOFpJf0Iay3HO3pWEipmxU8_enrJG4p-42_O9bT1k6zevSlVEYQMWL7kXE6RtyINYZ3QyDW53JYgKvbgVgdq6V0&t=636559641405937321") no-repeat right center;padding-right:14px; }
+	#mainMenu a.dynamic { padding:2px 10px 2px 10px;color:White;text-decoration:none;border-style:none; }
+	#mainMenu a.static.selected { color:White;text-decoration:none; }
+	#mainMenu a.dynamic.selected { background-color:Black;text-decoration:none; }
+	#mainMenu a.static.highlighted { color:White; }
+	#mainMenu a.dynamic.highlighted { color:White;background-color:#5D7B9D; }
+	/* ]]> */
+</style></head>
+<body style="font-size:14px; font-family:Arial; background-image:url('g2Images/g2main_bg.jpg');">
+<center>
+<form method="post" action="./" id="form1" style="width:999px; height:1520px; border-color:white; border-style:solid; border-width:12px; z-index: 9999;">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjcyMDEyNzgwD2QWAmYPZBYCAgQPZBYEAgIPZBYYZg9kFgJmDxUBCyAgICAgICAgICAgZAIBD2QWAmYPFQEESE9NRWQCAg9kFgJmDxUBAXxkAgMPZBYCZg8VAQhBQk9VVCBVU2QCBA9kFgJmDxUBAXxkAgUPZBYCZg8VAQdISVNUT1JZZAIGD2QWAmYPFQEBfGQCBw9kFgJmDxUBDERJUkVDVE9SQVRFU2QCCA9kFgJmDxUBAXxkAgkPZBYCZg8VAQ9GT1VORFJZIFBST0dSQU1kAgoPZBYCZg8VAQF8ZAILD2QWAmYPFQEVTUkgQ09SUFMgSEFMTCBPRiBGQU1FZAIHDw8WAh4EVGV4dAUURnJpZGF5LCBNYXkgMTgsIDIwMThkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUXY3RsMDAkY29udGVudCRpbWdTZWFyY2ibwP9SYYzKFDPTKhngCfTv8+VMDHkOvlNkh7nVgFBIDA==">
+</div>
+
+
+<script src="/WebResource.axd?d=VnZx_PPjJpba0ySgqTwL4gGPz05w0fpBRnzfp2QjKq7dte7u4PyH9tHhmyvlHpZQimS9YFnveCz6bUaopmw84a2kISSmqOTHGgGc_2nUas-9ag_jzRayCccXovQWw1lN0&amp;t=636559641405937321" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAT2iCxFnlAwafprmzy1diW9uPpEkFVR69Gf8FjgohoJkuyDFwuB/xP9HhMY/BXlEAQhVOCNkvH1dtfegKWKfxrYIfp7RVfTeR4eQ9iluMnHgmK7V9CDgNh8wNF6H65inpc=">
+</div>
+
+
+<div>
+
+
+
+
+
+	<img alt="" src="g2Images/maing2publicbanner.jpg" width="998" height="142">
+
+
+
+
+
+</div>
+<div style="z-index:9999">
+
+
+<!-- removed on 5/12/2016  - G-2 leadership and biographies (PII) not allowed on the new server location
+<asp:menuitem NavigateUrl="../MainOrgChart.aspx" Text="G-2 Staff Organizational Chart" Value="Directorates"> 	</asp:menuitem>-->
+
+
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Left Column</title>
+<style type="text/css">
+.menudetails{
+				
+				color:white;
+				font-size:14px;
+				font-family:Arial;
+				z-index:99999;
+				font-weight:500;
+								    
+}
+.dynamicMenu {
+     
+    z-index:99999;
+    font-weight:normal;
+    position:relative;
+}
+
+
+.stylePadMenu {
+				text-align: left;
+				padding-left:0px;
+				background-image:url('../g2Images/menu.gif');
+				
+}
+.menuitemtext{
+				padding-left:0px;
+}
+
+
+</style><script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+
+
+
+<div style="z-index:99999;  position:relative" class="stylePadMenu">
+<a href="#mainMenu_SkipLink"><img alt="Skip Navigation Links" src="/WebResource.axd?d=VD95KsMxTQgLcxzYFUPctmdWMmJ_gmMviIV2AxAFEOngbv_hZV9e3cYE_HdH2MJCj6zhllkfnSfG_jGrjjUbFhZF83gvir76BzDlVyQErJs1&amp;t=636559641405937321" style="border-width:0px;" width="0" height="0"></a><div class="menudetails" id="mainMenu" style="float: left;">
+	<ul class="level1 static" tabindex="0" style="position: relative; width: auto; float: left;" role="menubar">
+		<li role="menuitem" class="static" style="position: relative; float: left;"><a class="level1 menudetails static" tabindex="-1">
+								           
+				</a></li><li role="menuitem" class="static" style="position: relative; float: left;"><a class="level1 menudetails static" href="default.aspx" tabindex="-1">
+								HOME
+				</a></li><li role="menuitem" class="static" style="position: relative; float: left;"><a class="level1 menudetails static" href="#" onclick="__doPostBack('ctl00$mainMenu','||')" tabindex="-1">
+								|
+				</a></li><li class="has-popup static" aria-haspopup="mainMenu:submenu:5" role="menuitem" style="position: relative; float: left;"><a class="popout level1 menudetails static" href="#" tabindex="-1">
+								ABOUT US
+				</a><ul class="level2 dynamicMenu dynamic" id="mainMenu:submenu:5" style="display: none; position: absolute; top: 100%; left: 0px;">
+			<li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="../Mission.aspx" tabindex="-1">Vision &amp; Mission</a></li>
+		</ul></li><li role="menuitem" class="static" style="position: relative; float: left;"><a class="level1 menudetails static" href="#" onclick="__doPostBack('ctl00$mainMenu','||')" tabindex="-1">
+								|								
+				</a></li><li class="has-popup static" aria-haspopup="mainMenu:submenu:9" role="menuitem" style="position: relative; float: left;"><a class="popout level1 menudetails static" href="#" tabindex="-1">
+								DIRECTORATES
+				</a><ul class="level2 dynamicMenu dynamic" id="mainMenu:submenu:9" style="display: none; position: absolute; top: 100%; left: 0px;">
+			<li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-CD.aspx" tabindex="-1">DAMI-CD</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-CP.aspx" tabindex="-1">DAMI-CP</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-FI.aspx" tabindex="-1">DAMI-FI</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-FL.aspx" tabindex="-1">DAMI-FL</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-IM.aspx" tabindex="-1">DAMI-IM</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-PI.aspx" tabindex="-1">DAMI-PI</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-RI.aspx" tabindex="-1">DAMI-RI</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DIG.aspx" tabindex="-1">DAMI-ZXG(DIG)</a></li><li role="menuitem" class="dynamic" style="position: relative;"><a class="level2 dynamicMenu dynamic" href="DAMI-ZXM.aspx" tabindex="-1">DAMI-ZXM</a></li>
+		</ul></li><li role="menuitem" class="static" style="position: relative; float: left;"><a class="level1 menudetails static" href="#" onclick="__doPostBack('ctl00$mainMenu','||')" tabindex="-1">
+								|								
+				</a></li><li role="menuitem" class="static" style="position: relative; float: left;"><a class="level1 menudetails static" href="HOF.aspx" tabindex="-1">
+								MI CORPS HALL OF FAME
+				</a></li>
+	</ul>
+</div><div style="clear: left;"></div><a id="mainMenu_SkipLink"></a>
+
+</div>
+
+
+
+
+
+
+
+</div>
+<div style="z-index:1">
+
+<center>
+ 
+<div style=" text-align:left; background-image:url('g2Images/stripe_bg.jpg'); font-family:Arial; font-size:13px;">
+	<table style="width: 100%; height: 1300px;">
+				<tbody><tr>
+					<td style="width: 685px;" valign="top">
+										
+
+									<div style="width: 670px; height: 400px;">
+
+ 				<div id="Frame" style="width: 673px; left: -4px; top: 2px;">
+								 
+								<a><img src="../g2Images/WebsiteCover.jpg" alt="G2" style="width:670px;height:470px;"></a> 
+
+								          <div style="top: 0px; height: 144px; width: 678px; left: -2px;"></div>
+									<div style="position :relative;z-index:100; left: -2px; height: 100px; top: -180px; width: 684px;">  
+													<table style="width: 100%; vertical-align:top; color:black;">
+														<tbody><tr>
+																<td style="width: 206px; padding-left:8px">
+																<br>
+																The ODCS, G-2 is responsible for:<br> 
+<br>
+																<ul style="list-style-type:circle"> <li>Providing current and estimative intelligence to HQDA; developing the current and future threat environment for the Army; 
+																providing oversight, training guidance, and policy review of the Army's Foreign Materiel Program; and providing foreign technical 
+																threat intelligence assessments to the ASA (ALT) in support of Army acquisition programs, science and technology efforts, and 
+																research and development programs.</li><br>
+												<br>
+															<li>Serving as the ARSTAF lead for intelligence, surveillance, and reconnaissance integration issues, including plans, policies, 
+																and architectures.</li> </ul><br>
+																
+																(General Order 2019-01, 15 May 2019) 
+																                                    <br>
+
+												<br>
+																																
+																</td><td style="width: 212px" valign="top"> <br>
+<br>
+                                                                   																	 																		<li>
+																		<a style="text-decoration:none; color:white" href="MainOrgChart.aspx"></a> 
+																		
+																		<ul style="list-style-type:circle"><li>Coordinating and providing technical assistance and advice to the ASA (M&amp;RA) and ASA (ALT) with regard to the development 
+																and implementation of Army protection and security policies.</li><br>
+												
+<br>
+															<li>Developing, in conjunction with the GC and TJAG, policies and programs for Army intelligence and intelligence oversight, and 
+																planning and supervising the execution of those policies and programs.  </li> </ul>     <br>
+
+<br>
+																
+                                                                                                                                
+                                                                                                                                </li></td><td style="width: 212px" valign="top"> <br>
+
+                                                                                                                               <br><br>
+																<span style="float:right; padding-right:15px">
+																<a href="mission.aspx">If you would like more information on our mission, click here.<br> <img alt="" src="g2Images/learn_more.gif" width="87" height="19" border="0"></a></span>
+																</td>
+
+
+																		
+																		
+																		
+																																	
+																
+																<td valign="top">
+																	<ul>
+										
+																	</ul>
+																	<br><br>
+																</td>
+														</tr>
+													</tbody></table>
+													
+									</div>
+					
+								
+					
+									
+					    				</div>	
+										</div> 
+					
+					   		    				    				
+    				
+					</td>
+					<td style="height: 362px; width: 307px; padding-top:10px; background-image:url('g2Images/search_box.png'); background-repeat:no-repeat; " valign="top">
+								&nbsp;&nbsp;&nbsp;&nbsp;
+                                <input name="ctl00$content$txtSearchTxt" type="text" id="content_txtSearchTxt" style="width:197px;">
+                                <input type="image" name="ctl00$content$imgSearch" id="content_imgSearch" src="g2Images/search_bttn.png" align="top">
+                                <br>
+                                <br>								
+															
+															
+								<p></p>
+								<div style="background-image:url('g2Images/contentboxes_bg.jpg'); width:295px; height: 485px; border-width:1px;  border-color:#a5a5a5" class="style2">
+									<img alt="" src="g2Images/links_header.jpg">
+									<div style="background-image:url('g2Images/links_dod.png'); background-repeat:no-repeat; top:-5px; height: 119px; padding-bottom:10px; background-color:white">
+										<br><br>
+										<br>
+										<span style="padding-left:15px;">
+										<a target="_blank" href="http://www.defense.gov/">SECDEF</a></span><br>
+										<span style="padding-left:15px;">
+										<a target="_blank" href="http://www.jcs.mil/">CJCS</a></span><br>
+										<span style="padding-left:15px;">
+										<a target="_blank" href="http://www.army.mil/Leaders/sa/">SecArmy</a></span><br>
+										<span style="padding-left:15px;">
+										<a target="_blank" href="http://www.army.mil/leaders/csa/">CSA</a></span><br>
+										<span style="padding-left:15px;">
+										<a target="_blank" href="http://www.osc.gov">OSC</a></span><br>
+										<br><br>
+
+
+									</div>
+									<div style="background-image:url('g2Images/links_g2.png'); background-repeat:repeat-y; height: 31px; width:295px; background-color:white">
+										<br><br>
+									</div>
+									<br>
+									<span style="padding-left:15px;">
+										<a target="_blank" href="http://www.dami.army.pentagon.mil/default.aspx">ICD 119, Media Contacts</a></span><br>
+									<br>
+									<div style="background-image:url('g2Images/links_ic.png'); background-repeat:no-repeat; height: 93px; width:295px;background-color:white">
+										<br><br>									
+											
+											
+											<table style="width: 95%">
+															<tbody><tr>
+																			<td style="width: 73px" valign="top">									
+											
+											
+											<span style="padding-left:15px;">
+											<a target="_blank" href="http://www.dni.gov/">DNI</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="https://www.cia.gov/index.html">CIA</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="http://www.dia.mil/">DIA</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="http://www.nsa.gov/">NSA</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="https://www1.nga.mil/Pages/Default.aspx">NGA</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="http://www.nro.gov/">NRO</a></span><br>
+											
+
+											
+											</td>
+															<td>
+														    <span style="padding-left:15px;">
+															<a target="_blank" href="http://www.doe.gov/">DoE</a></span><br>
+															<span style="padding-left:15px;">
+															<a target="_blank" href="http://www.DHS.gov/">DHS</a></span><br>
+															<span style="padding-left:15px;">
+															<a target="_blank" href="http://www.state.gov/">DoS</a></span><br>
+															<span style="padding-left:15px;">
+															<a target="_blank" href="http://www.treasury.gov/Pages/default.aspx">DoT</a></span><br>
+															<span style="padding-left:15px;">
+															<a target="_blank" href="http://www.justice.gov/dea/index.shtml">DEA</a></span><br>
+															<span style="padding-left:15px;">
+															<a target="_blank" href="http://www.fbi.gov/">FBI</a></span><br>
+																					
+															</td>
+											</tr>
+										</tbody></table>
+										<br>									
+									<div style="background-image:url('g2Images/links_mi.png'); background-repeat:no-repeat;padding-top:8px; padding-bottom:10px;">
+											<br><br>																						
+											<span style="padding-left:15px;">
+											<a target="_blank" href="http://www.inscom.army.mil/">INSCOM</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="https://www.ikn.army.mil/">ICoE</a></span><br>
+											<span style="padding-left:15px;">
+											<a target="_blank" href="http://www.usar.army.mil/ourstory/commands/MIRC/Pages/Overview.aspx">MIRC</a></span>
+											<br><br><br>
+											
+									</div>								
+									</div>
+								</div>
+								<br>
+								
+								&nbsp;
+								<a target="_blank" href="http://www.us.army.mil/">
+								<img alt="" src="g2Images/ako_button.png" style="border:0px" class="style6" width="159" height="42"></a>&nbsp;<a target="_blank" href="http://www.weather.com/"><img alt="" src="g2Images/weather_button.gif" class="style6" width="130" height="43"></a> <br>
+								
+								<div style="width: 185px; padding-top:5px" class="style8">
+								<a target="_blank" href="https://www.inscom.army.mil/isalute/">
+								<img alt="" src="g2Images/isalute_button.gif" style="border:0px" class="style6" width="45" height="45"></a>&nbsp; 
+								<br><br></div>
+								<br><br>
+								<center><img alt="" src="g2Images/g2_logo_emboss.png" width="253" height="252" align="bottom"></center></td>
+				</tr>
+				<tr>
+					<td colspan="2">
+										
+									
+					<br>
+						
+									<div style=" position:relative; height:22px; left: 0px; top:0px; width: 989px; background-image:url('g2Images/scrolling_box.png'); background-repeat:no-repeat;" class="style7">
+											<object data="SoldiersRSS.aspx" type="text/html" style=" position:relative; height:28px; top:-9px; overflow:hidden;  left:204px; width: 779px;">
+										
+										
+										</object>
+									</div>
+					
+
+					</td>
+				</tr>
+				
+	</tbody></table>
+</div>
+
+
+</center>
+
+
+</div>
+
+<div style="width:998px; background-color:#254470; height:50px; color:white">
+
+<table style="width: 998px; ">
+				<tbody><tr>
+								<td style="width: 400px"><span style=" text-align:left; float:left; padding-left:10px; height: 30px; width: 350px;">
+				<a style="font-weight:normal" href="mailto:usarmy.pentagon.hqda-dcs-g-2.mbx.dami-im@mail.mil"><span class="style1">
+				CONTACT WEB TEAM</span></a><br>This site has been updated as of August 2020 <span id="lbltime" style="color:White;"></span></span></td>
+								
+								<td valign="bottom">
+								<a target="_blank" style="color:white" href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx">Accessibility/Section 508</a></td>
+								
+								
+								<td><span style="float:right;padding-top:10px; padding-right:10px"><a target="blank" href="privacy.html" style="text-decoration:none; color:White; font-weight:normal;">
+PRIVACY AND SECURITY NOTICE</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a target="blank" href="privacy.html#external" style="text-decoration:none; color:White; font-weight:normal;">
+EXTERNAL LINKS DISCLAIMER</a></span>
+</td>
+				</tr>
+</tbody></table>
+
+</div>
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script type="text/javascript">new Sys.WebForms.Menu({ element: 'mainMenu', disappearAfter: 500, orientation: 'horizontal', tabIndex: 0, disabled: false });</script></form>
+</center>
+
+
+
+ </body></html>
