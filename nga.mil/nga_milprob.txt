@@ -1,0 +1,10 @@
+http://kubic.test.xc.nga.mil
+http://login.system.tas.xc.nga.mil
+http://msi.nga.mil
+https://ece.tas.xc.nga.mil
+https://info.nga.mil
+https://int.tas.xc.nga.mil
+https://pages.dso.test.xc.nga.mil
+https://stage.tas.xc.nga.mil
+http://system.tas.xc.nga.mil
+http://uaa.system.tas.xc.nga.mil

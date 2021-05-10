@@ -1,0 +1,72 @@
+<html dir="ltr" lang="en"><head>
+    <title>Cloud Foundry</title>
+    <link href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAABSlBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgIFBQUGBgYSEhIWFhYYGBgZGRkaGhofHx8gICAsLCwuLi4zMzM0NDQ2NjY3Nzc4ODg8PDw9PT0+Pj5AQEBERERFRUVHR0dLS0tQUFBUVFRVVVVWVlZXV1dYWFhZWVlbW1tcXFxdXV1gYGBmZmZpaWltbW1ubm5vb29zc3N1dXV2dnZ6enp+fn6AgICBgYGFhYWGhoaIiIiJiYmRkZGSkpKampqbm5ucnJyhoaGioqKkpKSmpqapqamqqqqzs7O0tLS1tbW3t7e7u7u/v7/CwsLFxcXIyMjLy8vQ0NDR0dHU1NTV1dXW1tbX19fd3d3f39/h4eHm5ubm5ubo6Ojo6Ojr6+vs7Ozu7u7x8fHx8fH09PT09PT29vb4+Pj5+fn6+vr7+/v8/Pz9/f3+/v7+/v7///8WK6eIAAAAbHRSTlMEWVqWl5ioqKmprK2trq6vsLOztLW1tba3t7i4ubm6u7y9vb6+v7+/wMDBw8PFxcXGx8fJysrLzc3NztDR1NTU1tfX2NnZ3d7e3+Di4+Tl5+jp6+vr7O/w8fLz8/T19fb3+Pn6+/v8/P39/v549jpWAAAAAWJLR0RtuwYArQAAASRJREFUOMvt1EdTwmAYBODPmCyJgAZ7F7GjoiJiRVCKWIBYsaMIRmP2/189oM5wMZz0wp6fwzs776wQkoJfI0tCSHCMJBRnpAg0kCb6e6Rm0i4A/rwR8STOC4Hho4t0uzvsBXpCGhCYBgS8FmeBLpNkleTbO0ljh1moD1yHbr4CAjhhDsiwYLCyGLV5NXVAhljWxskzrLEICMBPy6ebHM0yD5S4hSFysMSJJE2rI8/t2uGXTMRoIMsc8MgNDJB9KSZvKnvcNO3OGlri8xODdah3jC88HmGZp18VqHdk0VWHunFLLuOejHz3FKYdBFI8BK65Ap/9oSPGqhv7rHh+ypyfAeCN6kD/qgYE54C2+ALg2Z1s/tO/INnZtDYyYi1CSLLjHH4CUQBZuqsfEWkAAAAASUVORK5CYII=" rel="shortcut icon">
+    <meta charset="utf-8">
+    <meta name="author" content="Cloud Foundry">
+    <meta name="copyright" content="© 2020 VMware, Inc. or its affiliates. All rights reserved.">
+    <meta name="robots" content="all">
+    <meta name="Description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/resources/oss/stylesheets/application.css" rel="stylesheet">
+    <style>.header-image {background-image: url(data:image/png;base64,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);}</style>
+<meta http-equiv="refresh" content="86400">
+</head>
+<body>
+<div class="content">
+    <div class="header">
+        <div></div>
+        <div class="header-image"></div>
+    </div>
+
+    <div class="island">
+    <h1>Welcome!</h1>
+    <div class="island-content">
+
+        
+
+        
+
+        
+
+        
+        <form action="/login.do" method="post" novalidate="novalidate" accept-charset="UTF-8"><input type="hidden" name="X-Uaa-Csrf" value="0DZLn8qDPw3yE7waW3gQuN">
+            <input name="username" type="text" placeholder="Username" class="form-control"><input name="password" type="password" placeholder="Password" class="form-control" autocomplete="off">
+            <input type="submit" value="Sign in" class="island-button">
+            <input name="form_redirect_uri" type="hidden" value="https://login.system.tas.xc.nga.mil/">
+            
+            
+            
+        </form>
+        
+        <div class="saml-login">
+            <p>or sign in with: </p>
+            <div>
+                <a href="saml/discovery?returnIDParam=idp&amp;entityID=http://login.system.tas.xc.nga.mil&amp;idp=keycloak&amp;isPassive=true" class="saml-login-link">keycloak</a>
+            </div>
+            
+        </div>
+        
+        <span class="left">
+            
+        </span>
+        
+    </div>
+</div>
+    <div class="footer-spacer"></div>
+</div>
+<div class="footer">
+    <div class="copyright" title="Version: 74.5.21, Commit: ac85b04, Timestamp: 2020-10-28T22:42:05+0000, UAA: https://uaa.system.tas.xc.nga.mil">
+         © 2020 VMware, Inc. or its affiliates. All rights reserved.
+         
+        
+    </div>
+</div>
+
+
+    
+
+
+
+</body></html>
