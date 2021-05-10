@@ -1,0 +1,1290 @@
+<html lang="en-US"><head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="REVISIT-AFTER" content="1 DAYS">
+<meta name="RATING" content="GENERAL">
+<meta name="RESOURCE-TYPE" content="DOCUMENT">
+<meta content="text/javascript" http-equiv="Content-Script-Type">
+<meta content="text/css" http-equiv="Content-Style-Type">
+<title>
+	"The Commandant's Own," The United States Marine Drum &amp; Bugle Corps
+</title><meta id="MetaDescription" name="DESCRIPTION" content="The official web page of &quot;The Commandant's Own,&quot; The United States Marine Drum &amp; Bugle Corps."><meta id="MetaKeywords" name="KEYWORDS" content="United States Marine Drum and Bugle Corps,&quot;The Commandant's Own&quot;, Drum Corps, Marines, Marching, Music, Military Music, Drum, Bugle, Marines, Band, Crawford, Marine Barracks Washington, D&amp;B "><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/DesktopModules/SlideShow/module.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/DesktopModules/HTML/module.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/DesktopModules/DVIDSVideoPlayer/module.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/module.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/DesktopModules/SiteData/module.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/CSS/Templates/usmc.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/desktopmodules/SlideShow/Templates/AirForceResponsive/template.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/desktopmodules/DVIDSVideoPlayer/Templates/MarinesSideBar/template.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/MarineUnit2/skin.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Portals/174/portal.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/royalslider.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/skins/bare/rs-default.css?cdv=1974" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=1974" type="text/css" rel="stylesheet"><script type="text/javascript" id="www-widgetapi-script" src="https://www.youtube.com/s/player/838cc154/www-widgetapi.vflset/www-widgetapi.js" async=""></script><script src="https://www.youtube.com/iframe_api"></script><script type="text/javascript" defer="" async="" src="https://stats.defense.gov/piwik.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=1974" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=1974" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=1974" type="text/javascript"></script><meta name="host" content="DMA Public Web"><meta name="contact" content="pubwebhd@defense.gov">
+<!--[if IE 8 ]><script type="text/javascript">jQuery("html").addClass("ie ie8");</script><![endif]-->
+<!--[if IE 9 ]><script type="text/javascript">jQuery("html").addClass("ie ie9");</script><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/MarineUnit2/ie.css" /><![endif]-->
+<!--[if lte IE 8]><script src="/Desktopmodules/SharedLibrary/Plugins/Respond/js/respond.min.js"></script><![endif]-->
+<script src="https://www.google-analytics.com/ga.js"></script><script src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-3.1.js?agency=DOD&amp;subagency=USMC&amp;dclink=true" id="_fed_an_ua_tag"></script><style type="text/css">#Body{ background: #f2e3c2 url("/Portals/_default/Skins/MarineUnit2/resources/img/background/band.jpg") 50% 0% repeat-x; }</style>
+
+          <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push('_setAccount', '[TRACKING_ID]');
+            _gaq.push('_setDomainName', '[DOMAIN_NAME]');
+            _gaq.push('_setAllowHash', [ALLOW_HASH]);
+            [CUSTOM_SCRIPT]
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = 'https://www.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+          </script>
+
+        <meta name="viewport" content="width=device-width,initial-scale=1"><script type="text/javascript" src="//search.usa.gov/javascripts/remote.loader.js"></script><link type="text/css" href="//search.usa.gov/assets/sayt.css" rel="stylesheet" media="screen"><script type="text/javascript" src="//search.usa.gov/assets/sayt_loader_libs.js"></script></head>
+<body id="Body">
+    
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Hv/z2InLXDHvYzqBhLTcKqv5CSansQTi0xfHb/VuB7Mp+CVfhiqUFJ2jpFJ5y2MWiaTnTTLzF5ZZ1ZdVZpvpn0HE3cFMh3CJHEwZyuWQE0MT+2AJFZef5E9967sABY7+BzkZ83bLkfVn4SpCTZuGVQZbSu3/NgP3vnkm381kA2neO4H68t+Bhgw9aeOoDfNb8N14N737KonX+KGfa68gqk4K+DWo9WLt97kU6HQ3sBwwHGBklYpiu7Qh3Xhk01RaISMr2cpwGxt0hpCln3QfyxFfKA7cQJa3qXVzreBINP8lN5v/ZfvN3uk42/OsaKGuHzlyS1qHZHbRwgoMAhOhb+fUrltVuU1Olnd1/eM54I3mRR4SofIEU12DEL7jBK+8HtOpEAmF7UgvossTEHm8gdq/yfrYciwEUaQ7d+ky3fjQ6n07LiTn7U8xg3trcFGg0tmlP0smn7gB+z0rfMUO5wh2E/vvcovCzIrafKlRKkhilVRJ/e+C1XMv2Nvo54nB1qvMNtin1J/qsRjzI9xMopAB0dDLJIdJVv7smNR46XjcFqVLgLMpkxdxAgkowdM8Mimg2t39rdmXSGb2rogy9IV1I5rm6B12ahKjsKgrDT+m94CpTrAFF+ny4krnFkpBMujNTOdk6Nxp5cZOvPD/HU5t1RBYKc/XN4KLWcCkE6Vmr4E4pNVXf3TGkhg=">
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IpK2g7JTRSMmik34PbOy56rKmpCCY9c0IuBlnEbhhFae_kQJWt66DuEhw-Osce7G501JTW9OGWRnd0EbuOkbrWsRmtU11Nj_i0XQ9cGNYMzzkFB5birW0a-1aK-ZA2&amp;t=2fe674eb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJFOsZ7uv-AD6rnnw1gg45X0YCH7_dWw6-26XQltO1_5azbICY-_tq-M6RY9HEg67V8XgtLpPVUPl1Dn9p5QdJTkPAHetpXAJ7lKjHpBkd_x3tMAx_TdJCVFvjTnBv-7vOJGyRf0&amp;t=2fe674eb" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="dMx484zLWzmQljn7zmsoB4lf059+inAVUt68/pUkMst4bXDjw9mhlsIjpB/kckQ3hqx3saURCOR/NT4Q1ccjScfOSyAgmp3twd7PbpP3r+3NI6dc"><script src="/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=1974" type="text/javascript"></script><script src="/js/dnn.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=1974" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=1974" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=1974" type="text/javascript"></script><script src="/Portals/_default/Skins/MarineUnit2/resources/js/skin.js?cdv=1974" type="text/javascript"></script><script src="/js/dnncore.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=1974" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=1974" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=1974" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/MarineUnit2/resources/js/skin.js?cdv=1974|DnnBodyProvider|100)-->
+
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"The United States Marine Drum and Bugle Corps","SiteShortName":"Drum \u0026 Bugle Corps","SiteSubTitle":"","aid":"drumcorps","IsSecureConnection":false,"IsBackEnd":false,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"http://www.drumcorps.marines.mil/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":true,"PiwikSiteID":9,"SocialLinks":{"Facebook":{"Url":"http://www.facebook.com/usmcdrumcorps","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"https://twitter.com/usmcdrumcorps","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"http://www.youtube.com/channel/UCRJzrs8sJtKC2NPn8QR3iYA","Window":"_blank","Relationship":"noopener"},"Flickr":{"Url":"http://www.flickr.com/photos/marinebarracks/sets/","Window":"_blank","Relationship":"noopener"},"Pintrest":{"Url":"http://www.pinterest.com","Window":"_blank","Relationship":"noopener"},"Instagram":{"Url":"http://www.instagram.com/usmcdrumcorps","Window":"_blank","Relationship":"noopener"},"Blog":{"Url":"","Window":"","Relationship":null},"RSS":{"Url":"http://www.marines.mil/News/Feeds.aspx","Window":"_blank","Relationship":"noopener"},"Podcast":{"Url":"","Window":"","Relationship":null},"Email":{"Url":"","Window":"","Relationship":null},"LinkedIn":{"Url":"","Window":"","Relationship":""},"Snapchat":{"Url":"","Window":"","Relationship":null}},"SiteLinks":null,"LogoffTimeout":10500000};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://www.drumcorps.marines.mil/Portals/174/mdmlogo.png?ver=1rCAKoU0HsDAAROLR2yGSw%3d%3d","name":"The United States Marine Drum and Bugle Corps","url":"http://www.drumcorps.marines.mil/","sameAs":["http://www.facebook.com/usmcdrumcorps","https://twitter.com/usmcdrumcorps","http://www.instagram.com/usmcdrumcorps","http://www.pinterest.com","http://www.youtube.com/channel/UCRJzrs8sJtKC2NPn8QR3iYA"]}</script>
+
+
+
+<div class="wrapper container nopad">
+    <div id="dnn_Header_skipLinkWrap">
+    <div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+</div>
+<header id="header">
+    <div class="container nopad skin-header-background">
+        <div class="container skin-header">
+            <button type="button" class="navbar-toggle pull-left skin-nav-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="skin-logo">
+                <a href="http://www.marines.mil">
+                    <img src="/Portals/174/mdmlogo.png?ver=1rCAKoU0HsDAAROLR2yGSw%3d%3d" alt="The United States Marine Drum and Bugle Corps" title="The United States Marine Drum and Bugle Corps" class="img-responsive"></a>
+            </div>
+            <div class="skin-title">
+                <a href="http://www.drumcorps.marines.mil/" title="The United States Marine Drum and Bugle Corps">
+                    <div class="hidden-xs">
+                        
+                        <span class="title-text">The United States Marine Drum and Bugle Corps</span>
+                        
+                    </div>
+                    <div class="visible-xs">
+                        <span class="title-text">The United States Marine Drum and Bugle Corps</span>
+                    </div>
+                </a>
+            </div>
+            <div class="skin-search">
+                <div class="desktop-search hidden-xs">
+                    <label for="desktopSearch" class="visuallyhidden">Search Drum &amp; Bugle Corps: </label>
+                    <input type="text" name="desktopSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search Drum &amp; Bugle Corps" autocomplete="off">
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+                <div class="mobile-search visible-xs pull-right">
+                    <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                    <div class="mobile-search-popup" style="display: none;">
+                        <label for="mobileSearch" class="visuallyhidden">Search Drum &amp; Bugle Corps: </label>
+                        <input type="text" name="mobileSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search Drum &amp; Bugle Corps" autocomplete="off">
+                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-inverse fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar-collapse nav-main nav-main-collapse collapse otnav nopad">
+            <div class="container nopad menu">
+                <div class="topnav">
+                    <ul id="topnav">
+                        <li>
+                            <a href="https://www.marines.mil">Home</a>
+                        </li>
+                        <li>
+                            <a href="https://www.marines.mil/News">News</a>
+                        </li>
+                        <li>
+                            <a href="https://www.marines.mil/Photos">Photos</a>
+                        </li>
+                        <li class="current">
+                            <a href="https://www.marines.mil/Units">Units</a>
+                        </li>
+                        <li><a href="https://www.marines.mil/Leaders">Leaders</a></li>
+                        <li><a href="https://www.marines.mil/Marines">Marines</a></li>
+                        <li><a href="https://www.marines.mil/Family">Family</a></li>
+                        <li><a href="https://www.marines.mil/Community">Community Relations</a></li>
+                    </ul>
+                </div>
+                <div class="skin-social hidden-xs hidden-sm">
+                <div class="social-item social-icon-fb "><a title="Facebook" target="_blank" rel="noopener" href="http://www.facebook.com/usmcdrumcorps"><span class="fa fa-facebook fa-inverse"></span></a></div><div class="social-item social-icon-twitter "><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/usmcdrumcorps"><span class="fa fa-twitter fa-inverse"></span></a></div><div class="social-item social-icon-youtube "><a title="YouTube" target="_blank" rel="noopener" href="http://www.youtube.com/channel/UCRJzrs8sJtKC2NPn8QR3iYA"><span class="fa fa-youtube fa-inverse"></span></a></div><div class="social-item social-icon-instagram "><a title="Instagram" target="_blank" rel="noopener" href="http://www.instagram.com/usmcdrumcorps"><span class="fa fa-instagram fa-inverse"></span></a></div><div class="social-item social-icon-pinterest "><a title="Pinterest" target="_blank" rel="noopener" href="http://www.pinterest.com"><span class="fa fa-pinterest fa-inverse"></span></a></div><div class="social-item social-icon-flickr "><a title="Flickr" target="_blank" rel="noopener" href="http://www.flickr.com/photos/marinebarracks/sets/"><span class="fa fa-flickr fa-inverse"></span></a></div><div class="social-item social-icon-rss "><a title="RSS" target="_blank" rel="noopener" href="http://www.marines.mil/News/Feeds.aspx"><span class="fa fa-rss fa-inverse"></span></a></div></div>
+                <div style="clear: both;"></div>
+                <nav class="nav-main">
+<ul class="nav nav-main">
+	    
+    <li class=" top-level active">
+    
+        <a href="http://www.drumcorps.marines.mil/" tabindex="0" target="">Unit Home
+		</a>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="http://www.drumcorps.marines.mil/About/" tabindex="0" target="" aria-expanded="false">About<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/About/History/" target="" tabindex="0">History
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/About/Music-Resources/" target="" tabindex="0">Music Resources
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/About/Battle-Color-Detachment/" target="" tabindex="0">Battle Color Detachment
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/About/Downloads/" target="" tabindex="0">Downloads
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.drumcorps.marines.mil/Leaders/" tabindex="0" target="">Leaders
+		</a>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="http://www.drumcorps.marines.mil/Events/" tabindex="0" target="" aria-expanded="false">Events<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class="dropdown mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/Events/Press-Information/" target="" tabindex="0" aria-expanded="false">Press Information<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/Events/Press-Information/Press-Releases/" target="" tabindex="0">Press Releases
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.drumcorps.marines.mil/Events/Press-Information/News/" target="" tabindex="0">News
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.drumcorps.marines.mil/Become-a-Member/" tabindex="0" target="">Become a Member
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.drumcorps.marines.mil/Contact-Us/" tabindex="0" target="">Contact Us
+		</a>
+    
+    </li>
+
+
+</ul>
+</nav>
+
+
+            </div>
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1" innertext="Start of main content"></a></p>
+    <div class="container skin-addpad">
+        <div class="TopPane  skin-top-row">
+            <div class="row">
+                <div id="dnn_TopPane"><div class="DnnModule DnnModule-SiteData DnnModule-37440"><a name="37440"></a><div id="dnn_ctr37440_ContentPane" class="base-container"><!-- Start_Module_37440 --><div id="dnn_ctr37440_ModuleContent" class="DNNModuleContent ModSiteDataC">
+	
+
+<div id="dnn_ctr37440_View_pnlUnitBanner" class="unitBanner">
+		
+    <div class="unitBannerdiv">
+        <img src="/Portals/_default/SiteData/The United States Marine Drum and Bugle Corps/LogoPNG.png" id="dnn_ctr37440_View_UnitBanner" class="unitIcon" alt="&quot;The Commandant's Own&quot;"> <!--Unit Banner-->
+    </div>
+    <div class="unitTextdiv">
+        <strong></strong>
+        <p style="font-size: 1px; padding: 2px 0 0;">&nbsp;</p>
+        <h1 id="dnn_ctr37440_View_UnitTitle" class="unitTextdivh1">"The Commandant's Own"</h1> <!--Unit Title-->
+        <h2 id="dnn_ctr37440_View_UnitUnderTitle" class="unitTextdivh2">The United States Marine Drum &amp; Bugle Corps</h2> <!--Unit UnderTitle-->
+        <span id="dnn_ctr37440_View_UnitLocation" class="UnitLocation">Marine Barracks Washington, D.C.</span> <!--Unit Location-->
+    </div>
+    <div class="clear"></div>
+
+	</div>
+</div><!-- End_Module_37440 --></div>
+
+</div></div>
+            </div>
+        </div>
+        <div class="row shade-pane">
+            <div class="col-md-8 shade-pane-content">
+                <div class="row">
+                    <div id="dnn_ContentPane" class="col-md-12"><div class="DnnModule DnnModule-SlideShow DnnModule-37437"><a name="37437"></a><div id="dnn_ctr37437_ContentPane" class="base-container"><!-- Start_Module_37437 --><div id="dnn_ctr37437_ModuleContent" class="DNNModuleContent ModSlideShowC">
+	
+<!--[if gte IE 8]>
+<style>
+.ieframe
+{
+    white-space: nowrap;
+    text-align: center;
+}
+.ieimage
+{
+    top: 0 !important;
+    left: 0 !important;
+    margin-right: 0 !important;
+    transform: none !important;
+    vertical-align: middle;
+    position: relative !important;
+    margin-left: -4px;
+}
+.iehelper
+{
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+</style>
+<![endif]-->
+
+<style>.slideshow-37437.top-rotator .top{padding-top:56%}</style>
+<script type="text/javascript" src="/DesktopModules/Slideshow/Resources/js/analyticsParamsForDVIDSAnalyticsAPI.js"></script>
+<div class="top-rotator slideshowTemplate slideshow slideshow-37437" style="visibility: visible;">
+    <div class="slideContainer" style="height: 420px;"><div class="slide cycle-slide cycle-sentinel" style="position: static; top: 0px; left: 0px; z-index: 100; opacity: 1; display: block; visibility: hidden;">
+            <div class="top" style="visibility: hidden;">
+                <a href="/Photos/igphoto/2002548736/" target="_self" title="Marine Corps Birthday Wreath Laying Ceremony" class="ieframe slide-inner" style="background-image: url(&quot;https://media.defense.gov/2020/Dec/09/2002548736/1310/736/0/201110-M-VI229-008.JPG&quot;); visibility: hidden;">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="On Nov. 10, 2020, Marines from The United States Marine Drum &amp; Bugle Corps sounded &quot;Taps&quot; in wreath laying ceremonies at Arlington National Cemetery in honor of the Marine Corps Birthday." src="https://media.defense.gov/2020/Dec/09/2002548736/1310/736/0/201110-M-VI229-008.JPG" class="" style="visibility: hidden;">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom" style="visibility: hidden;">
+                <div class="slideText" style="visibility: hidden;">
+                    <div class="slideTitle" style="visibility: hidden;"><a href="/Photos/igphoto/2002548736/" target="_self" style="visibility: hidden;">Marine Corps Birthday Wreath Laying Ceremony</a></div>
+                    
+                </div>
+                <div class="slideLinks" style="visibility: hidden;"></div>
+            </div>
+            
+        </div>
+        <div class="slidePrevious left slide-control"><span class="glyphicon glyphicon-chevron-left fa fa-angle-left" aria-hidden="true"></span></div>
+        <div class="slideNext right slide-control"><span class="glyphicon glyphicon-chevron-right fa fa-angle-right" aria-hidden="true"></span></div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <div class="pagerContainer"><a href="#" class="page activeSlide">1</a><a href="#" class="page">2</a><a href="#" class="page">3</a><a href="#" class="page">4</a><a href="#" class="page">5</a><a href="#" class="page">6</a><a href="#" class="page">7</a></div>
+    <div class="slide cycle-slide cycle-slide-active" style="position: absolute; top: 0px; left: 0px; z-index: 100; opacity: 1; display: block; visibility: visible;">
+            <div id="top30706" class="top">
+                <a id="slideLink30706" href="/Photos/igphoto/2002548736/" target="_self" title="Marine Corps Birthday Wreath Laying Ceremony" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2020/Dec/09/2002548736/1310/736/0/201110-M-VI229-008.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="On Nov. 10, 2020, Marines from The United States Marine Drum &amp; Bugle Corps sounded &quot;Taps&quot; in wreath laying ceremonies at Arlington National Cemetery in honor of the Marine Corps Birthday." src="https://media.defense.gov/2020/Dec/09/2002548736/1310/736/0/201110-M-VI229-008.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002548736/" target="_self">Marine Corps Birthday Wreath Laying Ceremony</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div><div class="slide cycle-slide" style="position: absolute; top: 0px; left: 0px; z-index: 99; visibility: hidden;">
+            <div id="top28484" class="top">
+                <a id="slideLink28484" href="/Photos/igphoto/2002201594/" target="_self" title="Warrant Officer Lawrence - Dallas (2019)" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2019/Oct/28/2002201594/1310/736/0/190910-M-RU248-009.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="File Not Found" src="https://media.defense.gov/2019/Oct/28/2002201594/1310/736/0/190910-M-RU248-009.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002201594/" target="_self">Warrant Officer Lawrence - Dallas (2019)</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div><div class="slide cycle-slide" style="position: absolute; top: 0px; left: 0px; z-index: 97; visibility: hidden;">
+            <div id="top28482" class="top">
+                <a id="slideLink28482" href="/Photos/igphoto/2002201359/" target="_self" title="Times Square (2019)" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2019/Oct/27/2002201359/1310/736/0/190910-M-RU248-007.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="File Not Found" src="https://media.defense.gov/2019/Oct/27/2002201359/1310/736/0/190910-M-RU248-007.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002201359/" target="_self">Times Square (2019)</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div><div class="slide cycle-slide" style="position: absolute; top: 0px; left: 0px; z-index: 96; visibility: hidden;">
+            <div id="top28359" class="top">
+                <a id="slideLink28359" href="/Photos/igphoto/2002196916/" target="_self" title="Baritones - Fleet Week (2019)" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2019/Oct/18/2002196916/1310/736/0/190920-M-RU248-004.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="File Not Found" src="https://media.defense.gov/2019/Oct/18/2002196916/1310/736/0/190920-M-RU248-004.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002196916/" target="_self">Baritones - Fleet Week (2019)</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div><div class="slide cycle-slide" style="position: absolute; top: 0px; left: 0px; z-index: 95; visibility: hidden;">
+            <div id="top28357" class="top">
+                <a id="slideLink28357" href="/Photos/igphoto/2002196827/" target="_self" title="Finals Retreat (2019)" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2019/Oct/18/2002196827/1310/736/0/190920-M-RU248-001.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="File Not Found" src="https://media.defense.gov/2019/Oct/18/2002196827/1310/736/0/190920-M-RU248-001.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002196827/" target="_self">Finals Retreat (2019)</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div><div class="slide cycle-slide" style="position: absolute; top: 0px; left: 0px; z-index: 94; visibility: hidden;">
+            <div id="top27999" class="top">
+                <a id="slideLink27999" href="/Photos/igphoto/2002183629/" target="_self" title="Sopranos - Friday Evening Parade" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2019/Sep/17/2002183629/1310/736/0/190912-M-RU248-001.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="File Not Found" src="https://media.defense.gov/2019/Sep/17/2002183629/1310/736/0/190912-M-RU248-001.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002183629/" target="_self">Sopranos - Friday Evening Parade</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div><div class="slide cycle-slide" style="position: absolute; top: 0px; left: 0px; z-index: 93; visibility: hidden;">
+            <div id="top27997" class="top">
+                <a id="slideLink27997" href="/Photos/igphoto/2002183622/" target="_self" title="NIGHTBEAT (2019)" class="ieframe slide-inner" style="background-image: url(https://media.defense.gov/2019/Sep/17/2002183622/1310/736/0/190916-M-RU248-001.JPG)">
+                    <!--[if IE]> <span class="iehelper"></span> <![endif]-->
+                    <img alt="File Not Found" src="https://media.defense.gov/2019/Sep/17/2002183622/1310/736/0/190916-M-RU248-001.JPG" class="">
+                    
+                </a>
+                
+                
+            </div>
+            
+            <div class="bottom">
+                <div class="slideText">
+                    <div class="slideTitle"><a href="/Photos/igphoto/2002183622/" target="_self">NIGHTBEAT (2019)</a></div>
+                    
+                </div>
+                <div class="slideLinks"></div>
+            </div>
+            
+        </div></div>
+    <div style="clear:both;"></div>
+</div>
+
+<script type="text/javascript">
+    var YouTubeAPILoaded = false;
+    var allPlayers = [];
+    jQuery( document ).ready( function () {
+
+        //Load the YouTube IFrame Player API code asynchronously
+        var tag = document.createElement('script');
+
+        tag.src = "https://www.youtube.com/iframe_api";
+        var firstScriptTag = document.getElementsByTagName('script')[0];
+        firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+        var resizeTimer;
+        var moduleContainer = jQuery( "#dnn_ctr37437_ModuleContent" );
+        var slideContainer = moduleContainer.find( ".slideContainer" );
+        var pagerContainer = moduleContainer.find( ".pagerContainer" );
+        var slides = slideContainer.children("div.slide");
+        var windowWidth = jQuery( window ).width();
+
+        function setConainerHeight(){
+            var newContainerHeight = 0;
+            slides.each(function(idx, element){
+                if(element.scrollHeight > newContainerHeight) {
+                    newContainerHeight = element.scrollHeight;
+                }
+            });
+            slideContainer.css("height", newContainerHeight);
+        }
+
+        slideContainer.find('img').each(function(i, img){
+            var loaded = function() {
+                img.width < img.height ? $(img).parent('.slide-inner').addClass('slide-inner-portrait') : 0;
+            }
+            img.complete ? loaded() : img.addEventListener('load', loaded);
+        });
+
+        $(window).on('resize', function(e) {
+            clearTimeout(resizeTimer);
+            resizeTimer = setTimeout(function() {
+                setConainerHeight();
+            }, 250);
+        });
+
+        slideContainer.on('cycle-initialized',function(){
+            setTimeout(function(){
+                moduleContainer.find(".top-rotator").css( "visibility", "visible" );
+                setConainerHeight();
+            },100);
+        }).cycle({
+            slides: "> .slide",
+            fx: "fade",
+            speed: 1000,
+            timeout: 0,
+            pauseOnHover: true,
+            paused: true,
+            swipe: true,
+            prev: "> .slidePrevious",
+            next: "> .slideNext",
+            log:false,
+            pager: slideContainer.children("div.pagerContainer"),
+            pagerTemplate: "<a href='#' class='page'>{{slideNum}}</a>",
+            pagerActiveClass: "activeSlide"
+        });
+
+        var pagerIcons = pagerContainer.find(".page");
+
+        if(pagerIcons.length <= 1) {
+            pagerContainer.css("display", "none");
+            var slidePrevious = moduleContainer.find(".slidePrevious.left.slide-control");
+            slidePrevious.css("display", "none");
+            var slideNext = moduleContainer.find(".slideNext.right.slide-control");
+            slideNext.css("display", "none");
+        }
+
+        pagerIcons.on("click", function(){
+            if(false || true) {
+                slideContainer.on('cycle-after', function(event, opts){
+                    slideContainer.cycle('pause');
+                });
+            }
+        });
+
+        jQuery(".slidePrevious").on("click", function(){
+            if(false || true) {
+                slideContainer.on('cycle-after', function(event, opts){
+                    slideContainer.cycle('pause');
+                });
+            }
+        });
+
+        jQuery(".slideNext").on("click", function(){
+            if(false || true) {
+                slideContainer.on('cycle-after', function(event, opts){
+                    slideContainer.cycle('pause');
+                });
+            }
+        });
+
+        if(true) {
+            slideContainer.on('cycle-after', function(event, opts){
+                slideContainer.cycle('pause');
+            });
+        }
+
+    });
+
+    function onYouTubeIframeAPIReady() {
+        YouTubeAPILoaded = true;
+    }
+</script>
+</div><!-- End_Module_37437 --></div>
+
+</div><div class="DnnModule DnnModule-LiveHTML DnnModule-80391"><a name="80391"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr80391_dnnTitle_titleLabel" class="font">Mission</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr80391_ContentPane" class="containerpane"><!-- Start_Module_80391 --><div id="dnn_ctr80391_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper80391" class="livehtml"><div class="mhl">"The Commandant's Own," the United States Marine Drum and Bugle Corps' mission is to provide music and drill ceremony to the Commandant of the Marine Corps and the Commanding Officer of Marine Barracks Washington, D.C. Founded in 1934 as an augmentation to the United States Marine Band, "The Commandant's Own" is the only active duty drum and bugle corps currently serving in our Armed Forces.</div>
+</div>
+</div><!-- End_Module_80391 --></div>
+</div>
+
+</div></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallRightContent" class="col-md-9 DNNEmptyPane"></div>
+                    <div id="dnn_SmallRightSide" class="col-md-3 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_MediumLeftContent" class="col-md-8 DNNEmptyPane"></div>
+                    <div id="dnn_MediumLeftSide" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_MediumRightSide" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_MediumRightContent" class="col-md-8 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even2Left" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Even2Right" class="col-md-6 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even3Left" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Middle" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Right" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Small3Left" class="col-md-3 DNNEmptyPane"></div>
+                    <div id="dnn_Small3Middle" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Small3Right" class="col-md-3 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallLeftSide" class="col-md-3 DNNEmptyPane"></div>
+                    <div id="dnn_SmallLeftContent" class="col-md-9 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_BottomPane" class="col-md-12 DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div id="dnn_RightPane" class="col-md-4 shade-pane-right"><div class="DnnModule DnnModule-DNN_HTML DnnModule-123054"><a name="123054"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr123054_dnnTitle_titleLabel" class="font">Semper Fidelis</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr123054_ContentPane" class="containerpane"><!-- Start_Module_123054 --><div id="dnn_ctr123054_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr123054_HtmlModule_lblContent" class="Normal">
+	<p style="text-align: center;"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" src="https://www.youtube.com/embed/vsZs8d1S4vw" width="300" height="185" frameborder="0"></iframe></p>
+
+</div>
+
+</div><!-- End_Module_123054 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-DVIDSVideoPlayer DnnModule-83996"><a name="83996"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr83996_dnnTitle_titleLabel" class="font">Marine Corps Videos</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr83996_ContentPane" class="containerpane"><!-- Start_Module_83996 --><div id="dnn_ctr83996_ModuleContent" class="DNNModuleContent ModDVIDSVideoPlayerC">
+	
+<div id="playerModuleContainer" class="SideBar">
+    <a name="DVIDSVideoPlayer83996"></a>
+    <div id="playerHeader">
+        <img src="/desktopmodules/DVIDSVideoPlayer/Templates/MarinesSideBar/images/tv_icon.png" alt="MarinesTV logo" id="marinesTvIcon">
+        <div id="marinesTvText">Marines TV</div>
+        <a id="watchMoreLink" href="javascript:GetCCURL('http://www.drumcorps.marines.mil/#DVIDSVideoPlayer83996')">Watch More » </a>
+        <div style="clear:both;"></div>
+    </div>
+    
+    <div>Videos are currently unavailable, please check back later.</div>
+    <div id="playerFooter"></div>
+</div>
+
+<script type="text/javascript">
+    var searchURL = "javascript:GetCCURL('http://www.drumcorps.marines.mil/?dvpsearch=searchstring#DVIDSVideoPlayer83996')";
+    var baseURL = "javascript:GetCCURL('http://www.drumcorps.marines.mil/#DVIDSVideoPlayer83996')";
+    var dvpCCEnabled = false;
+    jQuery(document).ready(function () {
+        var shareBox = $("#playerShareInfo");
+        var embedBox = $("#playerEmbedInfo");
+        var carouselVertical = false;
+        var slider = null;
+        var numPages = ;
+        var currentPage =  + 1;
+        var slideDrag = false;
+
+        if ("" == "") {
+            jQuery("#searchClear").hide();
+        }
+
+        if (numPages > 0) {
+
+            jQuery(".DVIDSMSBPagerText").html("Page " + currentPage + " of " + numPages);
+
+            var carouselHTML = jQuery(".DVIDSMSBCarouselWrapper").html();
+
+            $window.on("resize.DVIDSVideoPlayer", function () {
+                clearTimeout(windowResizeTimeout);
+                windowResizeTimeout = setTimeout(WindowResize, windowResizeTimeoutInterval);
+            });
+
+            //WindowResize();
+            CreateHorizontalCarousel();
+
+            WindowResize();
+        }
+
+        function WindowResize() {
+            var windowWidth = window.innerWidth;
+
+            var height = 1;
+            jQuery(".DVIDSMSBCarouselGroup").each(function () {
+                if (jQuery(this).height() > height) {
+                    height = jQuery(this).height();
+                }
+            });
+            jQuery(".DVIDSMSBCarousel").height(height);
+        }
+
+        function CreateHorizontalCarousel() {
+            jQuery(".DVIDSMSBCarousel").royalSlider({
+                imgWidth: 200,
+                loop: true,
+                controlNavigation: "none",
+                slidesSpacing: 15,
+                arrowsNav: true,
+                arrowsNavAutoHide: false,
+                keyboardNavEnabled: true,
+                numImagesToPreload: 6,
+                usePreloader: false,
+                startSlideId: 
+            });
+            SetCarouselData();
+        }
+
+        function SetCarouselData() {
+            slider = jQuery(".DVIDSMSBCarousel").data('royalSlider');
+
+            jQuery(".DVIDSMSBCarouselLeftPager").on("click", function () {
+                slider.prev();
+            });
+            jQuery(".DVIDSMSBCarouselRightPager").on("click", function () {
+                slider.next();
+            });
+            slider.ev.on('rsAfterSlideChange', function (event) {
+                jQuery(".DVIDSMSBPagerText").html("Page " + (slider.currSlideId + 1) + " of " + numPages);
+            });
+        }
+    });
+</script>
+
+
+<script type="text/javascript">
+
+    var $window = jQuery(window);
+    var windowResizeTimeout = null;
+    var windowResizeTimeoutInterval = 500;
+    var clearSearch = jQuery(".spanDVIDSClearSearch");
+
+    jQuery(document).ready(function () {
+
+
+        jQuery("#btnDVIDSSearch").on("click", function () {
+            if (jQuery("#txtDVIDSSearch").val().length > 0) {
+                var searchTxt = CleanUpSearchText(jQuery("#txtDVIDSSearch").val());
+                if (searchTxt !== "") {
+                    document.location = searchURL.replace("searchstring", searchTxt);
+                }
+                else {
+                    console.log("After scrubbing nothing to submit for search.");
+                    return false;
+                }
+            }
+            else {
+                //document.location = baseURL;
+            }
+        });
+
+        jQuery('#txtDVIDSSearch').keypress(function (e) {
+            if (e.which === 13) {//Enter key pressed
+                e.preventDefault();
+                jQuery('#btnDVIDSSearch').click();//Trigger search button click event
+            }
+        });
+
+        if (clearSearch !== null) {
+            clearSearch.on("click", function () {
+                document.location = baseURL;
+            });
+        }
+
+    });
+
+    // Whitelist regex the text to ensure only expected characters are used. 
+    // Then encode spaces and single quotes
+    function CleanUpSearchText(theText) {
+        //DVIDS Search API expected characters, allow dash, word chars, single quote, and space.
+        //Remove the rest
+        //encode the single quotes and spaces to not break the js call to GetCCURL()
+        return theText.replace(/[^/-\w' ]/gi, '').replace(/'/g, "\\'").replace(' ', '%20').replace(/\//ig, '%2F');
+    }
+
+    function GetCCURL(URL) {
+        var CCString = "dvpcc=" + dvpCCEnabled;
+        if (URL.indexOf("dvpcc") > 0) {
+            //document.location.href = URL;
+            document.location.href = URL.replace(/(dvpcc=)[^\&#]+/, '$1' + dvpCCEnabled);
+        }
+        else {
+            if (URL.indexOf("?") > 0) {
+                CCString = "&" + CCString;
+            }
+            else {
+                CCString = "?" + CCString;
+            }
+
+            if (URL.indexOf("#DVIDSVideoPlayer" > 0)) {
+                document.location.href = URL.substring(0, URL.indexOf('#DVIDSVideoPlayer')) + CCString + URL.substring(URL.indexOf('#DVIDSVideoPlayer'));
+            }
+            else {
+                document.location.href = URL + CCString;
+            }
+        }
+    }
+</script>
+</div><!-- End_Module_83996 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-AccordionMenu DnnModule-83259"><a name="83259"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr83259_dnnTitle_titleLabel" class="font">Resources</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr83259_ContentPane" class="containerpane DNNAlignleft"><!-- Start_Module_83259 --><div id="dnn_ctr83259_ModuleContent" class="DNNModuleContent ModAccordionMenuC">
+	<div id="dnn_ctr83259_View_AccordionContainer" class="AccordionContainer">
+		
+    
+    <ul id="usmcAccordionMenu83259" class="usmcAccordionMenu"><li data-index="0" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="http://www.drumcorps.marines.mil/Events/" target="_self" tabindex="0">Calendar of Events</a></div></div></li><li data-index="1" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="http://www.drumcorps.marines.mil/Become-a-Member/" target="_self" tabindex="0">Become a Member</a></div></div></li><li data-index="2" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="http://www.drumcorps.marines.mil/About/Music-Resources/" target="_self" tabindex="0">Music Resources</a></div></div></li><li data-index="3" class="usmcAccordionMenuListItem usmcAccordionMenuLastListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="http://www.drumcorps.marines.mil/About/Battle-Color-Detachment/" target="_self" tabindex="0">Battle Color Detachment</a></div></div></li></ul>
+
+	</div>
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function () {
+            var stylePrefix = "usmc";
+            var moduleId = '83259';
+
+            var container = $("#dnn_ctr83259_View_AccordionContainer");
+            var enableMouseHover = false;
+            var shouldAutoCollapse = false;
+
+            var obj, li;
+
+            // ModuleTitleWrapper, keep sync'd with Edit page
+            var titleWrapper = $('#' + stylePrefix + 'ModuleTitleInnerWrapper' + moduleId);
+            var titleLink =  $('.' + stylePrefix + "ModuleTitleLink ");
+            var titleToggleThis = $('#' + stylePrefix + 'AccordionMenu' + moduleId);
+    
+            var WrapperToggleMenu = function (evt) {
+                $(titleToggleThis).slideToggle(200);
+                $(titleToggleThis).toggleClass(stylePrefix + "ModuleTitleExpanded");
+                
+                $(titleLink).attr("aria-expanded", function (_, attr) { return (attr === 'true') ? false : true; } ); 
+            };
+
+            //ensure keyboard toggles visibility
+            titleWrapper.keypress(function (e) {
+                if (e.keyCode === 13 || e.keyCode === 32) {
+                    return WrapperToggleMenu(e);
+                }
+            });
+
+            titleWrapper.on("click", function (evt) {
+                WrapperToggleMenu(evt);
+            });
+            //end ModuleTitleWrapper
+
+            // collapse other expanded items if needed
+            function collapseExpanded(clickedLi) {
+                var clickedLiIndex = clickedLi.attr('data-index');
+                var otherExpandedItems = $('.ftAccordionMenu > .ftAccordionMenuListItem[aria-expanded=true][data-index!= ' + clickedLiIndex + ']');
+
+                otherExpandedItems.each(function () {
+                    handleLiClick($(this));
+                });
+            }
+
+            // Clicks wrapper
+            function AccordionMenuDoWork(evt) {
+                obj = $(evt.target);
+                li = obj.closest("li");
+
+                if (obj.is("a")) {
+                    return true;
+                }
+
+                if (shouldAutoCollapse) {
+                    collapseExpanded(li);
+                }
+
+                handleLiClick(li);
+                
+                return false;
+            };
+
+            // Handle individual LI click
+            function handleLiClick(li) {
+                // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                if (toggleImage.length > 0) {
+                    if (stylePrefix == "af3" && !li.hasClass('af3-lock')) {
+                        li.toggleClass("af3-expand");
+                    }
+                    li.addClass('af3-lock');
+                    li.toggleClass("clickLock");
+                    var htmlSection = li.children(".htmlSection").eq(0);
+                    var ulSection = li.children("ul").eq(0);
+                    if (htmlSection.length > 0) {
+                        if (!htmlSection.is(":animated")) {
+                            // Make sure the li was clicked for html section
+                            if (obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+                            li.children(".tellmemore").toggleClass("hidetellmemore", 150);
+                            li.toggleClass("liHover");
+                            htmlSection.slideToggle(300, function () {
+                                toggleImage.toggleClass(stylePrefix + "AccordionMenuExpanded");
+                                ToggleExpandedItemTitleCSS(li);
+                                if (stylePrefix == "af3") {
+                                    li.removeClass('af3-lock');
+                                }
+                            });
+                        }
+                    }
+                    else if (ulSection.length > 0) {
+                        if (!ulSection.is(":animated")) {
+                            li.toggleClass("liHover");
+                            ulSection.slideToggle(300, function () {
+                                toggleImage.toggleClass(stylePrefix + "AccordionMenuExpanded");
+                                ulSection.children(".tellmemore").toggleClass("hidetellmemore");
+                                ToggleExpandedItemTitleCSS(li);
+                                if (stylePrefix == "af3") {
+                                    li.removeClass('af3-lock');
+                                }
+                            });
+                        }
+                    }
+                }
+            }
+            
+            //open/close on enter
+            container.keypress(function (e) {
+                if (e.keyCode === 13 || e.keyCode === 32) {
+                    return AccordionMenuDoWork(e);
+                }
+            });
+
+            // open/close on click
+            container.on("click", function (evt) {
+                AccordionMenuDoWork(evt);
+            });
+
+            if (enableMouseHover) {
+                //open/close on mouse-over
+                container.find("li").on("mouseenter", function (evt) {
+                    obj = $(evt.target);
+                    li = obj.closest("li");
+
+                    ExpandItemTitleCSS(li);
+                });
+
+                container.find("li").on("mouseleave", function (evt) {
+                    obj = $(evt.target);
+                    li = obj.closest("li");
+
+                    CollapseItemTitleCSS(li);
+
+                    if (li.next().length == 0 && li.prev().length == 0) {
+                        if (li.children("." + stylePrefix + "AccordionMenuCollapsed").length == 0) {
+                            var parentNode = li.parent();
+                            var parentCount = 0;
+                            while (!parentNode.hasClass("acAccordionMenu") && parentCount < 5000) {
+                                if (parentNode.hasClass("liHover")) {
+                                    CollapseItemTitleCSS(parentNode);
+                                }
+                                parentNode = parentNode.parent();
+                                parentCount++;
+                            }
+                        }
+                    }
+                });
+                container.on("mouseleave", function (evt) {
+                    container.find("li").each(function (idx, liHover) {
+                        CollapseItemTitleCSS(jQuery(liHover));
+                    });
+                });
+
+                function ExpandItemTitleCSS(li) {
+                    // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                    var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                    if (toggleImage.length > 0) {
+                        var htmlSection = li.children(".htmlSection").eq(0);
+                        var ulSection = li.children("ul").eq(0);
+
+                        if (htmlSection.length > 0) {
+                            // Make sure the li was clicked for html section
+                            if (obj && obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+
+                            if (li.hasClass("clickLock") != true && toggleImage.hasClass(stylePrefix + "AccordionMenuExpanded") == false) {
+                                li.children(".tellmemore").removeClass("hidetellmemore");
+                                li.addClass("liHover");
+                                htmlSection.data("animation", setTimeout(function () {
+                                    htmlSection.slideDown(300);
+                                    toggleImage.addClass(stylePrefix + "AccordionMenuExpanded");
+                                    ExpandExpandedItemTitleCSS(li);
+                                }, 100));
+                            }
+                        }
+                        else if (ulSection.length > 0) {
+                            if (li.hasClass("clickLock") != true && toggleImage.hasClass(stylePrefix + "AccordionMenuExpanded") == false) {
+                                li.addClass("liHover");
+                                ulSection.data("animation", setTimeout(function () {
+                                    ulSection.slideDown(300);
+                                    toggleImage.addClass(stylePrefix + "AccordionMenuExpanded");
+                                    ulSection.children(".tellmemore").removeClass("hidetellmemore");
+                                    ExpandExpandedItemTitleCSS(li);
+                                }, 100));
+                            }
+                        }
+                    }
+                }
+
+                function ExpandExpandedItemTitleCSS(li) {
+                    li.attr("aria-expanded", false);
+
+                    var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                    if (rootNode.length > 0) {
+                        rootNode.addClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                    else {
+                        li.find("." + stylePrefix + "MenuLinkHeader").eq(0).addClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                }
+
+                function CollapseItemTitleCSS(li) {
+                    // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                    var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                    if (toggleImage.length > 0) {
+                        var htmlSection = li.children(".htmlSection").eq(0);
+                        var ulSection = li.children("ul").eq(0);
+
+                        if (htmlSection.length > 0) {
+                            // Make sure the li was clicked for html section
+                            if (obj && obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+
+                            if (li.hasClass("clickLock") != true) {
+                                li.children(".tellmemore").addClass("hidetellmemore");
+                                li.removeClass("liHover");
+                                clearTimeout(htmlSection.data("animation"));
+                                jQuery.removeData(htmlSection, "animation");
+                                htmlSection.slideUp(300, function () {
+                                    toggleImage.removeClass(stylePrefix + "AccordionMenuExpanded");
+                                    CollapseExpandedItemTitleCSS(li);
+                                });
+                            }
+                        }
+                        else if (ulSection.length > 0) {
+                            if (li.hasClass("clickLock") != true) {
+                                li.removeClass("liHover");
+                                clearTimeout(ulSection.data("animation"));
+                                jQuery.removeData(ulSection, "animation");
+                                ulSection.slideUp(300, function () {
+                                    toggleImage.removeClass(stylePrefix + "AccordionMenuExpanded");
+                                    ulSection.children(".tellmemore").addClass("hidetellmemore");
+                                    CollapseExpandedItemTitleCSS(li);
+                                });
+                            }
+                        }
+                    }
+                }
+
+                function CollapseExpandedItemTitleCSS(li) {
+                    li.attr("aria-expanded", false);
+
+                    var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                    if (rootNode.length > 0) {
+                        rootNode.removeClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                    else {
+                        li.find("." + stylePrefix + "MenuLinkHeader").eq(0).removeClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                }
+            }
+
+            // toggle the child to have/remove expanded classes 
+            function ToggleExpandedItemTitleCSS(li) {
+                li.attr("aria-expanded", function (_, attr) { return (attr === 'true') ? false : true; });
+                
+                var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                if (rootNode.length > 0) {
+                    rootNode.toggleClass(stylePrefix + "AccordionMenuExpandedItem");
+                }
+                else {
+                    li.find("." + stylePrefix + "MenuLinkHeader").eq(0).toggleClass(stylePrefix + "AccordionMenuExpandedItem");
+                }
+            }
+            
+        });
+    })(jQuery);
+</script>
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function () {
+            $(".ac-jump-menu").change(function (e) {
+
+                var destination = $(this).val();
+                var isNewWindow = $(this).find(':selected').data('new-window');
+                var url = generateUrl(destination);
+
+                $('.ac-jump-menu-warning').hide();
+                if (destination) {
+                    if (isNewWindow == "True") {
+                        var win = window.open(url, '_blank');
+                        if (win) {
+                            //Browser has allowed it to be opened
+                            win.focus();
+                        }
+                    } else {
+                        $('.ac-jump-menu-success').show();
+                        window.location.href = url;
+                    }
+                }
+            });
+
+            function generateUrl(destination) {
+
+                let url = destination;
+
+                if (destination.indexOf("http") > -1) {
+                    url = destination;
+                }
+
+                if (destination.indexOf("TabID=") == 0) {
+                    url = '/?' + destination;
+                }
+
+                return url;
+            }
+        });
+    })(jQuery);
+</script>
+
+
+
+
+
+
+</div><!-- End_Module_83259 --></div>
+</div>
+
+</div></div>
+        </div>
+    </div>
+</div>
+
+
+<footer id="footer">
+    <div id="dnnfooterbox">
+        <div class="skinwidth">
+            <div class="fleft siteinfo">
+                <div class="fleft">
+                    <a href="http://www.marines.mil">
+                        <img src="/Portals/_default/Skins/MarineUnit2/Resources/img/marines.png" alt="Marines" class="largelogo">
+                    </a>
+                </div>
+                <div id="dnn_Footer_Div1" class="fright">
+                    <div id="SocialMedia">
+                        <a href="https://www.facebook.com/marines" title="Follow Us On Facebook" class="icoFacebook" target="_blank" rel="noopener"></a>
+                        <a href="https://twitter.com/usmc" title="Follow Us On Twitter" class="icoTwitter" target="_blank" rel="noopener"></a>
+                        <a href="https://www.youtube.com/Marines" title="Follow Us On YouTube" class="icoYouTube" target="_blank" rel="noopener"></a>
+                        <a href="https://www.flickr.com/marine_corps/" title="Follow Us On Flickr" class="icoFlickr" target="_blank" rel="noopener"></a>
+                    </div>
+                </div>
+                <div class="clr line">
+                </div>
+                <div class="fleft links">
+                    <a href="https://www.marines.mil/News">News</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Photos">Photos</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Units">Units</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Leaders">Leaders</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Marines">Marines</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Family">Family</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Community">Community Relations</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Privacy-Policy">PRIVACY</a><span class="spacer">|</span>
+                    <a href="https://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank" rel="noopener">Accessibility</a><span class="spacer">|</span>
+                    <a href="https://www.hqmc.marines.mil/Agencies/USMC-FOIA">FOIA</a><span class="spacer">|</span>
+                    <a href="https://prhome.defense.gov/NoFear/" target="_blank" rel="noopener">No Fear Act </a><span class="spacer">|</span>
+                    <a href="https://www.usa.gov/" target="_blank" rel="noopener">USA.gov</a><span class="spacer">|</span>
+                    <a href="https://www.veteranscrisisline.net/" target="_blank" rel="noopener">Crisis Line</a><span class="spacer">|</span>
+                    <a href="https://www.usmc-mccs.org/services/support/dstress-line/">DSTRESS</a>
+                </div>
+                <div class="clr"></div>
+            </div>
+            <div class="fright smalllogo">
+                <a href="http://www.marines.mil">
+                    <img src="/Portals/_default/Skins/MarineUnit2/Resources/img/smalllogo.png" alt="Marines" width="53" height="55">
+                </a>
+            </div>
+            <div class="clr"> </div>
+            <div class="skin-social hidden-md hidden-lg"><div class="social-item social-icon-fb "><a title="Facebook" target="_blank" rel="noopener" href="http://www.facebook.com/usmcdrumcorps"><span class="fa fa-facebook fa-inverse"></span></a></div><div class="social-item social-icon-twitter "><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/usmcdrumcorps"><span class="fa fa-twitter fa-inverse"></span></a></div><div class="social-item social-icon-youtube "><a title="YouTube" target="_blank" rel="noopener" href="http://www.youtube.com/channel/UCRJzrs8sJtKC2NPn8QR3iYA"><span class="fa fa-youtube fa-inverse"></span></a></div><div class="social-item social-icon-instagram "><a title="Instagram" target="_blank" rel="noopener" href="http://www.instagram.com/usmcdrumcorps"><span class="fa fa-instagram fa-inverse"></span></a></div><div class="social-item social-icon-pinterest "><a title="Pinterest" target="_blank" rel="noopener" href="http://www.pinterest.com"><span class="fa fa-pinterest fa-inverse"></span></a></div><div class="social-item social-icon-flickr "><a title="Flickr" target="_blank" rel="noopener" href="http://www.flickr.com/photos/marinebarracks/sets/"><span class="fa fa-flickr fa-inverse"></span></a></div><div class="social-item social-icon-rss "><a title="RSS" target="_blank" rel="noopener" href="http://www.marines.mil/News/Feeds.aspx"><span class="fa fa-rss fa-inverse"></span></a></div></div>
+        </div>
+    </div> 
+</footer>
+
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`17338`}">
+        <script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=1974" type="text/javascript"></script>
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=1974|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=1974|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/MarineUnit2/skin.css?cdv=1974|DnnPageHeaderProvider|15)--><!--CDF(Css|/desktopmodules/SlideShow/Templates/AirForceResponsive/template.css?cdv=1974|DnnPageHeaderProvider|11)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SlideShow/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/DVIDSVideoPlayer/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/DVIDSVideoPlayer/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/AccordionMenu/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=1974|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SiteData/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/SiteData/module.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/174/portal.css?cdv=1974|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=1974|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=1974|DnnBodyProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=1974|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_00_00/jquery-migrate.js?cdv=1974|DnnBodyProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=1974|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/cycle2.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Cycle/jquery.cycle2.swipe.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ImageScroll/jquery.imageScroll.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=1974|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/audiojs/audio.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/wavesurfer.js?cdv=1974|DnnBodyProvider|10)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/WaveSurfer/2.0.6/plugin/wavesurfer.timeline.js?cdv=1974|DnnBodyProvider|16)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/jquery.royalslider.min.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/royalslider.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/RoyalSlider/skins/bare/rs-default.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Css|/desktopmodules/DVIDSVideoPlayer/Templates/MarinesSideBar/template.css?cdv=1974|DnnPageHeaderProvider|11)--><!--CDF(Css|/DesktopModules/AccordionMenu/CSS/Templates/usmc.css?cdv=1974|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/js/dnn.js?cdv=1974|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=1974|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=1974|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=1974|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=1974|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=1974|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=1974|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=1974|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=1974|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=1974|DnnPageHeaderProvider|10)-->
+    
+
+
+<div id="usasearch_sayt" style="background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; border: 0px none; display: block; float: none; height: 0px; line-height: 0; margin: 0px; padding: 0px; position: static; width: 0px;"><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>

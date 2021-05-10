@@ -1,0 +1,1571 @@
+<html lang="en-US"><head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="REVISIT-AFTER" content="1 DAYS">
+<meta name="RATING" content="GENERAL">
+<meta name="RESOURCE-TYPE" content="DOCUMENT">
+<meta content="text/javascript" http-equiv="Content-Script-Type">
+<meta content="text/css" http-equiv="Content-Style-Type">
+<title>
+	3d Marine Division
+</title><meta id="MetaDescription" name="DESCRIPTION" content="3rd Marine Division"><meta id="MetaKeywords" name="KEYWORDS" content="3rd Marine Division, 3rdmardiv"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/HTML/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/DigRotate/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/ArticleCSDashboard/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/SiteData/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/CSS/jumpMenu.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/CSS/Templates/usmc.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/MarineUnit2/skin.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Portals/66/portal.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/MediaElementAFPIMS/mediaelementafpims.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/desktopmodules/ArticleCS/styles/Marine2/style.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/DigRotate/Templates/MarineMIL2/template.css?cdv=2031" type="text/css" rel="stylesheet"><script type="text/javascript" defer="" async="" src="https://stats.defense.gov/piwik.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2031" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2031" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2031" type="text/javascript"></script><meta name="host" content="DMA Public Web"><meta name="contact" content="pubwebhd@defense.gov">
+<!--[if IE 8 ]><script type="text/javascript">jQuery("html").addClass("ie ie8");</script><![endif]-->
+<!--[if IE 9 ]><script type="text/javascript">jQuery("html").addClass("ie ie9");</script><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/MarineUnit2/ie.css" /><![endif]-->
+<!--[if lte IE 8]><script src="/Desktopmodules/SharedLibrary/Plugins/Respond/js/respond.min.js"></script><![endif]-->
+<script src="https://www.google-analytics.com/ga.js"></script><script src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-3.1.js?agency=DOD&amp;subagency=USMC&amp;dclink=true" id="_fed_an_ua_tag"></script><style type="text/css">#Body{ background: #938143 url("/Portals/_default/Skins/MarineUnit2/resources/img/background/body.jpg") 50% 0% repeat-x; }</style>
+
+          <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push('_setAccount', '[TRACKING_ID]');
+            _gaq.push('_setDomainName', '[DOMAIN_NAME]');
+            _gaq.push('_setAllowHash', [ALLOW_HASH]);
+            [CUSTOM_SCRIPT]
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = 'https://www.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+          </script>
+
+        <link rel="stylesheet" href="/DesktopModules/LiveHTML/Resources/Tabs/Style.css" type="text/css" media="all"><meta name="viewport" content="width=device-width,initial-scale=1"><script type="text/javascript" src="//search.usa.gov/javascripts/remote.loader.js"></script><link type="text/css" href="//search.usa.gov/assets/sayt.css" rel="stylesheet" media="screen"><script type="text/javascript" src="//search.usa.gov/assets/sayt_loader_libs.js"></script></head>
+<body id="Body">
+    
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="OhzOBCTN2lzEx7kQF5TAEu5IPICe+OtFKbtKLglGsCvyx2B83mlFpaaqLxVZNGiYyzwRPDunTAK1yTaznSCp1UsTtPjpcpHWnsPLhoJhWutotLksqrRB2SEORObYWEKIKBrmeeRWBlTgbjbUAsAFAEKmGSyAy8Gvf1Tl76MOab2e0xWoQIQphtTuaDxccYMGyDOEuigibR4mXgxhEdK1gbTvZ5RaiLPgomMgNmvo3uvxY48epRwqe1+p/HmJWnImh8+H67yj/4xMSaXomxZaPSTy+b4p8SzYNPc3VZWGOvUJJPbofNZWnqD0G82UkUmueWWwtFk/GRDLTkZYdCNpWbBgSurFXL7KS/sEpGbOv53B6m+iYlT0/XEq1qyW/Z5Ry7lbV3ZBNp9Uk+1PHvgampOdlttQX8bclJDp0Q83qzuz3PJignAgY2jOfchsuBCw21FuVo9aMRG7wHKoj/xHWOEDK4p2AYEdT9ZMSieqHFfBxNCHjtV3gArspLplZlE8nv0IiSP35tRUiNH1DtJ1VxhRsDV20SEVwuNb4wuf56mcSHHJG8t+mOTOvng=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV3N8bfprbQS0jFfvdz-DA10GMlw9OUhsCgxZnctJegKa6BYomQ1&amp;t=637453888939909757" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IpK2g7JTRSMmik34PbOy56rKmpCCY9c0IuBlnEbhhFae_kQJWt66DuEhw-Osce7G501JTW9OGWRnd0EbuOkbrWsRmtU11Nj_i0XQ9cGNYMzzkFB5birW0a-1aK-ZA2&amp;t=2fe674eb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJFOsZ7uv-AD6rnnw1gg45X0YCH7_dWw6-26XQltO1_5azbICY-_tq-M6RY9HEg67V8XgtLpPVUPl1Dn9p5QdJTkPAHetpXAJ7lKjHpBkd_x3tMAx_TdJCVFvjTnBv-7vOJGyRf0&amp;t=2fe674eb" type="text/javascript"></script>
+<script src="/js/dnn.js" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="9psTvUIILYNthzFjw6I+CzLRQUs2QFECLnhyUH2nAEv6/4KQtQ0RicaZewVBlJ9PBR5rW7fpVClx3JaJbDlI+6+IiOxU3c+wvK4Q6WeHKWLshRBk">
+</div><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.xml.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.xmlhttp.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=2031" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2031" type="text/javascript"></script><script src="/Portals/_default/Skins/MarineUnit2/resources/js/skin.js?cdv=2031" type="text/javascript"></script><script src="/js/dnncore.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=2031" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=2031" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/MarineUnit2/resources/js/skin.js?cdv=2031|DnnBodyProvider|100)-->
+
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"3rd Marine Division","SiteShortName":"3d Marine Division","SiteSubTitle":"","aid":"3rdmardiv","IsSecureConnection":false,"IsBackEnd":false,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"http://www.3rdmardiv.marines.mil/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":true,"PiwikSiteID":9,"SocialLinks":{"Facebook":{"Url":"https://www.facebook.com/3dMarineDivision","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"https://twitter.com/OkinawaMarines","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"https://www.youtube.com/channel/UC0i2f3wAQVNTEnNtFjjrQRQ","Window":"_blank","Relationship":"noopener"},"Flickr":{"Url":"https://www.flickr.com/photos/3mefpao","Window":"_blank","Relationship":"noopener"},"Pintrest":{"Url":"https://www.pinterest.com","Window":"_blank","Relationship":"noopener"},"Instagram":{"Url":"https://www.instagram.com/3dmardiv","Window":"_blank","Relationship":"noopener"},"Blog":{"Url":"","Window":"","Relationship":null},"RSS":{"Url":"https://www.dvidshub.net/rss/tag/3rd-marine-division","Window":"_blank","Relationship":"noopener"},"Podcast":{"Url":"","Window":"","Relationship":null},"Email":{"Url":"","Window":"","Relationship":null},"LinkedIn":{"Url":"","Window":"","Relationship":""},"Snapchat":{"Url":"","Window":"_blank","Relationship":"noopener"}},"SiteLinks":null,"LogoffTimeout":10500000};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://www.3rdmardiv.marines.mil/Portals/66/mdmlogo.png?ver=yfvLpqlWw-TCLmkWFKeySQ%3d%3d","name":"3rd Marine Division","url":"http://www.3rdmardiv.marines.mil/","sameAs":["https://www.facebook.com/3dMarineDivision","https://twitter.com/OkinawaMarines","https://www.instagram.com/3dmardiv","https://www.pinterest.com","https://www.youtube.com/channel/UC0i2f3wAQVNTEnNtFjjrQRQ"]}</script>
+
+
+
+<div class="wrapper container nopad">
+    <div id="dnn_Header_skipLinkWrap">
+    <div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+</div>
+<header id="header">
+    <div class="container nopad skin-header-background">
+        <div class="container skin-header">
+            <button type="button" class="navbar-toggle pull-left skin-nav-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="skin-logo">
+                <a href="http://www.marines.mil">
+                    <img src="/Portals/66/mdmlogo.png?ver=yfvLpqlWw-TCLmkWFKeySQ%3d%3d" alt="3rd Marine Division" title="3rd Marine Division" class="img-responsive"></a>
+            </div>
+            <div class="skin-title">
+                <a href="http://www.3rdmardiv.marines.mil/" title="3rd Marine Division">
+                    <div class="hidden-xs">
+                        
+                        <span class="title-text">3rd Marine Division</span>
+                        
+                    </div>
+                    <div class="visible-xs">
+                        <span class="title-text">3rd Marine Division</span>
+                    </div>
+                </a>
+            </div>
+            <div class="skin-search">
+                <div class="desktop-search hidden-xs">
+                    <label for="desktopSearch" class="visuallyhidden">Search 3d Marine Division: </label>
+                    <input type="text" name="desktopSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search 3d Marine Division" autocomplete="off">
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+                <div class="mobile-search visible-xs pull-right">
+                    <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                    <div class="mobile-search-popup" style="display: none;">
+                        <label for="mobileSearch" class="visuallyhidden">Search 3d Marine Division: </label>
+                        <input type="text" name="mobileSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search 3d Marine Division" autocomplete="off">
+                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-inverse fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar-collapse nav-main nav-main-collapse collapse otnav nopad">
+            <div class="container nopad menu">
+                <div class="topnav">
+                    <ul id="topnav">
+                        <li>
+                            <a href="https://www.marines.mil">Home</a>
+                        </li>
+                        <li>
+                            <a href="https://www.marines.mil/News">News</a>
+                        </li>
+                        <li>
+                            <a href="https://www.marines.mil/Photos">Photos</a>
+                        </li>
+                        <li class="current">
+                            <a href="https://www.marines.mil/Units">Units</a>
+                        </li>
+                        <li><a href="https://www.marines.mil/Leaders">Leaders</a></li>
+                        <li><a href="https://www.marines.mil/Marines">Marines</a></li>
+                        <li><a href="https://www.marines.mil/Family">Family</a></li>
+                        <li><a href="https://www.marines.mil/Community">Community Relations</a></li>
+                    </ul>
+                </div>
+                <div class="skin-social hidden-xs hidden-sm">
+                <div class="social-item social-icon-fb "><a title="Facebook" target="_blank" rel="noopener" href="https://www.facebook.com/3dMarineDivision"><span class="fa fa-facebook fa-inverse"></span></a></div><div class="social-item social-icon-twitter "><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/OkinawaMarines"><span class="fa fa-twitter fa-inverse"></span></a></div><div class="social-item social-icon-youtube "><a title="YouTube" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UC0i2f3wAQVNTEnNtFjjrQRQ"><span class="fa fa-youtube fa-inverse"></span></a></div><div class="social-item social-icon-instagram "><a title="Instagram" target="_blank" rel="noopener" href="https://www.instagram.com/3dmardiv"><span class="fa fa-instagram fa-inverse"></span></a></div><div class="social-item social-icon-pinterest "><a title="Pinterest" target="_blank" rel="noopener" href="https://www.pinterest.com"><span class="fa fa-pinterest fa-inverse"></span></a></div><div class="social-item social-icon-flickr "><a title="Flickr" target="_blank" rel="noopener" href="https://www.flickr.com/photos/3mefpao"><span class="fa fa-flickr fa-inverse"></span></a></div><div class="social-item social-icon-rss "><a title="RSS" target="_blank" rel="noopener" href="https://www.dvidshub.net/rss/tag/3rd-marine-division"><span class="fa fa-rss fa-inverse"></span></a></div></div>
+                <div style="clear: both;"></div>
+                <nav class="nav-main">
+<ul class="nav nav-main">
+	    
+    <li class=" top-level active">
+    
+        <a href="http://www.3rdmardiv.marines.mil/" tabindex="0" target="">Unit Home
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.3rdmardiv.marines.mil/About/" tabindex="0" target="">About
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.3rdmardiv.marines.mil/Leaders/" tabindex="0" target="">Leaders
+		</a>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" tabindex="0" target="" aria-expanded="false">Units<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class="dropdown mid-level ">
+    
+			<a href="javascript:void(0)" target="" tabindex="0" aria-expanded="false">Higher Commands<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.marforpac.marines.mil/" target="" tabindex="0">Marine Forces Pacific
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.iiimef.marines.mil/" target="" tabindex="0">III Marine Expeditionary Force
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown mid-level ">
+    
+			<a href="javascript:void(0)" target="" tabindex="0" aria-expanded="false">Adjacent Commands<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.1stmaw.marines.mil/" target="" tabindex="0">1st Marine Aircraft Wing
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmlg.marines.mil/" target="" tabindex="0">3d Marine Logistics Group
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/3d-Marine-Regiment/" target="" tabindex="0" aria-expanded="false">3d Marine Regiment<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/3d-Marine-Regiment/1st-Battalion/" target="" tabindex="0">1st Battalion
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/3d-Marine-Regiment/2nd-Battalion/" target="" tabindex="0">2d Battalion
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/3d-Marine-Regiment/3d-Battalion/" target="" tabindex="0">3d Battalion
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/4th-Marine-Regiment/" target="" tabindex="0">4th Marine Regiment
+</a>    
+    </li>
+
+    <li class="dropdown mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/12th-Marine-Regiment/" target="" tabindex="0" aria-expanded="false">12th Marine Regiment<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/12th-Marine-Regiment/1st-Battalion/" target="" tabindex="0">1st Battalion
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/12th-Marine-Regiment/3d-Battalion/" target="" tabindex="0">3d Battalion
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/3d-Reconnaissance-Battalion/" target="" tabindex="0">3d Reconnaissance Battalion
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/Headquarters-Battalion/" target="" tabindex="0">Headquarters Battalion
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/Jungle-Warfare-Training-Center/" target="" tabindex="0">Jungle Warfare Training Center
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="http://www.3rdmardiv.marines.mil/Resources/" tabindex="0" target="" aria-expanded="false">Resources<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="https://iiimef.usmc.mil/gce/3mardiv" target="" tabindex="0">Division Intranet
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Resources/Equal-Opportunity/" target="" tabindex="0">Equal Opportunity
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Resources/Family-Readiness/" target="" tabindex="0">Family Readiness
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/resources/SAPR/" target="" tabindex="0">Sexual Assault Prevention &amp; Response
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Units/Staff-Sections/G7-Inspect/" target="" tabindex="0">Command Inspector General
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.3rdmardiv.marines.mil/Resources/Inbound/" target="" tabindex="0">Inbound/Newcomers
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.3rdmardiv.marines.mil/News/" tabindex="0" target="">News
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.3rdmardiv.marines.mil/Photos/" tabindex="0" target="">Photos
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="https://o365.usmc.mil" tabindex="0" target="">Outlook Web Access
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.3rdmardiv.marines.mil/Contact-Us/" tabindex="0" target="">Contact Us
+		</a>
+    
+    </li>
+
+
+</ul>
+</nav>
+
+
+            </div>
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1" innertext="Start of main content"></a></p>
+    <div class="container skin-addpad">
+        <div class="TopPane  skin-top-row">
+            
+
+<div class="skin-breadcrumb-container">
+  <span id="dnn_Breadcrumb_Breadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a class="skin-breadcrumb" itemprop="item" style="text-decoration: none;"><span itemprop="name">Unit Home</span></a><meta itemprop="position" content="1"></span></span></span>
+  <script type="text/javascript">
+    jQuery(".skin-breadcrumb-container a").last().removeAttr("href").css("text-decoration", "none");
+  </script>
+</div>
+
+            <div class="row">
+                <div id="dnn_TopPane"><div class="DnnModule DnnModule-SiteData DnnModule-7785"><a name="7785"></a><div id="dnn_ctr7785_ContentPane" class="base-container"><!-- Start_Module_7785 --><div id="dnn_ctr7785_ModuleContent" class="DNNModuleContent ModSiteDataC">
+	
+
+<div id="dnn_ctr7785_View_pnlUnitBanner" class="unitBanner">
+		
+    <div class="unitBannerdiv">
+        <img src="/Portals/_default/SiteData/3rd Marine Division/3rd Mar Div.gif" id="dnn_ctr7785_View_UnitBanner" class="unitIcon" alt="3d Marine Division"> <!--Unit Banner-->
+    </div>
+    <div class="unitTextdiv">
+        <strong></strong>
+        <p style="font-size: 1px; padding: 2px 0 0;">&nbsp;</p>
+        <h1 id="dnn_ctr7785_View_UnitTitle" class="unitTextdivh1">3d Marine Division</h1> <!--Unit Title-->
+        <h2 id="dnn_ctr7785_View_UnitUnderTitle" class="unitTextdivh2">The Fighting Third</h2> <!--Unit UnderTitle-->
+        <span id="dnn_ctr7785_View_UnitLocation" class="UnitLocation">Okinawa, Japan</span> <!--Unit Location-->
+    </div>
+    <div class="clear"></div>
+
+	</div>
+</div><!-- End_Module_7785 --></div>
+
+</div></div>
+            </div>
+        </div>
+        <div class="row shade-pane">
+            <div class="col-md-8 shade-pane-content">
+                <div class="row">
+                    <div id="dnn_ContentPane" class="col-md-12"><div class="DnnModule DnnModule-DNN_HTML DnnModule-116522"><a name="116522"></a><div id="dnn_ctr116522_ContentPane"><!-- Start_Module_116522 --><div id="dnn_ctr116522_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr116522_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">.cvhpcon-divTable {
+        display: table;
+        width: 100%;
+        text-align: center;
+    }
+
+    .cvhpcon-divTableRow {
+        display: table-row;
+        width: 100%;
+        text-align: center;
+    }
+
+    .cvhpcon-divTableCell {
+        display: table-cell;
+        width: 50%;
+        text-align: center;
+    }
+
+    .cvhpcon-divTableCell1 {
+        display: table-cell;
+        width: 50%;
+        text-align: right;
+    }
+
+    .cvhpcon-divTableCell2 {
+        display: table-cell;
+        width: 50%;
+        text-align: left;
+    }
+
+    .cvhpcon-divTableCell3 {
+        display: table-cell;
+        width: 50%;
+    }
+</style>
+<div class="cvhpcon-divTable">
+<div class="cvhpcon-divTableRow">
+<div class="cvhpcon-divTableCell1"><a href="https://www.iiimef.marines.mil/Coronavirus/"><img alt="III MEF COVID-19 Coronavirus page" src="/portals/66/Site Images/Link Images/COVID-19-200x115.png?ver=2020-06-30-185833-710" title="III MEF COVID-19 Coronavirus page"></a></div>
+
+<div class="cvhpcon-divTableCell2"><a href="https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2128863/hpcon-understanding-health-protection-condition-levels/"><img alt="DoD HPCON Levels" src="/portals/66/Site Images/Link Images/HPCON-B-125x115.png?ver=2020-06-30-185829-130" style="width: 125px; height: 115px;" title="DoD HPCON Levels"></a></div>
+</div>
+</div>
+
+<p>&nbsp;</p>
+
+</div>
+
+</div><!-- End_Module_116522 --></div>
+</div><div class="DnnModule DnnModule-DigRotate DnnModule-85912"><a name="85912"></a><div id="dnn_ctr85912_ContentPane"><!-- Start_Module_85912 --><div id="dnn_ctr85912_ModuleContent" class="DNNModuleContent ModDigRotateC">
+	
+<div class="rotate">
+    <div class="caroufredsel_wrapper" style="text-align: start; float: none; position: relative; inset: 0px; z-index: auto; width: 750px; height: 492px; margin: 0px; overflow: hidden;"><div id="rotate-gallery-85912" class="carousel" style="text-align: left; float: none; position: absolute; inset: 0px auto auto 0px; margin: 0px; width: 8250px; height: 492px;">
+
+        
+        <div class="item" style="width: 750px;">
+        
+        
+            <div class="mmil_img">
+                <a href="https://www.dvidshub.net/image/6593571/2-2-conducts-mout" target="_blank">
+                <img class="img-responsive" src="https://www.3rdmardiv.marines.mil/Portals/66/Site Images/RotatorImages/Mout.jpg" alt="2/2 Conducts MOUT" title="2/2 Conducts MOUT" width="748" height="420">
+                </a>
+            </div>
+            <div class="mmil_content">
+                <span class="mmil_caption">U.S. Marines with 2d Battalion, 2d Marines conduct urban operations within the Central Training Area on Okinawa, Japan, April 8, 2021. This dynamic training provided small unit leaders with the opportunity to improve their tactical decision making skills in offensive and defensive operations. 2/2 is forward-deployed in the Indo-Pacific under 4th Marines, 3d Marine Division as a part of the Unit Deployment Program. (U.S. Marine Corps photo by Lance Cpl. Scott Aubuchon)</span>
+                
+                <a class="mmil_button" href="https://www.dvidshub.net/image/6593571/2-2-conducts-mout" target="_blank">Click here for more photos</a>
+                
+                
+                
+                
+                
+            </div>
+        
+        
+
+        
+        </div>
+        
+        <div class="item" style="width: 750px;">
+        
+        
+            <div class="mmil_img">
+                
+                <img class="img-responsive" src="https://www.3rdmardiv.marines.mil/Portals/66/Site Images/RotatorImages/SpartanFury.jpg" alt="Spartan Fury 21.1: Alpha Battery at PMRF" title="Spartan Fury 21.1: Alpha Battery at PMRF" width="748" height="420">
+                
+            </div>
+            <div class="mmil_content">
+                <span class="mmil_caption">U.S. Marine Corps Cpl. Colton Ferrin, a section chief with Alpha Battery, 1st Battalion, 12th Marines, sits on his M777A2 Howitzer during exercise Spartan Fury 21.1, Pacific Missile Range Facility, Kauai, Hawaii, March 10, 2021. Exercise Spartan Fury demonstrates 1/12’s ability to conduct distributed operations inside an adversary’s sensors and weapons engagement zone, attain and defend key maritime terrain, and conduct sea denial in support of fleet operations. (U.S. Marine Corps photo by Lance Cpl. Brandon Aultman) </span>
+                
+            </div>
+        
+        
+
+        
+        </div>
+        
+        <div class="item" style="width: 750px;">
+        
+        
+            <div class="mmil_img">
+                <a href="https://www.dvidshub.net/image/6563197/3d-battalion-3d-marine-regiment-conducts-aerial-sniper-training" target="_blank">
+                <img class="img-responsive" src="https://www.3rdmardiv.marines.mil/Portals/66/Site Images/RotatorImages/ArielSniper.jpg" alt="3d Battalion, 3d Marine Regiment conducts aerial sniper training" title="3d Battalion, 3d Marine Regiment conducts aerial sniper training" width="748" height="420">
+                </a>
+            </div>
+            <div class="mmil_content">
+                <span class="mmil_caption">U.S. Marine Corps Cpl. Ryan Lauritsen, a scout sniper with 3d Battalion, 3d Marine Regiment, engages a target during aerial sniper training at Camp Hansen, Okinawa, Japan, March 17, 2021. The training increased the Marines’ precision from a moving aircraft. 3/3 is forward-deployed in the Indo-Pacific under 4th Marine Regiment, 3d Marine Division. Lauritsen is a native of Pontiac, Illinois. (U.S. Marine Corps photo by Staff Sgt. David Staten)</span>
+                
+                <a class="mmil_button" href="https://www.dvidshub.net/image/6563197/3d-battalion-3d-marine-regiment-conducts-aerial-sniper-training" target="_blank">Click here to see more photos</a>
+                
+                
+                
+                
+                
+            </div>
+        
+        
+
+        
+        </div>
+        
+        <div class="item" style="width: 750px;">
+        
+        
+            <div class="mmil_img">
+                <a href="https://www.dvidshub.net/image/6561127/castaway-211-littoral-defense" target="_blank">
+                <img class="img-responsive" src="https://www.3rdmardiv.marines.mil/Portals/66/Site Images/RotatorImages/Boat.jpg" alt="Castaway 21.1 Littoral Defense" title="Castaway 21.1 Littoral Defense" width="748" height="420">
+                </a>
+            </div>
+            <div class="mmil_content">
+                <span class="mmil_caption">U.S. Marines with 3d Battalion, 3d Marines conduct experimentation in littoral defense operations during Castaway 21.1 around Okinawa, Japan, March 18, 2021. Castaway 21.1 demonstrated the Marine Corps’ ability to integrate with the joint force to seize and defend key maritime terrain, provide low-signature sustainment, and execute long-range precision fires in support of naval operations from an expeditionary advanced base. 3/3 is part of 3d Marine Division, forward-deployed in the Indo-Pacific. (U.S Marine Corps photo by Lance Cpl. Joshua Brittenham) </span>
+                
+                <a class="mmil_button" href="https://www.dvidshub.net/image/6561127/castaway-211-littoral-defense" target="_blank">Click to see more photos</a>
+                
+                
+                
+                
+                
+            </div>
+        
+        
+
+        
+        </div>
+        
+        <div class="item" style="width: 750px;">
+        
+        
+            <div class="mmil_img">
+                <a href="https://www.dvidshub.net/image/6557701/castaway-211" target="_blank">
+                <img class="img-responsive" src="https://www.3rdmardiv.marines.mil/Portals/66/Site Images/RotatorImages/Freefall.jpg" alt="Castaway 21.1 Freefall Infiltration" title="Castaway 21.1 Freefall Infiltration" width="748" height="420">
+                </a>
+            </div>
+            <div class="mmil_content">
+                <span class="mmil_caption">U.S. Marines with 3d Reconnaissance Battalion, 3d Marine Division conduct a military freefall infiltration during Castaway 21.1 on Ie Shima, Okinawa, Japan, March 9, 2021. The exercise demonstrated the Marine Corps’ ability to integrate with the joint force to seize and defend key maritime terrain, provide low-signature sustainment, and execute long-range precision fires in support of naval operations from an expeditionary advanced base. (U.S. Marine Corps photo by Lance Cpl. Scott Aubuchon) </span>
+                
+                <a class="mmil_button" href="https://www.dvidshub.net/image/6557701/castaway-211" target="_blank">Click to see more photos</a>
+                
+                
+                
+                
+                
+            </div>
+        
+        
+
+        
+        </div>
+        
+    </div></div>
+    <div class="rotatepagination" id="pager-85912" style="display: block;"><a href="#" class="selected"><span>1</span></a><a href="#"><span>2</span></a><a href="#"><span>3</span></a><a href="#"><span>4</span></a><a href="#"><span>5</span></a></div> 
+</div>
+<script type="text/javascript">
+    function GalleryInit() {
+        jQuery("#rotate-gallery-85912").carouFredSel({
+            responsive: true,
+            cookie: 'galSave',
+            auto : {
+                play : true,
+                fx : "crossfade",
+                timeoutDuration: 5000,
+                pauseOnHover: false,
+                duration    : 100
+            },
+            swipe: { onTouch: true, onMouse: false },
+            pagination  : "#pager-85912",
+            scroll: {
+                fx: "crossfade",
+                items: 1
+            }
+        });
+
+        
+        $("#pager-85912").on('click', 'a', function() {
+            $("#rotate-gallery-85912").trigger("pause");
+        });
+        
+    }
+
+    $(window).on('load', function () {
+        document.cookie = 'galSave=0; path=/'; 
+
+        GalleryInit();     
+    });
+
+</script>
+
+
+
+
+
+</div><!-- End_Module_85912 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-116524"><a name="116524"></a><div id="dnn_ctr116524_ContentPane"><!-- Start_Module_116524 --><div id="dnn_ctr116524_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr116524_HtmlModule_lblContent" class="Normal">
+	<div>&nbsp;</div>
+
+</div>
+
+</div><!-- End_Module_116524 --></div>
+</div><div class="DnnModule DnnModule-LiveHTML DnnModule-62126"><a name="62126"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr62126_dnnTitle_titleLabel" class="font">Mission</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr62126_ContentPane" class="containerpane"><!-- Start_Module_62126 --><div id="dnn_ctr62126_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper62126" class="livehtml"><span style="font-size: 16px;">On order, 3d Marine Division conducts amphibious, forcible entry operations or sustained, combined arms land operations with strategic partners and allies, as an integral part of III MEF within the Pacific Theater Area of Operations (AO) in support of national security objectives.</span></div>
+</div><!-- End_Module_62126 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-107033"><a name="107033"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr107033_dnnTitle_titleLabel" class="font">UNITS</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr107033_ContentPane" class="containerpane"><!-- Start_Module_107033 --><div id="dnn_ctr107033_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr107033_HtmlModule_lblContent" class="Normal">
+	<img alt="" style="border-width: 0px; border-style: solid;" src="/portals/66/Site%20Images/UnitLogos/HQBN.png?ver=2016-08-12-163537-603" usemap="#rade_img_map_1544147486637"><img alt="" style="border-width: 0px; border-style: solid; width: 76px; height: 80px;" src="/portals/66/Site%20Images/UnitLogos/3rdMarineRegiment.png?ver=2016-08-12-163536-760" usemap="#rade_img_map_1544146295653"><img alt="" style="border-width: 0px; border-style: solid; width: 74px; height: 80px;" src="/portals/66/Site%20Images/UnitLogos/4thMarineRegiment.png?ver=2016-08-12-163537-057" usemap="#rade_img_map_1544147270475"><img alt="" style="border-width: 0px; border-style: solid; width: 80px; height: 73px;" src="/portals/66/Site%20Images/UnitLogos/12thMarineRegiment.png?ver=2016-08-12-163537-230" usemap="#rade_img_map_1544147382989"><img alt="" style="border-width: 0px; border-style: solid;" src="/portals/66/Site%20Images/UnitLogos/3rdRecon.png?ver=2016-08-12-163536-917" usemap="#rade_img_map_1544147433025"><map name="rade_img_map_1544146295653" id="rade_img_map_1544146295653">
+<area href="/Units/3d-Marine-Regiment/" shape="RECT" coords="10,10,31,31"></map><map name="rade_img_map_1544147270475" id="rade_img_map_1544147270475">
+<area href="/Units/4th-Marine-Regiment/" shape="RECT" coords="10,10,30,30"></map><map name="rade_img_map_1544147382989" id="rade_img_map_1544147382989">
+<area href="/Units/12th-Marine-Regiment/" shape="RECT" coords="10,10,30,30"></map><map name="rade_img_map_1544147433025" id="rade_img_map_1544147433025">
+<img alt="" style="border-width: 0px; border-style: solid;" src="/portals/66/Site%20Images/UnitLogos/JWTC.png?ver=2016-08-12-163537-730" usemap="#rade_img_map_1544147536333">
+<area href="/Units/3d-Reconnaissance-Battalion/" shape="RECT" coords="10,10,30,30" target="_blank"></map><map name="rade_img_map_1544147486637" id="rade_img_map_1544147486637">
+<area href="/Units/Headquarters-Battalion/" shape="RECT" coords="10,10,30,30" target="_blank"></map><map name="rade_img_map_1544147536333" id="rade_img_map_1544147536333">
+<area href="/Units/Jungle-Warfare-Training-Center/" shape="RECT" coords="10,10,30,30" target="_blank"></map>
+</div>
+
+</div><!-- End_Module_107033 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-52484"><a name="52484"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr52484_dnnTitle_titleLabel" class="font">Caltrap News</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr52484_ContentPane" class="containerpane"><!-- Start_Module_52484 --><div id="dnn_ctr52484_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	<div id="dnn_ctr52484_Dashboard_ph">
+		
+<div class="adash adash-2col">
+    
+    
+    <div class="item">
+        
+        <div class="poster">
+            <a class="da_news_link" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2541225/us-marines-joint-partners-test-networked-eabo-from-japan-to-hawaii/"><img class="da_img" src="https://media.defense.gov/2021/Mar/18/2002602993/115/75/0/210309-M-CG913-218.JPG" alt=""></a>
+        </div>
+        <div class="body">
+        
+        
+            <span class="atitle"><a class="news-link" id="atitle2541225" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2541225/us-marines-joint-partners-test-networked-eabo-from-japan-to-hawaii/">U.S. Marines, joint partners test networked EABO from Japan to Hawaii</a></span>
+            <span class="sub-title"><strong>By Capt. Nicholas Royer </strong> | March 18, 2021</span>
+
+            <span class="hidden-xs">OKINAWA, Japan – U.S. Marine Corps exercises have, historically, featured hundreds of Marines storming ashore under cover of aircraft, with Navy ships looming ominously on the horizon, and the roar of gunfire, smoke and shouted commands permeating every aspect of a forced landing en masse. By contrast, the most recent operations led by 3d Marine Division looked and sounded like nothing – then the shooting began. <a class="more-link" aria-labelledby="atitle2541225" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2541225/us-marines-joint-partners-test-networked-eabo-from-japan-to-hawaii/">MORE</a> <span class="fa fa-angle-double-right"></span></span>
+        </div>
+    </div>
+    
+    
+    
+    <div class="item">
+        
+        <div class="poster">
+            <a class="da_news_link" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2489661/how-to-save-a-life-marines-learn-casualty-care/"><img class="da_img" src="https://media.defense.gov/2021/Feb/01/2002574046/115/75/0/210122-M-IA005-0999.JPG" alt=""></a>
+        </div>
+        <div class="body">
+        
+        
+            <span class="atitle"><a class="news-link" id="atitle2489661" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2489661/how-to-save-a-life-marines-learn-casualty-care/">How to save a life: Marines learn casualty care</a></span>
+            <span class="sub-title"><strong>By Lance Cpl. Jackson Dukes</strong> | February 1, 2021</span>
+
+            <span class="hidden-xs">Using a true-to-life mannequin that mimics a casualty in pain, complete with screams and fake blood, Marines with 3d Marine Division trained to save lives during a Level II Tactical Combat Casualty Care (TCCC) certification course on Camp Hansen, Okinawa, Japan. <a class="more-link" aria-labelledby="atitle2489661" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2489661/how-to-save-a-life-marines-learn-casualty-care/">MORE</a> <span class="fa fa-angle-double-right"></span></span>
+        </div>
+    </div>
+    
+    
+    
+    <div class="item">
+        
+        <div class="poster">
+            <a class="da_news_link" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2467161/seizing-and-defending-islands-us-marines-japan-ground-self-defense-force-streng/"><img class="da_img" src="https://media.defense.gov/2020/Dec/17/2002562308/115/75/0/201216-M-CG913-1064C.JPG" alt=""></a>
+        </div>
+        <div class="body">
+        
+        
+            <span class="atitle"><a class="news-link" id="atitle2467161" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2467161/seizing-and-defending-islands-us-marines-japan-ground-self-defense-force-streng/">Seizing and defending islands: U.S. Marines, Japan Ground Self-Defense Force strengthen integrated capabilities during exercise Forest Light</a></span>
+            <span class="sub-title"><strong>By Capt. Nicholas Royer </strong> | December 18, 2020</span>
+
+            <span class="hidden-xs">NIIGATA PREFECTURE, Japan – With MV-22 Ospreys and CH-47 aircraft operating overhead, U.S. Marines and Japanese soldiers manned machine guns, managed interlinked sensor screens, and provided targeting information for long-range fires assets in preparation to defend against an amphibious assault and enable a fast-hitting counterattack into enemy-held territory. <a class="more-link" aria-labelledby="atitle2467161" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2467161/seizing-and-defending-islands-us-marines-japan-ground-self-defense-force-streng/">MORE</a> <span class="fa fa-angle-double-right"></span></span>
+        </div>
+    </div>
+    
+    
+    
+    <div class="item">
+        
+        <div class="poster">
+            <a class="da_news_link" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2404373/fast-fluid-together-japan-us-marines-exercise-amphibious-capabilities-during-ke/"><img class="da_img" src="https://media.defense.gov/2020/Nov/04/2002529091/115/75/0/201101-M-M0251-0001.JPG" alt=""></a>
+        </div>
+        <div class="body">
+        
+        
+            <span class="atitle"><a class="news-link" id="atitle2404373" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2404373/fast-fluid-together-japan-us-marines-exercise-amphibious-capabilities-during-ke/">Fast, fluid, together: Japan, U.S. Marines exercise amphibious capabilities during Keen Sword 21</a></span>
+            <span class="sub-title"><strong>By Courtesy Story</strong> | November 4, 2020</span>
+
+            <span class="hidden-xs">OKINAWA, Japan – In the early hours of Nov. 1, 2020, the silence is broken by the sound of an amphibious assault featuring Japan Self-Defense Force CH-47JA Chinooks touching down and delivering streams of Amphibious Rapid Deployment Brigade troops while U.S. Marines hit the beach via small boats briskly navigating over the horizon from the USS Ashland to Gaja-Jima. As they disappear in fast-moving columns into the foliage of the small uninhabited island off the coast of Japan, their counterparts to the south are already preparing missile launchers and coordinating fire support against enemy targets on land and sea. <a class="more-link" aria-labelledby="atitle2404373" href="https://www.3rdmardiv.marines.mil/News/News-Article-Display/Article/2404373/fast-fluid-together-japan-us-marines-exercise-amphibious-capabilities-during-ke/">MORE</a> <span class="fa fa-angle-double-right"></span></span>
+        </div>
+    </div>
+    
+    
+    <div class="rss"><a href="https://www.3rdmardiv.marines.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&amp;Site=570&amp;isdashboardselected=0&amp;max=20"><span class="fa fa-rss-square fa-lg"></span></a> </div>
+</div>
+
+	</div>
+
+
+</div><!-- End_Module_52484 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-86185"><a name="86185"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr86185_dnnTitle_titleLabel" class="font">3d Marine Division Leaders</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr86185_ContentPane" class="containerpane DNNAligncenter"><!-- Start_Module_86185 --><div id="dnn_ctr86185_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	<div id="dnn_ctr86185_Dashboard_ph">
+		
+<div class="adash adash-bio">
+    <div class="adash-bio-left">
+        
+                <div class="item" style="width: 25%">
+            <img src="https://media.defense.gov/2020/Aug/13/2002476321/260/200/0/200811-M-IN847-0022.JPG" class="img-responsive dimg"><br>
+            <b id="atitle1054802">Major General James W. Bierman</b><br>
+            Commanding General<br>
+            <a class="more" aria-labelledby="atitle1054802" href="https://www.3rdmardiv.marines.mil/Leaders/LeadersView/Article/1054802/major-general-james-w-bierman/">VIEW BIO</a>
+        </div>
+
+        
+                <div class="item" style="width: 25%">
+            <img src="https://media.defense.gov/2020/Jun/20/2002319125/260/200/0/200620-M-IN847-0001.JPG" class="img-responsive dimg"><br>
+            <b id="atitle920688">Colonel Jason S.D. Perry</b><br>
+            Assistant Division Commander<br>
+            <a class="more" aria-labelledby="atitle920688" href="https://www.3rdmardiv.marines.mil/Leaders/LeadersView/Article/920688/colonel-jason-sd-perry/">VIEW BIO</a>
+        </div>
+
+        
+                <div class="item" style="width: 25%">
+            <img src="https://media.defense.gov/2020/Jul/14/2002456868/260/200/0/200715-M-IN874-0001.JPG" class="img-responsive dimg"><br>
+            <b id="atitle912230">Sergeant Major Eric D. Cook</b><br>
+            Sergeant Major<br>
+            <a class="more" aria-labelledby="atitle912230" href="https://www.3rdmardiv.marines.mil/Leaders/LeadersView/Article/912230/sergeant-major-eric-d-cook/">VIEW BIO</a>
+        </div>
+
+        
+                <div class="item" style="width: 25%">
+            <img src="https://media.defense.gov/2018/Aug/23/2001958028/260/200/0/180813-M-ZZ999-211.JPG" class="img-responsive dimg"><br>
+            <b id="atitle912235">Command Master Chief Christopher T. Stone</b><br>
+            Command Master Chief<br>
+            <a class="more" aria-labelledby="atitle912235" href="https://www.3rdmardiv.marines.mil/Leaders/LeadersView/Article/912235/command-master-chief-christopher-t-stone/">VIEW BIO</a>
+        </div>
+
+            </div>
+    <div style="clear:both"></div>
+</div>
+	</div>
+
+
+</div><!-- End_Module_86185 --></div>
+</div>
+
+</div></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallRightContent" class="col-md-9 DNNEmptyPane"></div>
+                    <div id="dnn_SmallRightSide" class="col-md-3 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_MediumLeftContent" class="col-md-8 DNNEmptyPane"></div>
+                    <div id="dnn_MediumLeftSide" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_MediumRightSide" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_MediumRightContent" class="col-md-8 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even2Left" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Even2Right" class="col-md-6 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even3Left" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Middle" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Right" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Small3Left" class="col-md-3 DNNEmptyPane"></div>
+                    <div id="dnn_Small3Middle" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Small3Right" class="col-md-3 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallLeftSide" class="col-md-3 DNNEmptyPane"></div>
+                    <div id="dnn_SmallLeftContent" class="col-md-9 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_BottomPane" class="col-md-12 DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div id="dnn_RightPane" class="col-md-4 shade-pane-right"><div class="DnnModule DnnModule-DNN_HTML DnnModule-116523"><a name="116523"></a><div id="dnn_ctr116523_ContentPane"><!-- Start_Module_116523 --><div id="dnn_ctr116523_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr116523_HtmlModule_lblContent" class="Normal">
+	<div>&nbsp;</div>
+
+</div>
+
+</div><!-- End_Module_116523 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-96752"><a name="96752"></a><div id="dnn_ctr96752_ContentPane"><!-- Start_Module_96752 --><div id="dnn_ctr96752_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr96752_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">
+    .divTable {
+        display: table;
+        width: 100%;
+        text-align: center;
+    }
+
+    .divTableRow {
+        display: table-row;
+        width: 100%;
+        text-align: center;
+    }
+
+    .divTableCell {
+        display: table-cell;
+        width: 100%;
+    }
+</style>
+<div class="divTable">
+    <div class="divTableRow">
+        <div class="divTableCell">
+            <a href="/Resources/Inbound"><img alt="Inbound Information" src="/portals/66/Site Images/Link Images/PCS-Inbound-300x150.png?ver=2020-06-29-035349-923" title="Inbound Information"></a>
+		</div>
+    </div>
+    <div class="divTableRow">
+        <div class="divTableCell">
+            <a href="/Resources/Outbound"><img alt="Outbound Information" src="/portals/66/Site Images/Link Images/PCS-outbound-300x150.png?ver=2020-06-29-035348-393" title="Outbound Information"></a>
+        </div>
+    </div>
+</div>
+</div>
+
+</div><!-- End_Module_96752 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-109883"><a name="109883"></a><div id="dnn_ctr109883_ContentPane"><!-- Start_Module_109883 --><div id="dnn_ctr109883_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr109883_HtmlModule_lblContent" class="Normal">
+	<div style="text-align: center;">Current TCCOR Status: 4</div>
+
+<div style="text-align: center;"><a href="https://www.kadena.af.mil/Agencies/Local-Weather/"><img alt="" src="https://media.defense.gov/2018/Jul/06/2001939528/-1/-1/0/180706-F-XF291-0002.JPG" style="width: 260px; height: 142px;" title=""></a></div>
+
+<div style="text-align: center;">For more TCCOR information, click this picture.</div>
+
+</div>
+
+</div><!-- End_Module_109883 --></div>
+</div><div class="DnnModule DnnModule-AccordionMenu DnnModule-108912"><a name="108912"></a><div id="dnn_ctr108912_ContentPane"><!-- Start_Module_108912 --><div id="dnn_ctr108912_ModuleContent" class="DNNModuleContent ModAccordionMenuC">
+	<div id="dnn_ctr108912_View_AccordionContainer" class="AccordionContainer">
+		
+    
+    <ul id="usmcAccordionMenu108912" class="usmcAccordionMenu"><li data-index="0" title="Family Housing Resolution Process" class="usmcAccordionMenuListItem usmcAccordionMenuLastListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="https://www.mcipac.marines.mil/Links/Housing/Family-Housing-Resolution-Process/" target="_blank" tabindex="0">Family Housing Resolution Process</a></div></div></li></ul>
+
+	</div>
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function () {
+            var stylePrefix = "usmc";
+            var moduleId = '108912';
+
+            var container = $("#dnn_ctr108912_View_AccordionContainer");
+            var enableMouseHover = false;
+            var shouldAutoCollapse = false;
+
+            var obj, li;
+
+            // ModuleTitleWrapper, keep sync'd with Edit page
+            var titleWrapper = $('#' + stylePrefix + 'ModuleTitleInnerWrapper' + moduleId);
+            var titleLink =  $('.' + stylePrefix + "ModuleTitleLink ");
+            var titleToggleThis = $('#' + stylePrefix + 'AccordionMenu' + moduleId);
+    
+            var WrapperToggleMenu = function (evt) {
+                $(titleToggleThis).slideToggle(200);
+                $(titleToggleThis).toggleClass(stylePrefix + "ModuleTitleExpanded");
+                
+                $(titleLink).attr("aria-expanded", function (_, attr) { return (attr === 'true') ? false : true; } ); 
+            };
+
+            //ensure keyboard toggles visibility
+            titleWrapper.keypress(function (e) {
+                if (e.keyCode === 13 || e.keyCode === 32) {
+                    return WrapperToggleMenu(e);
+                }
+            });
+
+            titleWrapper.on("click", function (evt) {
+                WrapperToggleMenu(evt);
+            });
+            //end ModuleTitleWrapper
+
+            // collapse other expanded items if needed
+            function collapseExpanded(clickedLi) {
+                var clickedLiIndex = clickedLi.attr('data-index');
+                var otherExpandedItems = $('.ftAccordionMenu > .ftAccordionMenuListItem[aria-expanded=true][data-index!= ' + clickedLiIndex + ']');
+
+                otherExpandedItems.each(function () {
+                    handleLiClick($(this));
+                });
+            }
+
+            // Clicks wrapper
+            function AccordionMenuDoWork(evt) {
+                obj = $(evt.target);
+                li = obj.closest("li");
+
+                if (obj.is("a")) {
+                    return true;
+                }
+
+                if (shouldAutoCollapse) {
+                    collapseExpanded(li);
+                }
+
+                handleLiClick(li);
+                
+                return false;
+            };
+
+            // Handle individual LI click
+            function handleLiClick(li) {
+                // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                if (toggleImage.length > 0) {
+                    if (stylePrefix == "af3" && !li.hasClass('af3-lock')) {
+                        li.toggleClass("af3-expand");
+                    }
+                    li.addClass('af3-lock');
+                    li.toggleClass("clickLock");
+                    var htmlSection = li.children(".htmlSection").eq(0);
+                    var ulSection = li.children("ul").eq(0);
+                    if (htmlSection.length > 0) {
+                        if (!htmlSection.is(":animated")) {
+                            // Make sure the li was clicked for html section
+                            if (obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+                            li.children(".tellmemore").toggleClass("hidetellmemore", 150);
+                            li.toggleClass("liHover");
+                            htmlSection.slideToggle(300, function () {
+                                toggleImage.toggleClass(stylePrefix + "AccordionMenuExpanded");
+                                ToggleExpandedItemTitleCSS(li);
+                                if (stylePrefix == "af3") {
+                                    li.removeClass('af3-lock');
+                                }
+                            });
+                        }
+                    }
+                    else if (ulSection.length > 0) {
+                        if (!ulSection.is(":animated")) {
+                            li.toggleClass("liHover");
+                            ulSection.slideToggle(300, function () {
+                                toggleImage.toggleClass(stylePrefix + "AccordionMenuExpanded");
+                                ulSection.children(".tellmemore").toggleClass("hidetellmemore");
+                                ToggleExpandedItemTitleCSS(li);
+                                if (stylePrefix == "af3") {
+                                    li.removeClass('af3-lock');
+                                }
+                            });
+                        }
+                    }
+                }
+            }
+            
+            //open/close on enter
+            container.keypress(function (e) {
+                if (e.keyCode === 13 || e.keyCode === 32) {
+                    return AccordionMenuDoWork(e);
+                }
+            });
+
+            // open/close on click
+            container.on("click", function (evt) {
+                AccordionMenuDoWork(evt);
+            });
+
+            if (enableMouseHover) {
+                //open/close on mouse-over
+                container.find("li").on("mouseenter", function (evt) {
+                    obj = $(evt.target);
+                    li = obj.closest("li");
+
+                    ExpandItemTitleCSS(li);
+                });
+
+                container.find("li").on("mouseleave", function (evt) {
+                    obj = $(evt.target);
+                    li = obj.closest("li");
+
+                    CollapseItemTitleCSS(li);
+
+                    if (li.next().length == 0 && li.prev().length == 0) {
+                        if (li.children("." + stylePrefix + "AccordionMenuCollapsed").length == 0) {
+                            var parentNode = li.parent();
+                            var parentCount = 0;
+                            while (!parentNode.hasClass("acAccordionMenu") && parentCount < 5000) {
+                                if (parentNode.hasClass("liHover")) {
+                                    CollapseItemTitleCSS(parentNode);
+                                }
+                                parentNode = parentNode.parent();
+                                parentCount++;
+                            }
+                        }
+                    }
+                });
+                container.on("mouseleave", function (evt) {
+                    container.find("li").each(function (idx, liHover) {
+                        CollapseItemTitleCSS(jQuery(liHover));
+                    });
+                });
+
+                function ExpandItemTitleCSS(li) {
+                    // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                    var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                    if (toggleImage.length > 0) {
+                        var htmlSection = li.children(".htmlSection").eq(0);
+                        var ulSection = li.children("ul").eq(0);
+
+                        if (htmlSection.length > 0) {
+                            // Make sure the li was clicked for html section
+                            if (obj && obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+
+                            if (li.hasClass("clickLock") != true && toggleImage.hasClass(stylePrefix + "AccordionMenuExpanded") == false) {
+                                li.children(".tellmemore").removeClass("hidetellmemore");
+                                li.addClass("liHover");
+                                htmlSection.data("animation", setTimeout(function () {
+                                    htmlSection.slideDown(300);
+                                    toggleImage.addClass(stylePrefix + "AccordionMenuExpanded");
+                                    ExpandExpandedItemTitleCSS(li);
+                                }, 100));
+                            }
+                        }
+                        else if (ulSection.length > 0) {
+                            if (li.hasClass("clickLock") != true && toggleImage.hasClass(stylePrefix + "AccordionMenuExpanded") == false) {
+                                li.addClass("liHover");
+                                ulSection.data("animation", setTimeout(function () {
+                                    ulSection.slideDown(300);
+                                    toggleImage.addClass(stylePrefix + "AccordionMenuExpanded");
+                                    ulSection.children(".tellmemore").removeClass("hidetellmemore");
+                                    ExpandExpandedItemTitleCSS(li);
+                                }, 100));
+                            }
+                        }
+                    }
+                }
+
+                function ExpandExpandedItemTitleCSS(li) {
+                    li.attr("aria-expanded", false);
+
+                    var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                    if (rootNode.length > 0) {
+                        rootNode.addClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                    else {
+                        li.find("." + stylePrefix + "MenuLinkHeader").eq(0).addClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                }
+
+                function CollapseItemTitleCSS(li) {
+                    // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                    var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                    if (toggleImage.length > 0) {
+                        var htmlSection = li.children(".htmlSection").eq(0);
+                        var ulSection = li.children("ul").eq(0);
+
+                        if (htmlSection.length > 0) {
+                            // Make sure the li was clicked for html section
+                            if (obj && obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+
+                            if (li.hasClass("clickLock") != true) {
+                                li.children(".tellmemore").addClass("hidetellmemore");
+                                li.removeClass("liHover");
+                                clearTimeout(htmlSection.data("animation"));
+                                jQuery.removeData(htmlSection, "animation");
+                                htmlSection.slideUp(300, function () {
+                                    toggleImage.removeClass(stylePrefix + "AccordionMenuExpanded");
+                                    CollapseExpandedItemTitleCSS(li);
+                                });
+                            }
+                        }
+                        else if (ulSection.length > 0) {
+                            if (li.hasClass("clickLock") != true) {
+                                li.removeClass("liHover");
+                                clearTimeout(ulSection.data("animation"));
+                                jQuery.removeData(ulSection, "animation");
+                                ulSection.slideUp(300, function () {
+                                    toggleImage.removeClass(stylePrefix + "AccordionMenuExpanded");
+                                    ulSection.children(".tellmemore").addClass("hidetellmemore");
+                                    CollapseExpandedItemTitleCSS(li);
+                                });
+                            }
+                        }
+                    }
+                }
+
+                function CollapseExpandedItemTitleCSS(li) {
+                    li.attr("aria-expanded", false);
+
+                    var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                    if (rootNode.length > 0) {
+                        rootNode.removeClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                    else {
+                        li.find("." + stylePrefix + "MenuLinkHeader").eq(0).removeClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                }
+            }
+
+            // toggle the child to have/remove expanded classes 
+            function ToggleExpandedItemTitleCSS(li) {
+                li.attr("aria-expanded", function (_, attr) { return (attr === 'true') ? false : true; });
+                
+                var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                if (rootNode.length > 0) {
+                    rootNode.toggleClass(stylePrefix + "AccordionMenuExpandedItem");
+                }
+                else {
+                    li.find("." + stylePrefix + "MenuLinkHeader").eq(0).toggleClass(stylePrefix + "AccordionMenuExpandedItem");
+                }
+            }
+            
+        });
+    })(jQuery);
+</script>
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function () {
+            $(".ac-jump-menu").change(function (e) {
+
+                var destination = $(this).val();
+                var isNewWindow = $(this).find(':selected').data('new-window');
+                var url = generateUrl(destination);
+
+                $('.ac-jump-menu-warning').hide();
+                if (destination) {
+                    if (isNewWindow == "True") {
+                        var win = window.open(url, '_blank');
+                        if (win) {
+                            //Browser has allowed it to be opened
+                            win.focus();
+                        }
+                    } else {
+                        $('.ac-jump-menu-success').show();
+                        window.location.href = url;
+                    }
+                }
+            });
+
+            function generateUrl(destination) {
+
+                let url = destination;
+
+                if (destination.indexOf("http") > -1) {
+                    url = destination;
+                }
+
+                if (destination.indexOf("TabID=") == 0) {
+                    url = '/?' + destination;
+                }
+
+                return url;
+            }
+        });
+    })(jQuery);
+</script>
+
+
+
+
+
+
+</div><!-- End_Module_108912 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-109885"><a name="109885"></a><div id="dnn_ctr109885_ContentPane"><!-- Start_Module_109885 --><div id="dnn_ctr109885_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr109885_HtmlModule_lblContent" class="Normal">
+	<div>&nbsp;</div>
+
+</div>
+
+</div><!-- End_Module_109885 --></div>
+</div><div class="DnnModule DnnModule-DNN_HTML DnnModule-104081"><a name="104081"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr104081_dnnTitle_titleLabel" class="font">Command Information</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr104081_ContentPane" class="containerpane"><!-- Start_Module_104081 --><div id="dnn_ctr104081_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr104081_HtmlModule_lblContent" class="Normal">
+	<style type="text/css">
+    .cmdinfo-divTable {
+        display: table;
+        width: 100%;
+        text-align: center;
+    }
+
+    .cmdinfo-divTableRow {
+        display: table-row;
+        width: 100%;
+        text-align: center;
+    }
+
+    .cmdinfo-divTableCell {
+        display: table-cell;
+        width: 50%;
+        text-align: center;
+    }
+
+    .cmdinfo-divTableCell1 {
+        display: table-cell;
+        width: 50%;
+    }
+
+    .cmdinfo-divTableCell2 {
+        display: table-cell;
+        width: 100%;
+        text-align: center;
+    }
+
+    .cmdinfo-divTableCell3 {
+        display: table-cell;
+        width: 50%;
+    }
+</style>
+<div class="cmdinfo-divTable">
+    <div class="cmdinfo-divTableRow">
+        <div class="cmdinfo-divTableCell2"><a href="https://www.veteranscrisisline.net/"><img alt="Veterans Crisis Line" src="/portals/66/Site Images/Link Images/CMDINFO-VetCrisis-266x130.gif?ver=2020-02-23-193048-743"></a></div>
+    </div>
+</div>
+
+<div class="cmdinfo-divTable" style="padding-top: 8px;">
+    <div class="cmdinfo-divTableRow">
+        <div class="cmdinfo-divTableCell2"><a href="https://www.usmc-mccs.org/index.cfm/services/support/dstress-line/"><img alt="DStress Crisis Line" src="/portals/66/Site Images/Link Images/CMDINFO-DSTRESS-266x130.gif?ver=2020-02-23-193044-853"></a></div>
+    </div>
+</div>
+
+<div class="cmdinfo-divTable" style="padding-top: 8px;">
+    <div class="cmdinfo-divTableRow">
+        <div class="cmdinfo-divTableCell2"><a href="/resources/SAPR/"><img alt="Sexual Assault Response Coordinator" src="/portals/66/Site Images/Link Images/CMDINFO-SAPR-MCBB-266x129.png?ver=2020-02-23-185936-897"></a></div>
+    </div>
+</div>
+
+<div class="cmdinfo-divTable" style="padding-top: 8px;">
+    <div class="cmdinfo-divTableRow">
+        <div class="cmdinfo-divTableCell2"><a href="/Units/Staff-Sections/G7-Inspect/"><img alt="Command Inspector General" src="/portals/66/Site Images/Link Images/CMDINFO-IG-172x84.png"> </a></div>
+    </div>
+</div>
+
+<div class="cmdinfo-divTable" style="padding-top: 8px;">
+    <div class="cmdinfo-divTableRow">
+        <div class="cmdinfo-divTableCell1"><a href="/Resources/Equal-Opportunity/"><img alt="Equal Opportunity Advisor" src="/portals/66/Site Images/Link Images/CMDINFO-EO-172x84.png"> </a></div>
+
+        <div class="cmdinfo-divTableCell1"><a href="/Resources/Family-Readiness/"><img alt="Family Readiness" src="/portals/66/Site Images/Link Images/CMDINFO-FRO-106x52.png"> </a></div>
+    </div>
+</div>
+
+<div class="cmdinfo-divTable" style="padding-top: 8px;">
+    <div class="cmdinfo-divTableRow">
+        <div class="cmdinfo-divTableCell1"><a href="https://www.mccsokinawa.com"><img alt="Marine Corps Community Services, Okinawa" src="/portals/66/Site Images/Link Images/CMDINFO-MCCS-172x84.png"> </a></div>
+
+        <div class="cmdinfo-divTableCell1"><a href="https://usmceagleeyes.org"><img alt="Eagle Eyes" src="/portals/66/Site Images/Link Images/CMDINFO-EE-171x84.png"> </a></div>
+    </div>
+</div>
+
+</div>
+
+</div><!-- End_Module_104081 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-7781"><a name="7781"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr7781_dnnTitle_titleLabel" class="font">Marine Corps News</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr7781_ContentPane" class="containerpane"><!-- Start_Module_7781 --><div id="dnn_ctr7781_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	<div id="dnn_ctr7781_Dashboard_ph">
+		
+<div class="adash adash-list">
+    
+    
+
+    <div class="item">
+        <div class="bullet">
+                <span class="fa fa-angle-double-right fa-lg"></span>
+        </div>
+
+        <div class="text">
+            <a class="news-link" href="https://www.marines.mil/News/News-Display/Article/2599349/supporting-the-future-fight-mcsc-modernizing-infantry-capabilities/"><strong>Supporting the future fight: MCSC modernizing infantry capabilities</strong></a><br>
+            May 7, 2021
+        </div>
+    </div>
+    <hr>
+    
+    
+    
+
+    <div class="item">
+        <div class="bullet">
+                <span class="fa fa-angle-double-right fa-lg"></span>
+        </div>
+
+        <div class="text">
+            <a class="news-link" href="https://www.marines.mil/News/News-Display/Article/2597756/ii-mef-wraps-up-dynamic-cape-211/"><strong>II MEF Wraps up Dynamic Cape 21.1</strong></a><br>
+            May 6, 2021
+        </div>
+    </div>
+    <hr>
+    
+    
+    
+
+    <div class="item">
+        <div class="bullet">
+                <span class="fa fa-angle-double-right fa-lg"></span>
+        </div>
+
+        <div class="text">
+            <a class="news-link" href="https://www.marines.mil/News/News-Display/Article/2596367/former-sailor-serves-wounded-warriors/"><strong>Former Sailor serves Wounded Warriors</strong></a><br>
+            May 5, 2021
+        </div>
+    </div>
+    <hr>
+    
+    
+    
+
+    <div class="item">
+        <div class="bullet">
+                <span class="fa fa-angle-double-right fa-lg"></span>
+        </div>
+
+        <div class="text">
+            <a class="news-link" href="https://www.marines.mil/News/News-Display/Article/2596278/this-is-my-story-road-to-recovery-one-step-at-a-time/"><strong>This is my story: Road to recovery one step at a time</strong></a><br>
+            May 5, 2021
+        </div>
+    </div>
+    <hr>
+    
+    
+    
+
+    <div class="item">
+        <div class="bullet">
+                <span class="fa fa-angle-double-right fa-lg"></span>
+        </div>
+
+        <div class="text">
+            <a class="news-link" href="https://www.marines.mil/News/News-Display/Article/2594844/corps-power-water-systems-are-getting-lean-and-going-green/"><strong>Corps’ power, water systems are getting lean and going green</strong></a><br>
+            May 4, 2021
+        </div>
+    </div>
+    <hr>
+    
+    
+    <div class="rss"><a href="https://www.marines.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&amp;Site=481&amp;isdashboardselected=0&amp;max=20"><span class="fa fa-rss-square fa-lg"></span></a> </div>
+</div>
+
+	</div>
+
+
+</div><!-- End_Module_7781 --></div>
+</div>
+
+</div></div>
+        </div>
+    </div>
+</div>
+
+
+<footer id="footer">
+    <div id="dnnfooterbox">
+        <div class="skinwidth">
+            <div class="fleft siteinfo">
+                <div class="fleft">
+                    <a href="http://www.marines.mil">
+                        <img src="/Portals/_default/Skins/MarineUnit2/Resources/img/marines.png" alt="Marines" class="largelogo">
+                    </a>
+                </div>
+                <div id="dnn_Footer_Div1" class="fright">
+                    <div id="SocialMedia">
+                        <a href="https://www.facebook.com/marines" title="Follow Us On Facebook" class="icoFacebook" target="_blank" rel="noopener"></a>
+                        <a href="https://twitter.com/usmc" title="Follow Us On Twitter" class="icoTwitter" target="_blank" rel="noopener"></a>
+                        <a href="https://www.youtube.com/Marines" title="Follow Us On YouTube" class="icoYouTube" target="_blank" rel="noopener"></a>
+                        <a href="https://www.flickr.com/marine_corps/" title="Follow Us On Flickr" class="icoFlickr" target="_blank" rel="noopener"></a>
+                    </div>
+                </div>
+                <div class="clr line">
+                </div>
+                <div class="fleft links">
+                    <a href="https://www.marines.mil/News">News</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Photos">Photos</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Units">Units</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Leaders">Leaders</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Marines">Marines</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Family">Family</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Community">Community Relations</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Privacy-Policy">PRIVACY</a><span class="spacer">|</span>
+                    <a href="https://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank" rel="noopener">Accessibility</a><span class="spacer">|</span>
+                    <a href="https://www.hqmc.marines.mil/Agencies/USMC-FOIA">FOIA</a><span class="spacer">|</span>
+                    <a href="https://prhome.defense.gov/NoFear/" target="_blank" rel="noopener">No Fear Act </a><span class="spacer">|</span>
+                    <a href="https://www.usa.gov/" target="_blank" rel="noopener">USA.gov</a><span class="spacer">|</span>
+                    <a href="https://www.veteranscrisisline.net/" target="_blank" rel="noopener">Crisis Line</a><span class="spacer">|</span>
+                    <a href="https://www.usmc-mccs.org/services/support/dstress-line/">DSTRESS</a>
+                </div>
+                <div class="clr"></div>
+            </div>
+            <div class="fright smalllogo">
+                <a href="http://www.marines.mil">
+                    <img src="/Portals/_default/Skins/MarineUnit2/Resources/img/smalllogo.png" alt="Marines" width="53" height="55">
+                </a>
+            </div>
+            <div class="clr"> </div>
+            <div class="skin-social hidden-md hidden-lg"><div class="social-item social-icon-fb "><a title="Facebook" target="_blank" rel="noopener" href="https://www.facebook.com/3dMarineDivision"><span class="fa fa-facebook fa-inverse"></span></a></div><div class="social-item social-icon-twitter "><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/OkinawaMarines"><span class="fa fa-twitter fa-inverse"></span></a></div><div class="social-item social-icon-youtube "><a title="YouTube" target="_blank" rel="noopener" href="https://www.youtube.com/channel/UC0i2f3wAQVNTEnNtFjjrQRQ"><span class="fa fa-youtube fa-inverse"></span></a></div><div class="social-item social-icon-instagram "><a title="Instagram" target="_blank" rel="noopener" href="https://www.instagram.com/3dmardiv"><span class="fa fa-instagram fa-inverse"></span></a></div><div class="social-item social-icon-pinterest "><a title="Pinterest" target="_blank" rel="noopener" href="https://www.pinterest.com"><span class="fa fa-pinterest fa-inverse"></span></a></div><div class="social-item social-icon-flickr "><a title="Flickr" target="_blank" rel="noopener" href="https://www.flickr.com/photos/3mefpao"><span class="fa fa-flickr fa-inverse"></span></a></div><div class="social-item social-icon-rss "><a title="RSS" target="_blank" rel="noopener" href="https://www.dvidshub.net/rss/tag/3rd-marine-division"><span class="fa fa-rss fa-inverse"></span></a></div></div>
+        </div>
+    </div> 
+</footer>
+
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="{&quot;__scdoff&quot;:&quot;1&quot;,&quot;sf_siteRoot&quot;:&quot;/&quot;,&quot;sf_tabId&quot;:&quot;3819&quot;}">
+        <script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=2031" type="text/javascript"></script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+toggleClick = function(ModuleId) {var wrapper=jQuery('#LiveHTMLWrapper' + ModuleId);if (wrapper.find('#ReviewComment').is(":hidden")) {wrapper.find('#ReviewComment').slideDown('slow');wrapper.find('#toggle').addClass('close');}else {wrapper.find('#ReviewComment').slideUp('slow');wrapper.find('#toggle').removeClass('close');}};//]]>
+</script>
+</form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=2031|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2031|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/MarineUnit2/skin.css?cdv=2031|DnnPageHeaderProvider|15)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/js/dnn.xml.js?cdv=2031|DnnBodyProvider|20)--><!--CDF(Javascript|/js/dnn.xmlhttp.js?cdv=2031|DnnBodyProvider|30)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.min.js?cdv=2031|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElementAFPIMS/mediaelementafpims.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/1.6.12/jquery.touchSwipe.min.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1-packed.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/DigRotate/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/DigRotate/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/AccordionMenu/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SiteData/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/SiteData/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/66/portal.css?cdv=2031|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=2031|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/DigRotate/Templates/MarineMIL2/template.css?cdv=2031|DnnPageHeaderProvider|200)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/Marine2/style.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/Marine2/style.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/AccordionMenu/CSS/jumpMenu.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/AccordionMenu/CSS/Templates/usmc.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/Marine2/style.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=2031|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=2031|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=2031|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2031|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2031|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2031|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2031|DnnPageHeaderProvider|10)-->
+    
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="usasearch_sayt" style="background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; border: 0px none; display: block; float: none; height: 0px; line-height: 0; margin: 0px; padding: 0px; position: static; width: 0px;"><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>

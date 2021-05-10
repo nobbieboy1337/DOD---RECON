@@ -1,0 +1,1056 @@
+<html lang="en-US"><head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta name="REVISIT-AFTER" content="1 DAYS">
+<meta name="RATING" content="GENERAL">
+<meta name="RESOURCE-TYPE" content="DOCUMENT">
+<meta content="text/javascript" http-equiv="Content-Script-Type">
+<meta content="text/css" http-equiv="Content-Style-Type">
+<title>
+	10th Marines Home 
+</title><meta id="MetaDescription" name="DESCRIPTION" content="10th Marine Regiment home page"><meta id="MetaKeywords" name="KEYWORDS" content="10th,Marines,Home"><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW"><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/ArticleCSDashboard/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/HTML/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/Documents/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/SiteData/module.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/DesktopModules/AccordionMenu/CSS/Templates/usmc.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Portals/_default/Skins/MarineUnit2/skin.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Portals/35/portal.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/desktopmodules/ArticleCS/styles/Marine2/style.css?cdv=2031" type="text/css" rel="stylesheet"><link href="/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=2031" type="text/css" rel="stylesheet"><script type="text/javascript" defer="" async="" src="https://stats.defense.gov/piwik.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2031" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2031" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2031" type="text/javascript"></script><meta name="host" content="DMA Public Web"><meta name="contact" content="pubwebhd@defense.gov">
+<!--[if IE 8 ]><script type="text/javascript">jQuery("html").addClass("ie ie8");</script><![endif]-->
+<!--[if IE 9 ]><script type="text/javascript">jQuery("html").addClass("ie ie9");</script><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/Portals/_default/Skins/MarineUnit2/ie.css" /><![endif]-->
+<!--[if lte IE 8]><script src="/Desktopmodules/SharedLibrary/Plugins/Respond/js/respond.min.js"></script><![endif]-->
+<script src="https://www.google-analytics.com/ga.js"></script><script src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-3.1.js?agency=DOD&amp;subagency=USMC&amp;dclink=true" id="_fed_an_ua_tag"></script><style type="text/css">#Body{ background: #938143 url("/Portals/_default/Skins/MarineUnit2/resources/img/background/body.jpg") 50% 0% repeat-x; }</style>
+
+          <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push('_setAccount', '[TRACKING_ID]');
+            _gaq.push('_setDomainName', '[DOMAIN_NAME]');
+            _gaq.push('_setAllowHash', [ALLOW_HASH]);
+            [CUSTOM_SCRIPT]
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = 'https://www.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+          </script>
+
+        <meta name="viewport" content="width=device-width,initial-scale=1"><script type="text/javascript" src="//search.usa.gov/javascripts/remote.loader.js"></script><link type="text/css" href="//search.usa.gov/assets/sayt.css" rel="stylesheet" media="screen"><script type="text/javascript" src="//search.usa.gov/assets/sayt_loader_libs.js"></script></head>
+<body id="Body">
+    
+    <form method="post" action="/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="XE5DTXNpdREXlIVKDmkri/zCmGhhjBbK/RmPkAd0YHjGd+szqLTclfVUU/jjx/RWVE67qT6jspyHqfxT3JqMx3xZQ0g6RYw0mybARvIPuxL+keD/v9HrkePJUsOEhKQOWgHiWLehaXg63Nl+TlA/DJcBieVTZbu54/eFgyxHnIXWS8CR7Y9mRKT15LZA7ZlNVXOtulRcNoCj4xZ7uuUkjRPdqbnN9n8Sc2dUmJk3B331ECfymyAY1+Y5FPTx/1jT2xCLllLZsrAgaguEyXefOQtcc8NZBv5loB9ex8A9dgLntlKshgykPkKq0LbGP8AGcmZwmu6rbxxoNvKPks4lrojMSehLUpwcKNS+wxKTAJ2mdnwsP1LL69aHlOLs0nGop9iD7GaetHqmOa3wBEewj7SQCFxXHRaNcMjZvzVpOgc+/M3/b3tNPtwatOWZg/b7gQLMPJj+j73SwAzB/IXfoi82wUkTnUgaPbHDrJy1Afm2LeayYplaRlZ14qkbPDUEcj/iDEqKVt1hToUy9fyumcTDk1C+/NRXfEoDG9dpZu6f0cqz9Dl95QpJzp3a97w2QtSlr3MgLvBHHU1V7soxDpr+dCI=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV3N8bfprbQS0jFfvdz-DA10GMlw9OUhsCgxZnctJegKa6BYomQ1&amp;t=637453888939909757" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IpK2g7JTRSMmik34PbOy56rKmpCCY9c0IuBlnEbhhFae_kQJWt66DuEhw-Osce7G501JTW9OGWRnd0EbuOkbrWsRmtU11Nj_i0XQ9cGNYMzzkFB5birW0a-1aK-ZA2&amp;t=2fe674eb" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoJFOsZ7uv-AD6rnnw1gg45X0YCH7_dWw6-26XQltO1_5azbICY-_tq-M6RY9HEg67V8XgtLpPVUPl1Dn9p5QdJTkPAHetpXAJ7lKjHpBkd_x3tMAx_TdJCVFvjTnBv-7vOJGyRf0&amp;t=2fe674eb" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/oh5u2o5x4n3V0gny3zQmHR8UPktIsoW5rPLlup29qXY8t1BK3Nv3FmAoenlzPJLC39JTcQ/DvxA3ufIep4zcOJkcS11dPu2d3Cx1NLwsGkYCWM5">
+</div><script src="/js/dnn.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=2031" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2031" type="text/javascript"></script><script src="/Portals/_default/Skins/MarineUnit2/resources/js/skin.js?cdv=2031" type="text/javascript"></script><script src="/js/dnncore.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=2031" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=2031" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=2031" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=2031" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', [], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/MarineUnit2/resources/js/skin.js?cdv=2031|DnnBodyProvider|100)-->
+
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"10th Marine Regiment","SiteShortName":"10th Marines","SiteSubTitle":"","aid":"10thmarines","IsSecureConnection":false,"IsBackEnd":false,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"http://www.10thmarines.marines.mil/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":true,"PiwikSiteID":9,"SocialLinks":{"Facebook":{"Url":"http://www.facebook.com/marines","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"https://twitter.com/#!/usmc","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"http://www.youtube.com/Marines","Window":"_blank","Relationship":"noopener"},"Flickr":{"Url":"http://www.flickr.com/photos/marine_corps/","Window":"_blank","Relationship":"noopener"},"Pintrest":{"Url":"http://www.pinterest.com/usmc/","Window":"_blank","Relationship":"noopener"},"Instagram":{"Url":"http://www.instagram.com/marines","Window":"_blank","Relationship":"noopener"},"Blog":{"Url":"","Window":"","Relationship":null},"RSS":{"Url":"http://www.marines.mil/News/Feeds.aspx","Window":"_blank","Relationship":"noopener"},"Podcast":{"Url":"","Window":"","Relationship":null},"Email":{"Url":"","Window":"","Relationship":null},"LinkedIn":{"Url":"","Window":null,"Relationship":null},"Snapchat":{"Url":"","Window":"","Relationship":null}},"SiteLinks":null,"LogoffTimeout":10500000};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://www.10thmarines.marines.mil/Portals/35/mdmlogo.png?ver=1STHzQKGvtp9DwAqwaiJTA%3d%3d","name":"10th Marine Regiment","url":"http://www.10thmarines.marines.mil/","sameAs":["http://www.facebook.com/marines","https://twitter.com/#!/usmc","http://www.instagram.com/marines","http://www.pinterest.com/usmc/","http://www.youtube.com/Marines"]}</script>
+
+
+
+<div class="wrapper container nopad">
+    <div id="dnn_Header_skipLinkWrap">
+    <div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+</div>
+<header id="header">
+    <div class="container nopad skin-header-background">
+        <div class="container skin-header">
+            <button type="button" class="navbar-toggle pull-left skin-nav-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="skin-logo">
+                <a href="http://www.marines.mil">
+                    <img src="/Portals/35/mdmlogo.png?ver=1STHzQKGvtp9DwAqwaiJTA%3d%3d" alt="10th Marine Regiment" title="10th Marine Regiment" class="img-responsive"></a>
+            </div>
+            <div class="skin-title">
+                <a href="http://www.10thmarines.marines.mil/" title="10th Marine Regiment">
+                    <div class="hidden-xs">
+                        
+                        <span class="title-text">10th Marine Regiment</span>
+                        
+                    </div>
+                    <div class="visible-xs">
+                        <span class="title-text">10th Marine Regiment</span>
+                    </div>
+                </a>
+            </div>
+            <div class="skin-search">
+                <div class="desktop-search hidden-xs">
+                    <label for="desktopSearch" class="visuallyhidden">Search 10th Marines: </label>
+                    <input type="text" name="desktopSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search 10th Marines" autocomplete="off">
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+                <div class="mobile-search visible-xs pull-right">
+                    <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                    <div class="mobile-search-popup" style="display: none;">
+                        <label for="mobileSearch" class="visuallyhidden">Search 10th Marines: </label>
+                        <input type="text" name="mobileSearch" class="skin-search-input usagov-search-autocomplete ui-autocomplete-input" title="Search 10th Marines" autocomplete="off">
+                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-inverse fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar-collapse nav-main nav-main-collapse collapse otnav nopad">
+            <div class="container nopad menu">
+                <div class="topnav">
+                    <ul id="topnav">
+                        <li>
+                            <a href="https://www.marines.mil">Home</a>
+                        </li>
+                        <li>
+                            <a href="https://www.marines.mil/News">News</a>
+                        </li>
+                        <li>
+                            <a href="https://www.marines.mil/Photos">Photos</a>
+                        </li>
+                        <li class="current">
+                            <a href="https://www.marines.mil/Units">Units</a>
+                        </li>
+                        <li><a href="https://www.marines.mil/Leaders">Leaders</a></li>
+                        <li><a href="https://www.marines.mil/Marines">Marines</a></li>
+                        <li><a href="https://www.marines.mil/Family">Family</a></li>
+                        <li><a href="https://www.marines.mil/Community">Community Relations</a></li>
+                    </ul>
+                </div>
+                <div class="skin-social hidden-xs hidden-sm">
+                <div class="social-item social-icon-fb "><a title="Facebook" target="_blank" rel="noopener" href="http://www.facebook.com/marines"><span class="fa fa-facebook fa-inverse"></span></a></div><div class="social-item social-icon-twitter "><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/#!/usmc"><span class="fa fa-twitter fa-inverse"></span></a></div><div class="social-item social-icon-youtube "><a title="YouTube" target="_blank" rel="noopener" href="http://www.youtube.com/Marines"><span class="fa fa-youtube fa-inverse"></span></a></div><div class="social-item social-icon-instagram "><a title="Instagram" target="_blank" rel="noopener" href="http://www.instagram.com/marines"><span class="fa fa-instagram fa-inverse"></span></a></div><div class="social-item social-icon-pinterest "><a title="Pinterest" target="_blank" rel="noopener" href="http://www.pinterest.com/usmc/"><span class="fa fa-pinterest fa-inverse"></span></a></div><div class="social-item social-icon-flickr "><a title="Flickr" target="_blank" rel="noopener" href="http://www.flickr.com/photos/marine_corps/"><span class="fa fa-flickr fa-inverse"></span></a></div><div class="social-item social-icon-rss "><a title="RSS" target="_blank" rel="noopener" href="http://www.marines.mil/News/Feeds.aspx"><span class="fa fa-rss fa-inverse"></span></a></div></div>
+                <div style="clear: both;"></div>
+                <nav class="nav-main">
+<ul class="nav nav-main">
+	    
+    <li class="dropdown top-level active">
+    
+        <a href="http://www.10thmarines.marines.mil/" tabindex="0" target="" aria-expanded="false">Unit Home<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Unit-Home/Site-Map/" target="" tabindex="0">Site Map
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" tabindex="0" target="" aria-expanded="false">About<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/About/History/" target="" tabindex="0">History
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/About/Honors-and-Lineage/" target="" tabindex="0">Honors and Lineage
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="http://www.10thmarines.marines.mil/Leaders/" tabindex="0" target="" aria-expanded="false">Leaders<span class="fa fa-lg fa-angle-down"></span>
+		</a>
+    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Leaders/Leaders-View/" target="" tabindex="0">Leaders View
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" tabindex="0" target="" aria-expanded="false">Separate Battalions<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class="dropdown mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/1st-Battalion/" target="" tabindex="0" aria-expanded="false">1st Battalion<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/1st-Battalion/History/" target="" tabindex="0">History
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/1st-Battalion/Honors-and-Lineage/" target="" tabindex="0">Honors and Lineage
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/1st-Battalion/Families/" target="" tabindex="0">Families
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/1st-Battalion/Contact/" target="" tabindex="0">Contact
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/2nd-Battalion/" target="" tabindex="0" aria-expanded="false">2nd Battalion<span class="fa fa-lg fa-angle-right" style="margin-left:20px"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/2nd-Battalion/History/" target="" tabindex="0">History
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/2nd-Battalion/Honors-and-Lineage/" target="" tabindex="0">Honors and Lineage
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/2nd-Battalion/Families/" target="" tabindex="0">Families
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Separate-Battalions/2nd-Battalion/Contact/" target="" tabindex="0">Contact
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class="dropdown top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" tabindex="0" target="" aria-expanded="false">Resources<span class="fa fa-lg fa-angle-down"></span>
+</a>    
+        <ul class="dropdown-menu">
+        
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Resources/For-the-Marines/" target="" tabindex="0">For the Marines
+</a>    
+    </li>
+
+    <li class=" mid-level ">
+    
+			<a href="http://www.10thmarines.marines.mil/Resources/For-the-Families/" target="" tabindex="0">For the Families
+</a>    
+    </li>
+
+        </ul>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.10thmarines.marines.mil/News/" tabindex="0" target="">News
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.10thmarines.marines.mil/Photos/" tabindex="0" target="">Photos
+		</a>
+    
+    </li>
+
+
+    <li class=" top-level ">
+    
+        <a href="http://www.10thmarines.marines.mil/Contact-Us/" tabindex="0" target="">Contact Us
+		</a>
+    
+    </li>
+
+
+</ul>
+</nav>
+
+
+            </div>
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1" innertext="Start of main content"></a></p>
+    <div class="container skin-addpad">
+        <div class="TopPane  skin-top-row">
+            
+
+<div class="skin-breadcrumb-container">
+  <span id="dnn_Breadcrumb_Breadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope="" itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a class="skin-breadcrumb" itemprop="item" style="text-decoration: none;"><span itemprop="name">Unit Home</span></a><meta itemprop="position" content="1"></span></span></span>
+  <script type="text/javascript">
+    jQuery(".skin-breadcrumb-container a").last().removeAttr("href").css("text-decoration", "none");
+  </script>
+</div>
+
+            <div class="row">
+                <div id="dnn_TopPane"><div class="DnnModule DnnModule-SiteData DnnModule-4889"><a name="4889"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr4889_dnnTitle_titleLabel" class="font">SiteData</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr4889_ContentPane" class="containerpane"><!-- Start_Module_4889 --><div id="dnn_ctr4889_ModuleContent" class="DNNModuleContent ModSiteDataC">
+	
+
+<div id="dnn_ctr4889_View_pnlUnitBanner" class="unitBanner">
+		
+    <div class="unitBannerdiv">
+        <img src="/Portals/_default/SiteData/10th Marine Regiment/10THMARREGLOGO-Banner.png" id="dnn_ctr4889_View_UnitBanner" class="unitIcon" alt="10th Marine Regiment"> <!--Unit Banner-->
+    </div>
+    <div class="unitTextdiv">
+        <strong></strong>
+        <p style="font-size: 1px; padding: 2px 0 0;">&nbsp;</p>
+        <h1 id="dnn_ctr4889_View_UnitTitle" class="unitTextdivh1">10th Marine Regiment</h1> <!--Unit Title-->
+        <h2 id="dnn_ctr4889_View_UnitUnderTitle" class="unitTextdivh2">2nd Marine Division</h2> <!--Unit UnderTitle-->
+        <span id="dnn_ctr4889_View_UnitLocation" class="UnitLocation">Camp Lejeune, NC</span> <!--Unit Location-->
+    </div>
+    <div class="clear"></div>
+
+	</div>
+</div><!-- End_Module_4889 --></div>
+</div>
+
+</div></div>
+            </div>
+        </div>
+        <div class="row shade-pane">
+            <div class="col-md-8 shade-pane-content">
+                <div class="row">
+                    <div id="dnn_ContentPane" class="col-md-12"><div class="DnnModule DnnModule-LiveHTML DnnModule-61504"><a name="61504"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr61504_dnnTitle_titleLabel" class="font">Mission</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr61504_ContentPane" class="containerpane"><!-- Start_Module_61504 --><div id="dnn_ctr61504_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper61504" class="livehtml">Provide fires in support of 2nd Marine Division using organic indirect fire assets while coordinating both lethal and non-lethal fires from other II Marine Expeditionary Force fire support agencies in order to suppress, neutralize or destroy enemy.<br>
+<br></div>
+</div><!-- End_Module_61504 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-6488"><a name="6488"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr6488_dnnTitle_titleLabel" class="font">Leaders</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr6488_ContentPane" class="containerpane"><!-- Start_Module_6488 --><div id="dnn_ctr6488_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	<div id="dnn_ctr6488_Dashboard_ph">
+		
+<div class="adash adash-bio">
+    <div class="adash-bio-left">
+        
+        
+        <div class="item">
+            <img src="https://media.defense.gov/2019/Jul/25/2002162427/260/200/0/190725-M-UH285-0001.JPG" class="img-responsive dimg"><br>
+            <b id="atitle513823">Colonel Robert J. Hallett</b><br>
+            Commanding Officer, 10th Marine Regiment<br>
+            <a class="more" aria-labelledby="atitle513823" href="http://www.10thmarines.marines.mil/Leaders/tabid/1767/Article/513823/colonel-robert-j-hallett.aspx">VIEW BIO</a>
+        </div>
+        
+        
+        
+        <div class="item">
+            <img src="https://media.defense.gov/2019/Sep/11/2002181151/260/200/0/190911-M-ZZ999-0001.JPG" class="img-responsive dimg"><br>
+            <b id="atitle513824">Sergeant Major Rafael C. Vargas</b><br>
+            Sergeant Major, 10th Marine Regiment<br>
+            <a class="more" aria-labelledby="atitle513824" href="http://www.10thmarines.marines.mil/Leaders/tabid/1767/Article/513824/sergeant-major-rafael-c-vargas.aspx">VIEW BIO</a>
+        </div>
+        
+        
+    </div>
+    <div style="clear:both"></div>
+    <div class="rss"><a href="https://www.10thmarines.marines.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=3&amp;Site=511&amp;isdashboardselected=1&amp;dashboardmoduleid=6488&amp;max=20"><span class="fa fa-rss-square fa-lg"></span></a> </div>
+</div>
+
+	</div>
+
+
+</div><!-- End_Module_6488 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-LiveHTML DnnModule-74643"><a name="74643"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr74643_dnnTitle_titleLabel" class="font">10th Marine Regiment Units</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr74643_ContentPane" class="containerpane"><!-- Start_Module_74643 --><div id="dnn_ctr74643_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper74643" class="livehtml"><table align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p style="text-align: center;">&nbsp;<a href="/SeparateBattalions/1stBattalion.aspx" title="Click here to learn more."><img alt="" src="/portals/35/Images/Logos/1-10.png"></a><br>
+            <a href="/SeparateBattalions/1stBattalion.aspx"><span style="font-size: 10px;">1st Battalion, 10th Marines</span></a></p>
+            </td>
+            <td>
+            <p style="text-align: center;">&nbsp;<a href="/SeparateBattalions/2ndBattalion.aspx" title="Click here to learn more."><img alt="" src="/portals/35/Images/Logos/2-10.png"></a><br>
+            <a href="/SeparateBattalions/2ndBattalion.aspx" title="Click here to learn more."><span style="font-size: 10px;">2nd Battalion, 10th Marines</span></a></p>
+            </td>
+            <td>
+            <p style="text-align: center;"><a href="/SeparateBattalions/3rdBattalion.aspx" title="Click here to learn more."></a></p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+</div><!-- End_Module_74643 --></div>
+</div>
+
+</div></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallRightContent" class="col-md-9 DNNEmptyPane"></div>
+                    <div id="dnn_SmallRightSide" class="col-md-3 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_MediumLeftContent" class="col-md-8 DNNEmptyPane"></div>
+                    <div id="dnn_MediumLeftSide" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_MediumRightSide" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_MediumRightContent" class="col-md-8 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even2Left" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Even2Right" class="col-md-6 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Even3Left" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Middle" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_Even3Right" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_Small3Left" class="col-md-3 DNNEmptyPane"></div>
+                    <div id="dnn_Small3Middle" class="col-md-6 DNNEmptyPane"></div>
+                    <div id="dnn_Small3Right" class="col-md-3 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_SmallLeftSide" class="col-md-3 DNNEmptyPane"></div>
+                    <div id="dnn_SmallLeftContent" class="col-md-9 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_BottomPane" class="col-md-12 DNNEmptyPane"></div>
+                </div>
+            </div>
+            <div id="dnn_RightPane" class="col-md-4 shade-pane-right"><div class="DnnModule DnnModule-DNN_HTML DnnModule-118651"><a name="118651"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr118651_dnnTitle_titleLabel" class="font">ood contact number</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr118651_ContentPane" class="containerpane"><!-- Start_Module_118651 --><div id="dnn_ctr118651_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr118651_HtmlModule_lblContent" class="Normal">
+	<div>910-451-6991</div><div>910-376-5264</div>
+</div>
+
+</div><!-- End_Module_118651 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-AccordionMenu DnnModule-10891"><a name="10891"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr10891_dnnTitle_titleLabel" class="font">10 Marine Regiment Navigation</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr10891_ContentPane" class="containerpane"><!-- Start_Module_10891 --><div id="dnn_ctr10891_ModuleContent" class="DNNModuleContent ModAccordionMenuC">
+	<div id="dnn_ctr10891_View_AccordionContainer" class="AccordionContainer">
+		
+    
+    <ul id="usmcAccordionMenu10891" class="usmcAccordionMenu"><li data-index="0" tabindex="0" aria-expanded="false" title="10th Marine Regiment Battalions" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode paddedHeader"><div class="lvl0"><a href="/UnitHome.aspx" target="_self" tabindex="0">10th Marine Regiment Battalions</a></div></div><div class="usmcAccordionMenuCollapsed"></div><ul class="usmcAccordionMenuSubMenu" style="display:none;"><li data-index="0" title="1st Battalion" class="usmcAccordionMenuListItem"><div class="lvl1 listItem"><div class="usmcMenuLinkHeader"><a href="/SeparateBattalions/1stBattalion.aspx" target="_self" tabindex="0">1st Battalion</a></div></div></li><li data-index="1" title="2nd Battalion" class="usmcAccordionMenuListItem usmcAccordionMenuLastListItem"><div class="lvl1 listItem"><div class="usmcMenuLinkHeader"><a href="/SeparateBattalions/2ndBattalion.aspx" target="_self" tabindex="0">2nd Battalion</a></div></div></li></ul></li><li data-index="1" title="Honors &amp; Lineage" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="/About/HonorsandLineage.aspx" target="_self" tabindex="0">Honors &amp; Lineage</a></div></div></li><li data-index="2" title="For the Families" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="/Resources/FortheFamilies.aspx" target="_self" tabindex="0">For the Families</a></div></div></li><li data-index="3" title="For the Marines" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="/Resources/FortheMarines.aspx" target="_self" tabindex="0">For the Marines</a></div></div></li><li data-index="4" title="Contact Us" class="usmcAccordionMenuListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="/ContactUs.aspx" target="_self" tabindex="0">Contact Us</a></div></div></li><li data-index="5" title="History" class="usmcAccordionMenuListItem usmcAccordionMenuLastListItem"><div class="usmcAccordionRootNode"><div class="lvl0"><a href="/About/History.aspx" target="_self" tabindex="0">History</a></div></div></li></ul>
+
+	</div>
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function () {
+            var stylePrefix = "usmc";
+            var moduleId = '10891';
+
+            var container = $("#dnn_ctr10891_View_AccordionContainer");
+            var enableMouseHover = false;
+            var shouldAutoCollapse = false;
+
+            var obj, li;
+
+            // ModuleTitleWrapper, keep sync'd with Edit page
+            var titleWrapper = $('#' + stylePrefix + 'ModuleTitleInnerWrapper' + moduleId);
+            var titleLink =  $('.' + stylePrefix + "ModuleTitleLink ");
+            var titleToggleThis = $('#' + stylePrefix + 'AccordionMenu' + moduleId);
+    
+            var WrapperToggleMenu = function (evt) {
+                $(titleToggleThis).slideToggle(200);
+                $(titleToggleThis).toggleClass(stylePrefix + "ModuleTitleExpanded");
+                
+                $(titleLink).attr("aria-expanded", function (_, attr) { return (attr === 'true') ? false : true; } ); 
+            };
+
+            //ensure keyboard toggles visibility
+            titleWrapper.keypress(function (e) {
+                if (e.keyCode === 13 || e.keyCode === 32) {
+                    return WrapperToggleMenu(e);
+                }
+            });
+
+            titleWrapper.on("click", function (evt) {
+                WrapperToggleMenu(evt);
+            });
+            //end ModuleTitleWrapper
+
+            // collapse other expanded items if needed
+            function collapseExpanded(clickedLi) {
+                var clickedLiIndex = clickedLi.attr('data-index');
+                var otherExpandedItems = $('.ftAccordionMenu > .ftAccordionMenuListItem[aria-expanded=true][data-index!= ' + clickedLiIndex + ']');
+
+                otherExpandedItems.each(function () {
+                    handleLiClick($(this));
+                });
+            }
+
+            // Clicks wrapper
+            function AccordionMenuDoWork(evt) {
+                obj = $(evt.target);
+                li = obj.closest("li");
+
+                if (obj.is("a")) {
+                    return true;
+                }
+
+                if (shouldAutoCollapse) {
+                    collapseExpanded(li);
+                }
+
+                handleLiClick(li);
+                
+                return false;
+            };
+
+            // Handle individual LI click
+            function handleLiClick(li) {
+                // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                if (toggleImage.length > 0) {
+                    if (stylePrefix == "af3" && !li.hasClass('af3-lock')) {
+                        li.toggleClass("af3-expand");
+                    }
+                    li.addClass('af3-lock');
+                    li.toggleClass("clickLock");
+                    var htmlSection = li.children(".htmlSection").eq(0);
+                    var ulSection = li.children("ul").eq(0);
+                    if (htmlSection.length > 0) {
+                        if (!htmlSection.is(":animated")) {
+                            // Make sure the li was clicked for html section
+                            if (obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+                            li.children(".tellmemore").toggleClass("hidetellmemore", 150);
+                            li.toggleClass("liHover");
+                            htmlSection.slideToggle(300, function () {
+                                toggleImage.toggleClass(stylePrefix + "AccordionMenuExpanded");
+                                ToggleExpandedItemTitleCSS(li);
+                                if (stylePrefix == "af3") {
+                                    li.removeClass('af3-lock');
+                                }
+                            });
+                        }
+                    }
+                    else if (ulSection.length > 0) {
+                        if (!ulSection.is(":animated")) {
+                            li.toggleClass("liHover");
+                            ulSection.slideToggle(300, function () {
+                                toggleImage.toggleClass(stylePrefix + "AccordionMenuExpanded");
+                                ulSection.children(".tellmemore").toggleClass("hidetellmemore");
+                                ToggleExpandedItemTitleCSS(li);
+                                if (stylePrefix == "af3") {
+                                    li.removeClass('af3-lock');
+                                }
+                            });
+                        }
+                    }
+                }
+            }
+            
+            //open/close on enter
+            container.keypress(function (e) {
+                if (e.keyCode === 13 || e.keyCode === 32) {
+                    return AccordionMenuDoWork(e);
+                }
+            });
+
+            // open/close on click
+            container.on("click", function (evt) {
+                AccordionMenuDoWork(evt);
+            });
+
+            if (enableMouseHover) {
+                //open/close on mouse-over
+                container.find("li").on("mouseenter", function (evt) {
+                    obj = $(evt.target);
+                    li = obj.closest("li");
+
+                    ExpandItemTitleCSS(li);
+                });
+
+                container.find("li").on("mouseleave", function (evt) {
+                    obj = $(evt.target);
+                    li = obj.closest("li");
+
+                    CollapseItemTitleCSS(li);
+
+                    if (li.next().length == 0 && li.prev().length == 0) {
+                        if (li.children("." + stylePrefix + "AccordionMenuCollapsed").length == 0) {
+                            var parentNode = li.parent();
+                            var parentCount = 0;
+                            while (!parentNode.hasClass("acAccordionMenu") && parentCount < 5000) {
+                                if (parentNode.hasClass("liHover")) {
+                                    CollapseItemTitleCSS(parentNode);
+                                }
+                                parentNode = parentNode.parent();
+                                parentCount++;
+                            }
+                        }
+                    }
+                });
+                container.on("mouseleave", function (evt) {
+                    container.find("li").each(function (idx, liHover) {
+                        CollapseItemTitleCSS(jQuery(liHover));
+                    });
+                });
+
+                function ExpandItemTitleCSS(li) {
+                    // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                    var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                    if (toggleImage.length > 0) {
+                        var htmlSection = li.children(".htmlSection").eq(0);
+                        var ulSection = li.children("ul").eq(0);
+
+                        if (htmlSection.length > 0) {
+                            // Make sure the li was clicked for html section
+                            if (obj && obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+
+                            if (li.hasClass("clickLock") != true && toggleImage.hasClass(stylePrefix + "AccordionMenuExpanded") == false) {
+                                li.children(".tellmemore").removeClass("hidetellmemore");
+                                li.addClass("liHover");
+                                htmlSection.data("animation", setTimeout(function () {
+                                    htmlSection.slideDown(300);
+                                    toggleImage.addClass(stylePrefix + "AccordionMenuExpanded");
+                                    ExpandExpandedItemTitleCSS(li);
+                                }, 100));
+                            }
+                        }
+                        else if (ulSection.length > 0) {
+                            if (li.hasClass("clickLock") != true && toggleImage.hasClass(stylePrefix + "AccordionMenuExpanded") == false) {
+                                li.addClass("liHover");
+                                ulSection.data("animation", setTimeout(function () {
+                                    ulSection.slideDown(300);
+                                    toggleImage.addClass(stylePrefix + "AccordionMenuExpanded");
+                                    ulSection.children(".tellmemore").removeClass("hidetellmemore");
+                                    ExpandExpandedItemTitleCSS(li);
+                                }, 100));
+                            }
+                        }
+                    }
+                }
+
+                function ExpandExpandedItemTitleCSS(li) {
+                    li.attr("aria-expanded", false);
+
+                    var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                    if (rootNode.length > 0) {
+                        rootNode.addClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                    else {
+                        li.find("." + stylePrefix + "MenuLinkHeader").eq(0).addClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                }
+
+                function CollapseItemTitleCSS(li) {
+                    // Toggle slide if has items - has items if div.{template}AccordionMenuCollapsed present
+                    var toggleImage = li.children("." + stylePrefix + "AccordionMenuCollapsed");
+                    if (toggleImage.length > 0) {
+                        var htmlSection = li.children(".htmlSection").eq(0);
+                        var ulSection = li.children("ul").eq(0);
+
+                        if (htmlSection.length > 0) {
+                            // Make sure the li was clicked for html section
+                            if (obj && obj.closest(".htmlSection").length > 0) {
+                                return true;
+                            }
+
+                            if (li.hasClass("clickLock") != true) {
+                                li.children(".tellmemore").addClass("hidetellmemore");
+                                li.removeClass("liHover");
+                                clearTimeout(htmlSection.data("animation"));
+                                jQuery.removeData(htmlSection, "animation");
+                                htmlSection.slideUp(300, function () {
+                                    toggleImage.removeClass(stylePrefix + "AccordionMenuExpanded");
+                                    CollapseExpandedItemTitleCSS(li);
+                                });
+                            }
+                        }
+                        else if (ulSection.length > 0) {
+                            if (li.hasClass("clickLock") != true) {
+                                li.removeClass("liHover");
+                                clearTimeout(ulSection.data("animation"));
+                                jQuery.removeData(ulSection, "animation");
+                                ulSection.slideUp(300, function () {
+                                    toggleImage.removeClass(stylePrefix + "AccordionMenuExpanded");
+                                    ulSection.children(".tellmemore").addClass("hidetellmemore");
+                                    CollapseExpandedItemTitleCSS(li);
+                                });
+                            }
+                        }
+                    }
+                }
+
+                function CollapseExpandedItemTitleCSS(li) {
+                    li.attr("aria-expanded", false);
+
+                    var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                    if (rootNode.length > 0) {
+                        rootNode.removeClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                    else {
+                        li.find("." + stylePrefix + "MenuLinkHeader").eq(0).removeClass(stylePrefix + "AccordionMenuExpandedItem");
+                    }
+                }
+            }
+
+            // toggle the child to have/remove expanded classes 
+            function ToggleExpandedItemTitleCSS(li) {
+                li.attr("aria-expanded", function (_, attr) { return (attr === 'true') ? false : true; });
+                
+                var rootNode = li.find("." + stylePrefix + "AccordionRootNode");
+                if (rootNode.length > 0) {
+                    rootNode.toggleClass(stylePrefix + "AccordionMenuExpandedItem");
+                }
+                else {
+                    li.find("." + stylePrefix + "MenuLinkHeader").eq(0).toggleClass(stylePrefix + "AccordionMenuExpandedItem");
+                }
+            }
+            
+        });
+    })(jQuery);
+</script>
+
+<script type="text/javascript">
+    (function ($) {
+        $(document).ready(function () {
+            $(".ac-jump-menu").change(function (e) {
+
+                var destination = $(this).val();
+                var isNewWindow = $(this).find(':selected').data('new-window');
+                var url = generateUrl(destination);
+
+                $('.ac-jump-menu-warning').hide();
+                if (destination) {
+                    if (isNewWindow == "True") {
+                        var win = window.open(url, '_blank');
+                        if (win) {
+                            //Browser has allowed it to be opened
+                            win.focus();
+                        }
+                    } else {
+                        $('.ac-jump-menu-success').show();
+                        window.location.href = url;
+                    }
+                }
+            });
+
+            function generateUrl(destination) {
+
+                let url = destination;
+
+                if (destination.indexOf("http") > -1) {
+                    url = destination;
+                }
+
+                if (destination.indexOf("TabID=") == 0) {
+                    url = '/?' + destination;
+                }
+
+                return url;
+            }
+        });
+    })(jQuery);
+</script>
+
+
+
+
+
+
+</div><!-- End_Module_10891 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-LiveHTML DnnModule-71088"><a name="71088"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr71088_dnnTitle_titleLabel" class="font">Spacer</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr71088_ContentPane" class="containerpane"><!-- Start_Module_71088 --><div id="dnn_ctr71088_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper71088" class="livehtml"><p><a href="https://www.lejeune.marines.mil/COVID-19/"><img alt="" src="https://media.defense.gov/2020/Mar/06/2002260610/218/120/0/200306-M-UH385-0001.JPG" style="width: 218px; height: 69px;" title=""></a></p>
+</div>
+</div><!-- End_Module_71088 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-DNN_Documents DnnModule-118557"><a name="118557"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr118557_dnnTitle_titleLabel" class="font">Regiment Resources</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr118557_ContentPane" class="containerpane"><!-- Start_Module_118557 --><div id="dnn_ctr118557_ModuleContent" class="DNNModuleContent ModDNNDocumentsC">
+	
+<div class="DNN_Documents">
+  <table class="dnnGrid" id="dnn_ctr118557_Document_grdDocuments" style="width:100%;border-collapse:collapse;" cellspacing="0">
+		<tbody><tr class="dnnGridHeader" valign="top">
+			<td>&nbsp;</td><td class="TitleHeader" scope="col">Title</td><td class="DownloadHeader" scope="col">&nbsp;</td>
+		</tr><tr class="dnnGridItem" align="left">
+			<td>
+          
+        </td><td class="TitleCell"><a id="dnn_ctr118557_Document_grdDocuments_ctlTitle_0" href="/LinkClick.aspx?fileticket=Z1lqAVmhPPI%3d&amp;tabid=1765&amp;portalid=35&amp;mid=118557" target="_blank">Regiment Resources</a></td><td class="DownloadCell"><a id="dnn_ctr118557_Document_grdDocuments_ctlDownloadLink_0" href="/LinkClick.aspx?fileticket=Z1lqAVmhPPI%3d&amp;tabid=1765&amp;portalid=35&amp;mid=118557" target="_blank">Download</a></td>
+		</tr>
+	</tbody></table>
+  </div>
+
+</div><!-- End_Module_118557 --></div>
+</div>
+
+</div><div class="DnnModule DnnModule-LiveHTML DnnModule-61634"><a name="61634"></a>
+
+<div class="whitebc base-container">
+	<div class="cheader">
+		<div class="title"><span id="dnn_ctr61634_dnnTitle_titleLabel" class="font">Text/HTML</span>
+
+
+</div>
+		<div class="rss">
+
+        </div>
+	</div>
+	<div class="arrw"></div>
+	<div id="dnn_ctr61634_ContentPane" class="containerpane"><!-- Start_Module_61634 --><div id="dnn_ctr61634_ModuleContent" class="DNNModuleContent ModLiveHTMLC">
+	<div id="LiveHTMLWrapper61634" class="livehtml"><div style="text-align: center;"><a href="https://www.safehelpline.org/"><img alt="DoD Safe Helpline" src="data:image/png;base64,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" title="DoD Safe Helpline"></a></div>
+</div>
+</div><!-- End_Module_61634 --></div>
+</div>
+
+</div></div>
+        </div>
+    </div>
+</div>
+
+
+<footer id="footer">
+    <div id="dnnfooterbox">
+        <div class="skinwidth">
+            <div class="fleft siteinfo">
+                <div class="fleft">
+                    <a href="http://www.marines.mil">
+                        <img src="/Portals/_default/Skins/MarineUnit2/Resources/img/marines.png" alt="Marines" class="largelogo">
+                    </a>
+                </div>
+                <div id="dnn_Footer_Div1" class="fright">
+                    <div id="SocialMedia">
+                        <a href="https://www.facebook.com/marines" title="Follow Us On Facebook" class="icoFacebook" target="_blank" rel="noopener"></a>
+                        <a href="https://twitter.com/usmc" title="Follow Us On Twitter" class="icoTwitter" target="_blank" rel="noopener"></a>
+                        <a href="https://www.youtube.com/Marines" title="Follow Us On YouTube" class="icoYouTube" target="_blank" rel="noopener"></a>
+                        <a href="https://www.flickr.com/marine_corps/" title="Follow Us On Flickr" class="icoFlickr" target="_blank" rel="noopener"></a>
+                    </div>
+                </div>
+                <div class="clr line">
+                </div>
+                <div class="fleft links">
+                    <a href="https://www.marines.mil/News">News</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Photos">Photos</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Units">Units</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Leaders">Leaders</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Marines">Marines</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Family">Family</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Community">Community Relations</a><span class="spacer">|</span>
+                    <a href="https://www.marines.mil/Privacy-Policy">PRIVACY</a><span class="spacer">|</span>
+                    <a href="https://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank" rel="noopener">Accessibility</a><span class="spacer">|</span>
+                    <a href="https://www.hqmc.marines.mil/Agencies/USMC-FOIA">FOIA</a><span class="spacer">|</span>
+                    <a href="https://prhome.defense.gov/NoFear/" target="_blank" rel="noopener">No Fear Act </a><span class="spacer">|</span>
+                    <a href="https://www.usa.gov/" target="_blank" rel="noopener">USA.gov</a><span class="spacer">|</span>
+                    <a href="https://www.veteranscrisisline.net/" target="_blank" rel="noopener">Crisis Line</a><span class="spacer">|</span>
+                    <a href="https://www.usmc-mccs.org/services/support/dstress-line/">DSTRESS</a>
+                </div>
+                <div class="clr"></div>
+            </div>
+            <div class="fright smalllogo">
+                <a href="http://www.marines.mil">
+                    <img src="/Portals/_default/Skins/MarineUnit2/Resources/img/smalllogo.png" alt="Marines" width="53" height="55">
+                </a>
+            </div>
+            <div class="clr"> </div>
+            <div class="skin-social hidden-md hidden-lg"><div class="social-item social-icon-fb "><a title="Facebook" target="_blank" rel="noopener" href="http://www.facebook.com/marines"><span class="fa fa-facebook fa-inverse"></span></a></div><div class="social-item social-icon-twitter "><a title="Twitter" target="_blank" rel="noopener" href="https://twitter.com/#!/usmc"><span class="fa fa-twitter fa-inverse"></span></a></div><div class="social-item social-icon-youtube "><a title="YouTube" target="_blank" rel="noopener" href="http://www.youtube.com/Marines"><span class="fa fa-youtube fa-inverse"></span></a></div><div class="social-item social-icon-instagram "><a title="Instagram" target="_blank" rel="noopener" href="http://www.instagram.com/marines"><span class="fa fa-instagram fa-inverse"></span></a></div><div class="social-item social-icon-pinterest "><a title="Pinterest" target="_blank" rel="noopener" href="http://www.pinterest.com/usmc/"><span class="fa fa-pinterest fa-inverse"></span></a></div><div class="social-item social-icon-flickr "><a title="Flickr" target="_blank" rel="noopener" href="http://www.flickr.com/photos/marine_corps/"><span class="fa fa-flickr fa-inverse"></span></a></div><div class="social-item social-icon-rss "><a title="RSS" target="_blank" rel="noopener" href="http://www.marines.mil/News/Feeds.aspx"><span class="fa fa-rss fa-inverse"></span></a></div></div>
+        </div>
+    </div> 
+</footer>
+
+
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`1765`}">
+        <script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=2031" type="text/javascript"></script>
+    </form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=2031|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=2031|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/MarineUnit2/skin.css?cdv=2031|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/HTML/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/AccordionMenu/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/Documents/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/Documents/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/MarineUnit2/container.css?cdv=2031|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/SiteData/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/SiteData/module.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/35/portal.css?cdv=2031|DnnPageHeaderProvider|35)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/font-awesome/css/font-awesome.min.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=2031|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/Marine2/style.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=2031|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Css|/DesktopModules/AccordionMenu/CSS/Templates/usmc.css?cdv=2031|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/js/dnn.js?cdv=2031|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=2031|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=2031|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=2031|DnnPageHeaderProvider|14)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=2031|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=2031|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=2031|DnnPageHeaderProvider|6)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=2031|DnnPageHeaderProvider|10)-->
+    
+
+
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><div id="usasearch_sayt" style="background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; border: 0px none; display: block; float: none; height: 0px; line-height: 0; margin: 0px; padding: 0px; position: static; width: 0px;"><ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul><ul id="ui-id-2" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front" style="display: none;"></ul></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div><div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></div></body></html>
